@@ -1,37 +1,49 @@
-let name = document.querySelector("#name");
-let email = document.querySelector("#email");
-let message = document.querySelector("#message");
-let error = document.querySelector(".error");
-let btn = document.querySelector("button");
-let success = document.querySelector(".success");
+const form = document.getElementById('contactForm')
+const url = 'https://bfgbf9kvv6.execute-api.eu-central-1.amazonaws.com/dev/email/send'
+const toast = document.getElementById('postsuccess')
+const submit = document.getElementById('submit')
 
-btn.addEventListener("click", submit);
-
-function submit(e) {
-  e.preventDefault();
-
-  var xhr = new XMLHttpRequest();
-  xhr.open("POST", "https://jh2svojhn5.execute-api.eu-central-1.amazonaws.com/dev", true);
-
-  xhr.setRequestHeader("Content-type", "application/json");
-  xhr.onreadystatechange = function() {
-    if (xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
+function post(url, body, callback) {
+  var req = new XMLHttpRequest();
+  req.open("POST", url, true);
+  req.setRequestHeader("Content-Type", "application/json");
+  req.addEventListener("load", function () {
+    if (req.status < 400) {
+      callback(null, JSON.parse(req.responseText));
+    } else {
+      callback(new Error("Request failed: " + req.statusText));
     }
-  };
-  var data = {
-    name: name.value,
-    email: email.value,
-    message: message.value
-  };
-
-  if (name.value && email.value && message.value) {
-    success.style.display = "block";
-    success.innerHTML = "Bedankt voor je bericht";
-    document.querySelector(".all").style.display = "none";
-    xhr.send(JSON.stringify(data));
-
-  } else {
-      error.style.display = "block";
-      error.innerHTML = "Vul alle gegevens in, alsjeblieft...";
-  }
+  });
+  req.send(JSON.stringify(body));
 }
+function success () {
+  toast.innerHTML = 'Bedankt voor uw bericht. We reageren zo snel mogelijk.'
+  submit.disabled = false
+  submit.blur()
+  form.name.focus()
+  form.name.value = ''
+  form.email.value = ''
+  form.content.value = ''
+}
+function error (err) {
+  toast.innerHTML = 'Er is een probleem opgetreden met het verzenden van uw bericht. Probeert u het later nogmaals.'
+  submit.disabled = false
+  console.log(err)
+}
+
+form.addEventListener('submit', function (e) {
+  e.preventDefault()
+  toast.innerHTML = 'Versturen'
+  submit.disabled = true
+
+  const payload = {
+    initials: form.initials.value,
+    lastname: form.lastname.value,
+    email: form.email.value,
+    message: form.message.value
+  }
+  post(url, payload, function (err, res) {
+    if (err) { return error(err) }
+    success()
+  })
+})
