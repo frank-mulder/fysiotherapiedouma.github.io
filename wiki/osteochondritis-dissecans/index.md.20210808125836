@@ -1,0 +1,59 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-03-24 09:30:28+00:00
+draft: false
+isentity: true
+title: Osteochondritis dissecans
+type: wiki
+url: /wiki/osteochondritis-dissecans/
+categories:
+- Gewrichten
+tags:
+- enkelgewricht
+- gewrichtspijn
+- kniegewricht
+- loszittend kraakbeen
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-03-24
+datemodified: 2020-05-12
+
+about: MedicalCondition
+
+snomed_code: 82562007
+
+description: Osteochondritis dissecans (OCD) is een aandoening die schade toebrengt aan het kraakbeen en het onderliggende bot in een gewricht. Als deze schade zich voordoet, komt een stukje van het kraakbeen los van het bot. OCD komt vooral voor bij mensen tussen 10 en 20 jaar, en treft over het algemeen meer mannen dan vrouwen. De gewrichten waarin deze aandoening zich het vaakst voordoet zijn de knie en de enkel, omdat dat gewicht-dragende gewrichten zijn. OCD kan worden veroorzaakt door herhaald trauma of door een eenmalige traumatische gebeurtenis. Indien vroeg ontdekt, kan OCD goed door een fysiotherapeut behandeld worden.
+
+symptoms:
+  - name: Pijn bij bewegen van het gewricht
+    code:
+      codeValue: "298255009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van het aangedane gebied na activiteit
+    code:
+      codeValue: "722192005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Beperkte mobiliteit van het gewricht (bewegingsbereik)
+    code:
+      codeValue: "298222004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid van gewricht
+    code:
+      codeValue: "84445001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid voor aanraking langs het aangedane gewricht
+    code:
+      codeValue: "110288007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een ploppend, krakend of knarsend gevoel als het aangedane gewricht wordt bewogen; pijn, stijfheid of “op slot gaan” na langdurig zitten met gebogen of gestrekte knie
+
+  - name: Erger wordende pijn tijdens of na activiteit, vooral bij lopen, rennen, springen of van richting veranderen. Kinderen kunnen klagen over pijn tijdens de pauze op school of gymnastiek.
+---

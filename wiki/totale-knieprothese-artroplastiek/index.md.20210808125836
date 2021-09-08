@@ -1,0 +1,56 @@
+---
+author: janneke-douma-alberts
+date: 2017-05-08 14:11:42+00:00
+draft: false
+isentity: true
+title: Totale knieprothese (artroplastiek)
+type: wiki
+url: /wiki/totale-knieprothese-artroplastiek/
+categories:
+- Gewrichten
+- Knie
+tags:
+- femur
+- knieprothese
+- prothese
+- tibia
+- TKP
+
+alternate_names:
+  -
+
+datepublished: 2017-05-08
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 313062001
+
+description: Een totale knieprothese houdt in dat beide uiteinden van de botten in het kniegewricht, de tibia (scheenbeen) en de femur (dijbeen) worden verwijderd en vervangen door kunstmatige delen. De vervangende delen bestaan uit een metalen kap die op het einde van de femur wordt geplaatst en een plastic kap bovenop het scheenbeen. Soms wordt een plastic tussenstuk gebruikt om de knieschijf te vervangen.
+
+symptoms:
+  - name: Artrose
+    code:
+      codeValue: "396275006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewrichtspijn van knie
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid van kniegewricht
+    code:
+      codeValue: "299372009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van kniegewricht
+    code:
+      codeValue: "239721001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Reumatoïde artritis
+    code:
+      codeValue: "69896004"
+      codingSystem: "SNOMED-CT"
+---

@@ -1,0 +1,57 @@
+---
+author: petra-tuunter
+date: 2016-12-19 10:18:49+00:00
+draft: false
+isentity: true
+title: Onderbeenamputatie
+type: wiki
+url: /wiki/onderbeenamputatie/
+categories:
+- Onderbeen
+tags:
+- amputatie
+- fantoompijn
+- knie
+- onderbeen
+- onderbeenamputatie
+- prothese
+- stompsok
+
+alternate_names:
+  -
+
+datepublished: 2016-12-19
+datemodified: 2020-05-06
+
+about: MedicalCondition
+
+snomed_code: 105241000146106
+
+description: Amputatie van het onderste ledemaat is een chirurgische procedure die wordt uitgevoerd om een ledemaat te verwijderen dat beschadigd is door trauma of ziekte. Onderbeenamputatie of “trans-tibiale” amputatie vormt 23% van de amputaties van lagere ledematen. Amputatie is in elke leeftijdsgroep mogelijk, maar komt vooral voor bij mensen van 65 jaar en ouder.
+
+symptoms:
+  - name: Perifere arteriële vaatziekte
+    code:
+      codeValue: "399957001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Diabetes
+    code:
+      codeValue: "73211009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Kanker
+    code:
+      codeValue: "363346000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Infectie van voet
+    code:
+      codeValue: "299990002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Traumatische amputatie van onderbeen
+    code:
+      codeValue: "735859000"
+      codingSystem: "SNOMED-CT"
+---

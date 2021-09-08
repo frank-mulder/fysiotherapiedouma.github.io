@@ -1,0 +1,76 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-02-09 12:10:32+00:00
+draft: false
+isentity: true
+title: Hernia
+type: wiki
+url: /wiki/hernia/
+categories:
+- Bil
+- Bovenbeen
+- Neurologie
+- Wervelkolom
+tags:
+- annulus
+- hernia
+- nekhernia
+- nucleus
+- radiculopathie
+- reflex
+- tintelingen
+- tussenwervelschijf
+- uitstraling
+
+alternate_names:
+  -
+
+datepublished: 2017-02-09
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 84857004
+
+description: Geschat wordt dat 75% van ons allemaal op enig moment in ons leven enige vorm van rug- of nekpijn zal krijgen. Het goede nieuws is dat de meesten van ons zonder een operatie zullen herstellen – en dat conservatieve zorg zoals fysiotherapie vaak betere resultaten geeft dan een operatie. Een hernia is één van de oorzaken van nek- en rugpijn.
+
+symptoms:
+  - name: Tintelingen
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte van rug
+    code:
+      codeValue: "249938007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn
+    code:
+      codeValue: "22253000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Doof gevoel
+    code:
+      codeValue: "44077006"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - WIYVgxCt1EA
+  - Na3963B1xTU
+  - QSj4nPpNs9Y
+  - i7A92VFteAs
+  - Ae0BJ7V-Xzk
+  - LxIZGEfEKok
+  - mfcXNPfDdxw
+  - 2utlvzNwhnQ
+  - e98LZssEh7s
+  - jCGmOIE3P2k
+  - yd7EqGgZFPI
+  - 9G-M0PJlua0
+  - k6fNyq14OVQ
+  - ANjAYGPgwR4
+  - 6qNufTpnKz8
+---
+
+Een hernia is één van de oorzaken van nek- en rugpijn.

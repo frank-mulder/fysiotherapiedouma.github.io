@@ -1,0 +1,56 @@
+---
+author: petra-tuunter
+date: 2017-02-20 14:24:10+00:00
+draft: false
+isentity: true
+title: Incontinentie
+type: wiki
+url: /wiki/incontinentie/
+categories:
+- Bekken
+tags:
+- bekken
+- bekkenbodem spieren
+- ongewild verlies
+- sluitspieren
+- stress incontinentie
+- urineverlies
+
+alternate_names:
+  -
+
+datepublished: 2017-02-20
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 48340000
+
+description: We spreken van urine-incontinentie wanneer er sprake is van een ongewild urineverlies. Dat kan door een spier- of zenuwbeschadiging, infectie of een bestaande ziekte ontstaan. Bij blaascontroleproblemen gaat het echter om meer dan alleen urineverlies.
+
+symptoms:
+  - name: Urineverlies
+    code:
+      codeValue: "165232002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Problemen met plassen
+    code:
+      codeValue: "102835006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlaagde tonus van bekkenbodemspieren
+    code:
+      codeValue: "289879005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Overactive bladder
+    code:
+      codeValue: "786457000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Delier
+    code:
+      codeValue: "2776000"
+      codingSystem: "SNOMED-CT"
+---

@@ -1,0 +1,63 @@
+---
+author: olivier-blaauw
+date: 2017-05-16 07:55:47+00:00
+draft: false
+isentity: true
+title: Polsbreuk
+type: wiki
+url: /wiki/polsbreuk/
+categories:
+- Bot
+- Fractuur
+- Pijn
+- Pols
+tags:
+- fractuur
+- gebroken pols
+- gips
+- mitella
+- polsbreuk
+- vallen
+
+alternate_names:
+  -
+
+datepublished: 2017-05-16
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 208388003
+
+description: Een polsbreuk is een fractuur van één van de botten bij de pols. In Nederland is 1 van elke 10 gediagnosticeerde gebroken botten een polsbreuk. Het letsel kan zich voordoen ten gevolge van trauma, zoals vallen tijdens sport of simpelweg struikelen als u op de stoep loopt.
+
+symptoms:
+  - name: Zwelling in de pols en mogelijk ook in de hand, meestal in het bovenoppervlak van de pols en hand
+    code:
+      codeValue: "298941006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in het gebied van de breuk, wat overal in de pols kan zijn, afhankelijk van welk bot is aangedaan. De pijn kan vanuit de pols naar de vingers en zelfs tot in de onderarm stralen
+    code:
+      codeValue: "56608008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid voor aanraking in de pols
+    code:
+      codeValue: "299017002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte van hand
+    code:
+      codeValue: "299042006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite en pijn bij het bewegen van de pols of de vingers.
+videos:
+  - cgeEOAMCRIY
+  - UZtmdXQPfn8
+  - PTbk1jb5QQ4
+  - 2dpojdi5raw
+  - Mr1FutiGdVk
+  - UUgrtkRI6Xw
+---

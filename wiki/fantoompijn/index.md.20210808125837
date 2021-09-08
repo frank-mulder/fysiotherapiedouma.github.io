@@ -1,0 +1,58 @@
+---
+author: sanne-de-nijs
+date: 2017-05-02 09:21:02+00:00
+draft: false
+isentity: true
+title: Fantoompijn
+type: wiki
+url: /wiki/fantoompijn/
+categories:
+- Bovenarm
+- Bovenbeen
+- Hand
+- Onderarm
+- Onderbeen
+tags:
+- amputatie
+- fantoomgevoel
+- fantoompijn
+- geamputeerd
+- lichaamsdeel
+- prothese
+- stomppijn
+
+alternate_names:
+  -
+
+datepublished: 2017-05-02
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 5771000119106
+
+description : Als een ledemaat (arm of been) is geamputeerd, kan het gevoel dat het geamputeerde lichaamsdeel nog aan het lichaam vast zit aanhouden. Dit fenomeen wordt “fantoomgevoel” genoemd. Fantoomgevoel kan pijnlijk zijn en wordt daarom meestal aangeduid als “fantoompijn”. Ongeveer 80% van alle geamputeerden ervaren fantoompijn.
+
+symptoms:
+  - name: Fantoomgevoel
+    code:
+      codeValue: "193114000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tintelingen
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Brandende pijn
+    code:
+      codeValue: "36349006"
+      codingSystem: "SNOMED-CT"
+
+  - name: bonzende pijn
+    code:
+      codeValue: "29695002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stomppijn
+---

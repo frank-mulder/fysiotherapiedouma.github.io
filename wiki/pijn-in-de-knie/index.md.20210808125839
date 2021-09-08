@@ -1,0 +1,65 @@
+---
+author: olivier-blaauw
+date: 2017-02-24 10:24:44+00:00
+draft: false
+isentity: true
+title: Pijn in de knie
+type: wiki
+url: /wiki/pijn-in-de-knie/
+categories:
+- Knie
+tags:
+- gonartrose
+- kniefunctie
+- knieklachten
+- pijn in de knie
+
+alternate_names:
+  -
+
+datepublished: 2017-02-24
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 30989003
+
+description: Pijn in de knie kan worden veroorzaakt door ziekte of letsel. Pijn in de knie is in de afgelopen 20 jaar steeds vaker gaan voorkomen, met gewrichtsslijtage als meest voorkomende oorzaak bij mensen boven de 50. Pijn in de knie die veroorzaakt is door letsel is meestal gerelateerd aan scheuren in het kraakbeen in de knie.
+
+symptoms:
+  - name: Anterieure pijn in de knie
+    code:
+      codeValue: "239733006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewrichtsontsteking
+    code:
+      codeValue: "3723001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Kniegewricht pijnlijk bij beweging
+    code:
+      codeValue: "299377003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewrichtspijn van knie
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Problemen met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - WVal4FR2KT4
+  - RIL_mhNtC-s
+  - 8WqA9rVRbOE
+---
+
+Knieletsel kan zich voordoen ten gevolge van een directe klap of plotselinge beweging waardoor de [knie](/categories/knie/) voorbij het normale bewegingsbereik strekt. Pijn in de knie kan problemen veroorzaken met activiteiten zoals lopen, opstaan uit een stoel, traplopen of sporten. Fysiotherapeuten zijn speciaal opgeleid om [pijn](/wiki/pijn/) in de knie te helpen vast te stellen en behandelen, en mensen te helpen om hun gewone gang weer te gaan zonder dat ze pijn hebben of beperkt worden.

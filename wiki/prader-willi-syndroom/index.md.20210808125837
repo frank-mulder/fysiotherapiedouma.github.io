@@ -1,0 +1,71 @@
+---
+author: petra-tuunter
+date: 2017-05-09 08:55:48+00:00
+draft: false
+isentity: true
+title: Prader-Willi Syndroom
+type: wiki
+url: /wiki/prader-willi-syndroom/
+categories:
+- Genetisch
+- Kind
+tags:
+- amandelvormige ogen
+- chromosoom 15
+- klein postuur
+- obesitas
+- opvallende kenmerken
+- Prader
+
+alternate_names:
+  -
+
+datepublished: 2017-05-09
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 89392001
+
+description: Prader-Willi Syndroom is een gecompliceerde genetische aandoening, die veel lichaamsdelen treft en meestal leidt tot lichte tot gemiddelde intellectuele beperking. Baby’s die met Prader-Willi Syndroom worden geboren hebben over het algemeen een lage spierspanning, moeite met eten/zuigen en blijven achter in hun ontwikkeling. Tussen de leeftijd van 1 en 4 jaar ontwikkelen kinderen met het syndroom een onverzadigbare eetlust, met snelle gewichtstoename tot gevolg en wellicht obesitas.
+
+symptoms:
+  - name: Hypotonie (lage spierspanning)
+    code:
+      codeValue: "398152000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Scoliose (kromming van de rug)
+    code:
+      codeValue: "298382003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Voedingsprobleem
+    code:
+      codeValue: "78164000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewichtstoename
+    code:
+      codeValue: "8943002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Congenitale heupdysplasie
+    code:
+      codeValue: "52781008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Afgenomen botdichtheid
+
+  - name: Klein postuur (ten gevolge van een tekort aan groeihormoon) met kleine handen en voeten
+
+  - name: Ademhalingsproblemen tijdens de slaap (zoals slaapapneu)
+
+  - name: Ontbrekende of onvolledige puberteit
+
+  - name: Gedrags- en leeruitdagingen
+
+  - name: Zichtproblemen
+
+  - name: Ongevoeligheid voor pijn, waardoor andere symptomen gemaskeerd kunnen blijven
+---

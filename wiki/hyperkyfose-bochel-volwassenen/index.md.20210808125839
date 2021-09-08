@@ -1,0 +1,61 @@
+---
+author: manon-klarenbeek
+date: 2017-02-10 11:20:09+00:00
+draft: false
+isentity: true
+title: Hyperkyfose (Bochel) bij volwassenen
+type: wiki
+url: /wiki/hyperkyfose-bochel-volwassenen/
+categories:
+- Reuma
+- Wervelkolom
+tags:
+- bochel
+- bolle rug
+- hyperkyfose
+- ronde rug
+- statische houding
+- verbening
+
+alternate_names:
+  -
+
+datepublished: 2017-02-10
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 298493002
+
+description : Hyperkyfose is een misvorming van de ruggengraat waardoor een naar voren gebogen houding van de bovenrug of thoracale ruggengraat ontstaat. Uw houding is de karakteristieke wijze waarop u uw lichaam positioneert; een normale houding verandert talloze keren per dag. Soms echter kan iemands houding overdreven of statisch worden. Dit is het geval met hyperkyfose (soms ook wel “bochel” of “ronde rug” genoemd). De kromming van de bovenrug begint bij mensen van boven de 40 toe te nemen en gaat verder met het ouder worden. Aangenomen wordt dat 20% tot 40% van alle oudere volwassenen – mannen en vrouwen – hyperkyfose zullen ontwikkelen.
+
+symptoms:
+  - name: Zich “uit evenwicht” voelt en/of uw evenwicht verliest of bijna valt
+    code:
+      codeValue: "282299006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zich vermoeider dan normaal voelt
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderde mobiliteit
+    code:
+      codeValue: "8510008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Problemen met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite heeft om uit een stoel of uit bed of uit bad te komen
+
+  - name: Moeite heeft met ademhalen (in ernstiger gevallen)
+
+videos:
+  - KGbwxK38uEo
+  - yUF2g4cQ7iY
+  - ElCQBKB-M4I
+---

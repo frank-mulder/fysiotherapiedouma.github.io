@@ -1,0 +1,55 @@
+---
+author: frank-mulder
+date: 2017-02-16 18:41:01+00:00
+draft: false
+isentity: true
+title: Iliotibiale band syndroom
+type: wiki
+url: /wiki/iliotibiale-band-syndroom/
+categories:
+- Knie
+tags:
+- buitenste knieklachten
+- hardloopblessure
+- heupspieren
+- illiotibialis
+- overbelasting
+- wielrenblessure
+
+alternate_names:
+  - runner's knee
+
+datepublished: 2017-02-16
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 423849004
+
+description : Het iliotibiale band syndroom (ITBS) is één van de meest voorkomende oorzaken van pijn in de knie, met name bij mensen die zich bezighouden met endurance sporten. Het is verantwoordelijk voor tot wel 12% van alle hardloopblessures en tot 24% van de wielrenblessures. ITBS wordt normaal gesproken conservatief aangepakt door middel van fysiotherapie en het tijdelijk aanpassen van activiteiten.
+
+symptoms:
+  - name: Zwelling aan de buitenkant van uw knie
+    code:
+      codeValue: "248491001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stekende of prikkende pijn aan de buitenkant van de knie
+    code:
+      codeValue: "55145008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Af en toe stijfheid en pijn aan de buitenkant van de heup
+    code:
+      codeValue: "249914008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een gevoel dat de ITB over de knie heen “knapt” bij buigen en strekken
+
+  - name: Continue pijn na activiteit, vooral na lopen, traplopen (op en af) of vanuit een zittende positie naar een staande gaan
+
+videos:
+  - rYv2QUNXbI0
+  - vvyV5OqrbF4
+  - iO1ZQRtoblo
+---

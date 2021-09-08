@@ -1,0 +1,59 @@
+---
+author: li-anne-douma
+date: 2017-02-23 10:10:05+00:00
+draft: false
+isentity: true
+title: Ziekte van Legg-Calvé-Perthes
+type: wiki
+url: /wiki/ziekte-legg-calve-perthes/
+categories:
+- Bovenbeen
+tags:
+- bloedtoevoer
+- heupaandoening
+- kinderen
+- Perthes
+
+alternate_names:
+  -
+
+datepublished: 2017-02-23
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 111255008
+
+description: De ziekte van Legg-Calvé-Perthes, een heupaandoening die alleen bij kinderen tussen de 3 en 13 jaar voorkomt, ontstaat ten gevolge van een verstoring in de bloedtoevoer naar de kop van het bovenbeen (de femur). Zonder bloedtoevoer verzwakt het bot (femurkop), leidt tot manklopen bij het kind en veroorzaakt pijn. Zonder behandeling kan de femurkop afsterven. Ongeveer 1 op 1.200 kinderen in Nederland zullen de ziekte van Legg-Calvé-Perthes ontwikkelen.
+
+symptoms:
+  - name: Pijn de heup bij bewegingen
+    code:
+      codeValue: "299308007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Manklopen zonder aanwijsbare reden (zoals letsel) dat enkele dagen aanhoudt
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in de knie bij bewegingen
+    code:
+      codeValue: "299377003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spieratrofie
+    code:
+      codeValue: "88092000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in dijbeen
+    code:
+      codeValue: "301773003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierspasmes
+
+  - name: Beperkte mobiliteit in de heup
+---
+Een (kinder) fysiotherapeut kan een [kind](/categories/kind/) met ziekte van Legg-Calvé-Perthes helpen om de mobiliteit in het heupgewricht te behouden, de [spieren](/categories/spieren/) rond de [heup](/categories/heup/) sterk te maken en braces of andere voorgeschreven apparaten te gebruiken terwijl de femurkop door verschillende stadia van herstel gaat.

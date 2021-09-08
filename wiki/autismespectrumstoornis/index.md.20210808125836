@@ -1,0 +1,88 @@
+---
+author: bas-van-baaden
+date: 2016-12-19 10:15:53+00:00
+draft: false
+isentity: true
+title: Autismespectrumstoornis
+type: wiki
+url: /wiki/autismespectrumstoornis/
+categories:
+- Kind
+- Neurologie
+tags:
+- autisme
+- autismespectrumstoornis
+- hypergevoelig
+- sociale communicatie
+- sociale omgang
+- vertraagde ontwikkeling
+
+alternate_names:
+  - pervasieve ontwikkelingsstoornis
+
+datepublished: 2016-12-19
+datemodified: 2020-04-24
+
+about: MedicalCondition
+
+snomed_code: 35919005
+
+description : Kinderen met autismespectrumstoornis (ASS) ervaren vertraging in de ontwikkeling van basisvaardigheden op bepaalde gebieden. Ze vinden het moeilijk om te communiceren en sociale omgang te hebben, en ze hebben beperkte en herhaalde gedragspatronen. Kinderen met ASS kunnen op routine draaien, zoals elke dag op dezelfde manier kleren aantrekken en kunnen zeer gevoelig zijn voor veranderingen in hun omgeving. Ze zijn vaak vertraagd in het verwerven van motorische (beweging) vaardigheden en kunnen het moeilijk hebben met coördinatie, houding en het kopiëren van de bewegingen van andere mensen. Symptomen van ASS beginnen laat in de babytijd of vroeg in de kindertijd; ze kunnen echter onopgemerkt blijven totdat het kind ouder is. Symptomen verschillen van licht tot ernstig.
+
+symptoms:
+  - name: Gedragsstoornis
+    code:
+      codeValue: "54319003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stoornis in motorische vaardigheden
+    code:
+      codeValue: "4949009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Coördinatieontwikkelingsstoornis
+    code:
+      codeValue: "27544004"
+      odingSystem: "SNOMED-CT"
+
+  - name: Probleem met sociale interactie
+    code:
+      codeValue: "88598008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Oogcontact vermijden
+
+  - name: Voorkeur om alleen te spelen en niet mee te gaan in verbeeldend spel
+
+  - name: Beperkte interesse in leeftijdsgenoten
+
+  - name: Gebrek aan betrokkenheid bij sociale interactie
+
+  - name: Vermijden van of weerstand tegen fysiek contact
+
+  - name: Moeite met het begrijpen van de gevoelens, lichaamstaal en toonval van anderen
+
+  - name: Gebrekkig begrip van de persoonlijke ruimte van anderen
+
+  - name: Vertraagde spraak- en taalvaardigheden
+
+  - name: Niet of weinig aanwijzen of reageren op aanwijzen
+
+  - name: Herhaalde spraak over een voorkeursonderwerp of herhaling van woorden of zinnen
+
+  - name: Zelfstimulatie door herhaalde activiteit (handen/armen wapperen, draaien, heen en weer bewegen)
+
+  - name: Van streek raken door kleine veranderingen of de behoefte om aan routine te hechten
+
+  - name: Obsessieve interesses, zoals het uitlijnen van speelgoed of andere voorwerpen
+
+  - name: Korte aandachtspanne, behalve voor voorkeursonderwerpen of –activiteiten
+
+  - name: Agressie, zelfverwonding of woede-uitbarstingen
+
+  - name: Gebrek aan gevoel van veiligheid
+
+  - name: Ongebruikelijke reacties op geluid, geur, smaak, zicht, tast of beweging
+
+
+---

@@ -1,0 +1,67 @@
+---
+author: kaj-moorman
+date: 2016-12-04 12:25:49+00:00
+draft: false
+isentity: true
+title: Achillespeesblessure (achillestendinopathie)
+type: wiki
+url: /wiki/achillespeesblessure-tendinopathie/
+
+categories:
+- Enkel
+- Onderbeen
+- Sportblessures
+
+tags:
+- achillespees
+- achillespeesblessure
+- kuitspieren
+- onderbeen
+- overbelasting
+- pees
+- peesontsteking
+
+alternate_names:
+  - achillespeesblessure
+  - irritatie van de achillespees
+  - achillespees letsel
+  - overbelasting van de achillespees
+
+datepublished: 2016-12-04
+datemodified: 2020-04-24
+
+maintopic: medicalcondition/achillestendinopathie
+
+mentions:
+  - anatomicalstructure/voet
+
+about: MedicalCondition
+
+snomed_code: 735856007
+
+description: "Letsel aan de achillespees (tendinopathie) is één van de meest voorkomende oorzaken van pijn achter de hiel en aan de achterkant van de enkel bij lopen of hardlopen. Hoewel achilles tendinopathie zowel actieve als inactieve mensen treft, komt het het meest voor bij actieve mensen: 24% van de atleten ontwikkelt de aandoening. 89% van alle achillespees letsel komt voor bij mannen en ongeveer 50% van alle hardlopers krijgen in hun hardloopcarrière te maken met pijn aan de achillespees. Bij iedereen kan achilles tendinopathie leiden tot beperking van het loopvermogen, traplopen of deelname aan recreatieve activiteiten."
+
+symptoms:
+  - name: Pijn aan de achterkant van de hiel
+    code:
+      codeValue: "2733002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid in de hiel of hoger op de achillespees
+
+  - name: Gevoeligheid in de enkel
+
+  - name: Gevoeligheid in de kuit
+
+  - name: Zwelling aan de achterkant van de enkel
+
+  - name: Pijn en stijfheid bij lopen, vooral in de eerste stappen
+
+videos:
+  - hx7Sbevet0Q
+  - XzIjVJA3pC8
+  - BRHY4wyA5qs
+  - D-fXVYfcQ7M
+  - L3v1fjwuFns
+  - iO1ZQRtoblo
+---

@@ -1,0 +1,66 @@
+---
+author: olivier-blaauw
+date: 2017-05-06 09:29:52+00:00
+draft: false
+isentity: true
+title: Letsel aan de achterste kruisband
+type: wiki
+url: /wiki/letsel-aan-achterste-kruisband/
+categories:
+- Gewrichten
+- Knie
+- Pijn
+tags:
+- achterste kruisband
+- kruisband
+- letsel
+- stijfheid
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-05-06
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 433162006
+
+description: Letsel aan de achterste kruisband komt voor wanneer één van de banden aan de binnenkant van knie overstrekt is geraakt. Slechts 3% van alle kniebandblessures zijn achterste kruisband blessures. Ongelukken zoals het met de knie tegen het dashboard slaan tijdens een aanrijding in een auto, of op de gebogen knie vallen zijn vaak voorkomende oorzaken van letsel aan de achterste kruisband. Het met kracht strekken van de knie kan de achterste kruisband ook blesseren.
+
+symptoms:
+  - name: Scherpe of doffe pijn diep in het kniegewricht of aan de achterkant van de knie.
+    code:
+      codeValue: "299372009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij het lopen van langere afstanden
+    code:
+      codeValue: "299377003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in de hele knie
+    code:
+      codeValue: "299322007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid in de knie.
+    code:
+      codeValue: "249913002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met traplopen
+    code:
+      codeValue: "301589003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in de knie bij zwaar tillen
+
+  - name: Een wiebelig gevoel in de knie
+
+  - name: Moeite met lopen door het geblesseerde been
+
+  - name: Moeite met het beginnen met hardlopen
+---
+Sporters, die aan sporten doen zoals American football of voetbal, maar ook skiërs, kunnen te maken krijgen met letsel aan de achterste kruisband. Een recentere oorzaak van letsel aan de achterste kruisband is de trend onder dansers om na een hoge sprong op de voorkant van hun scheenbeen te landen. Fysiotherapeuten behandelen letsel aan de achterste kruisband om te helpen bij het bestrijden van [pijn](/wiki/pijn/), zwelling, stijfheid en andere verwante zwaktes in de [knie](/categories/knie/) of de onderste ledematen.

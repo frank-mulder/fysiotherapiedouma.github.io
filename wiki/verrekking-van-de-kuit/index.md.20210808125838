@@ -1,0 +1,76 @@
+---
+author: carmen-van-eijck-wilmink
+date: 2016-12-19 12:47:27+00:00
+draft: false
+isentity: true
+title: Verrekking van de kuit
+type: wiki
+url: /wiki/verrekking-van-de-kuit/
+categories:
+- Onderbeen
+- Sportblessures
+tags:
+- enkel
+- kuit
+- kuitspieren
+- tenen
+- voet
+
+alternate_names:
+  -
+
+datepublished: 2016-12-19
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 285395009
+
+description: Verrekking van de kuit is letsel aan de spieren in de kuit (de achterkant van het onderbeen onder de knie). De kuitspier is eigenlijk samengesteld uit wel 9 aparte spieren, die allemaal apart of samen geblesseerd kunnen raken. Verrekking van de kuit kan zich voordoen bij beweging op hoge snelheid zoals hardlopen en springen of door enige vorm van geforceerde of ongecoördineerde beweging.
+
+symptoms:
+  - name: Problemen met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Mank lopen
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in het gebied
+    code:
+      codeValue: "442672001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een knak of trek gevoeld of gehoord op het moment van letsel (bij graad 1 en 2 verrekking van de kuit). Een “plop” kan bij een graad 3 verrekking van de kuit worden gevoeld of gehoord op  het moment van letsel.
+
+  - name: Pijn en zwakte in het kuitgebied.
+
+  - name: Strakheid in het gebied.
+
+  - name: Blauwe plekken.
+
+  - name: Zwakte in de kuit als u probeert te lopen, traplopen of staan.
+
+  - name: Moeite met de dagelijkse dingen, waarbij gestaan of gelopen moet worden.
+
+  - name: Onvermogen om te rennen of springen op het aangedane been.
+
+videos:
+  - hx7Sbevet0Q
+  - XzIjVJA3pC8
+  - BRHY4wyA5qs
+  - D-fXVYfcQ7M
+  - L3v1fjwuFns
+  - nYjAwLSScv4
+  - 89MQ9jcPHcE
+  - b-JKyIReYn4
+---
+
+Verrekking van de kuit is een bekend probleem bij hardlopers, voetballers en basketballers, gymnasten en dansers. Hoewel statistieken wereldwijd bijna niet voorhanden zijn, toonde een 8 jaar oude studie van professionele voetballers 13% letsel door verrekking van de kuit aan. Voortschrijdende ouderdom kan de kwetsbaarheid van de kuit voor letsel en verrekking door minder geforceerde bewegingen doen toenemen.
+
+
+
+Fysiotherapeuten behandelen mensen met verrekking van de kuit door de [pijn](/wiki/pijn/) te verminderen, spierkracht en flexibiliteit te herstellen en het herstel te versnellen.

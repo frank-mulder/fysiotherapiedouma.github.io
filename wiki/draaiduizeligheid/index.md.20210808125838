@@ -1,0 +1,70 @@
+---
+author: frank-mulder
+date: 2017-05-01 12:38:14+00:00
+draft: false
+isentity: true
+title: Draaiduizeligheid
+type: wiki
+url: /wiki/draaiduizeligheid/
+categories:
+- Duizeligheid
+- Evenwicht
+- Oor
+tags:
+- draaiduizeligheid
+- duizeligheid
+- paroxismale positiedraaiduizeligheid
+
+alternate_names:
+  -
+
+datepublished: 2017-05-01
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 399153001
+
+description : Draaiduizeligheid wordt meestal omschreven als een ronddraaiend gevoel, terwijl duizeligheid wordt omschreven als “licht in het hoofd”. Draaiduizeligheid heeft verschillende oorzaken en wordt op verschillende manieren behandeld.
+
+symptoms:
+  - name: Migraine
+    code:
+      codeValue: "37796009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Beroerte
+    code:
+      codeValue: "230690007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tumor
+    code:
+      codeValue: "55342001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Misselijkheid
+    code:
+      codeValue: "422587007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Braken
+    code:
+      codeValue: "422400008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Transpireren
+
+  - name: Afwijkende oogbewegingen (nystagmus)
+
+---
+
+**Let op!**
+
+Als u duizelig bent met een draaierig gevoel en last heeft van één van de onderstaande symptomen, neem dan onmiddellijk contact op met een arts.
+
+* Dubbel zien
+* Moeite met praten
+* Verandering in oplettendheid
+* Zwakte in [arm](/categories/arm/) of been
+* Niet kunnen lopen

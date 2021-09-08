@@ -1,0 +1,68 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-03-23 08:24:55+00:00
+draft: false
+isentity: true
+title: Artrose van de schouder
+type: wiki
+url: /wiki/artrose-van-de-schouder/
+categories:
+- Bovenarm
+- Gewrichten
+- Schouder
+tags:
+- bewegingsbeperking
+- crepitatie
+- nachtelijke pijn
+- ochtendstijheid
+- pijn bij bewegen arm
+- pijnlijke schouder
+- schouderpijn
+
+alternate_names:
+  -
+
+datepublished: 2017-03-23
+datemodified: 2020-04-24
+
+about: MedicalCondition
+
+snomed_code: 67315001
+
+description: Artrose van de schouder is een aandoening die zich voordoet als het kraakbeen dat de kanten van het schoudergewricht bekleed versleten of weggescheurd is. Het kan veroorzaakt zijn door letsel of het uit de kom schieten van de schouder of door slijtage van de schouder in de loop der tijd. Artrose van de schouder komt vooral voor bij vijftigers en ouder. Omdat mensen gaandeweg hun gewricht misbruiken en overbelasten, komen er met elk levensdecennium steeds meer gevallen voor. Artrose van de schouder kan zich echter, na trauma of een operatie, ook bij jongere mensen voordoen. De aandoening komt vaker voor bij vrouwen dan bij mannen. Fysiotherapeuten behandelen artrose van de schouder met hands-on therapie en persoonlijke oefenprogramma’s.
+
+symptoms:
+  - name: Stijfheid en uiteindelijk moeite om de aangedane arm te gebruiken
+    code:
+      codeValue: "249918006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in rust en moeite met slapen als de aandoening erger wordt
+    code:
+      codeValue: "267949000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij activiteit die minder wordt bij rust
+
+  - name: Verminderde beweging in de schouder (bewegingsbereik), vooral bij reiken naar achteren zoals het pakken van een autogordel
+
+videos:
+  - bE2NCJXMkf8
+  - kxs6NHiUPVg
+  - iMXezW7bJZo
+  - gcPAAD1wZAE
+  - 8pLlP14bPNM
+  - 3H6UlhJH3O0
+  - QO0NJyw1DTg
+  - -64cM9GloCo
+  - 72EOhxZr7pQ
+  - _aDZYsi10-o
+  - x1gr9F8ENs0
+  - Ul6jfph8mx4
+  - 0yQq__3rISY
+---

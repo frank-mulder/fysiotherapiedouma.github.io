@@ -1,0 +1,83 @@
+---
+author: petra-tuunter
+date: 2017-02-13 14:11:20+00:00
+draft: false
+isentity: true
+title: HIV/AIDS
+type: wiki
+url: /wiki/hivaids/
+categories:
+- Stofwisseling
+tags:
+- AIDS
+- besmet bloed
+- HIV
+- injectienaalden
+- overdracht
+- seks
+
+alternate_names:
+  - humaan immunodeficiëntievirus
+
+datepublished: 2017-02-13
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 19030005
+
+description: Tegenwoordig, dankzij de voortuitgang die is geboekt met medicatie, leven mensen met HIV (human immunodeficiëntie virus) langer en actiever dan mensen die de ziekte 3 jaar geleden hadden. Antiretrovirale medicijnen stellen veel mensen met HIV in staat om hun normale levensduur te leven, maar sommige medicijnen hebben bijwerkingen. Daarnaast kunnen mensen, omdat ze langer leven met de ziekte, andere gezondheidsaandoeningen ontwikkelen.
+
+symptoms:
+  - name: Chronische pijn
+    code:
+      codeValue: "82423001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tinteling
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Evenwichtsproblemen
+    code:
+      codeValue: "387603000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spasmes
+    code:
+      codeValue: "45352006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoelloosheid
+
+  - name: Krampen
+
+  - name: Spier- of gewrichtsstijfheid
+
+  - name: Duizeligheid
+
+  - name: Vermoeidheid
+
+  - name: Moeite met lopen of traplopen
+
+  - name: Moeite met werken, sporten of vrijetijdsbesteding
+
+  - name: Zenuwschade, die leidt tot pijn, brandend gevoel, gevoelloosheid of tinteling in de armen, benen of voeten (bekend als “perifere neuropathie”)
+
+  - name: Spierpijn (myalgia)
+---
+Fysiotherapeuten:
+
+* Bieden behandeling op maat aan, die rekening houdt met HIV
+* Bieden op maat gemaakte oefen- en pijnbeheersingsprogramma’s
+* Helpen mensen met geavanceerde HIV om mobiliteits- en functionele problemen te voorkomen, verminderen of vertragen.
+
+- Bieden behandeling op maat aan, die rekening houdt met HIV
+- Bieden op maat gemaakte oefen- en pijnbeheersingsprogramma’s
+- Helpen mensen met geavanceerde HIV om mobiliteits- en functionele problemen te voorkomen, verminderen of vertragen.

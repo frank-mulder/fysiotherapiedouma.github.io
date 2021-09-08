@@ -1,0 +1,82 @@
+---
+author: olivier-blaauw
+date: 2016-12-04 16:09:16+00:00
+draft: false
+isentity: true
+title: Enkelbreuk
+type: wiki
+url: /wiki/enkelbreuk/
+categories:
+- Enkel
+- Sportblessures
+tags:
+- bi-malleolaire breuk
+- blauwe plekken
+- enkel
+- enkelbreuk
+- enkelgewricht
+- enkelletsel
+- fibula
+- malleolus
+- malleolus lateralis
+- malleolus medialis
+- tibia
+- tri-malleolaire breuk
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2016-12-04
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 16114001
+
+description : Een enkelbreuk doet zich voor wanneer een bot aan 1 of meerdere zijden van de enkel gedeeltelijk of geheel is gebroken. De meeste enkelbreuken worden veroorzaakt door draailetsel en vallen, of letsel dat ontstaat bij sport en spel. Onder 50 jaar komen enkelbreuken met meest voor bij mannen. Boven 50 jaar hebben vrouwen meer enkelbreuken. Het type breuk varieert van simpel tot complex en kan 1 of alle 3 botten, waaruit de enkel bestaat, betreffen. Het is belangrijk om bij enkelletsel behandeld te worden om vast te stellen of sprake is van een breuk. Fysiotherapie speelt, om terug te keren naar normale activiteit, een belangrijke rol bij behandeling en herstel van een enkelbreuk.
+
+symptoms:
+  - name: Zwelling in de enkel
+    code:
+      codeValue: "267039000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid of pijn in het enkelgebied.
+    code:
+      codeValue: "247373008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Blauwe plekken.
+    code:
+      codeValue: "302227002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onmiddellijke, ernstige pijn na draailetsel of een val.
+    code:
+      codeValue: "274663001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn die toeneemt bij activiteit en afneemt bij rust.
+    code:
+      codeValue: "299447008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een “plop” of “knak’ wordt gevoeld of gehoord op het moment van het letsel.
+
+  - name: Moeite met gewicht op de enkel bij staan of lopen.
+
+  - name: Helemaal niet in staat zijn gewicht op de enkel te dragen.
+
+  - name: Niet in staat om een schoen aan te trekken vanwege de zwelling en de pijn.
+
+  - name: Een bult of vervorming die gezien of gevoeld wordt op de enkel.  
+
+videos:
+  - D-fXVYfcQ7M
+  - 89MQ9jcPHcE
+  - b-JKyIReYn4
+---
+Een enkelbreuk doet zich voor wanneer een bot aan 1 of meerdere zijden van de [enkel](/categories/enkel/) gedeeltelijk of geheel is gebroken. De meeste enkelbreuken worden veroorzaakt door draailetsel en [vallen](/wiki/vallen/), of letsel dat ontstaat bij sport en spel. Onder 50 jaar komen enkelbreuken met meest voor bij mannen. Boven 50 jaar hebben vrouwen meer enkelbreuken.
+
+Het type breuk varieert van simpel tot complex en kan 1 of alle 3 botten, waaruit de enkel bestaat, betreffen. Het is belangrijk om bij enkelletsel behandeld te worden om vast te stellen of sprake is van een breuk. Fysiotherapie speelt, om terug te keren naar normale activiteit, een belangrijke rol bij behandeling en herstel van een enkelbreuk.

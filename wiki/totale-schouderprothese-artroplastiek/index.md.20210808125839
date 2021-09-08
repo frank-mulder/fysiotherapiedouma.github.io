@@ -1,0 +1,60 @@
+---
+author: janneke-douma-alberts
+date: 2017-05-16 06:36:06+00:00
+draft: false
+isentity: true
+title: Totale schouderprothese (artroplastiek)
+type: wiki
+url: /wiki/totale-schouderprothese-artroplastiek/
+categories:
+- Bovenarm
+- Gewrichten
+- Schouder
+tags:
+- schouder artroplastiek
+- schoudergewricht
+- totale schouderprothese
+- verminderde mobiliteit
+
+alternate_names:
+  -
+
+datepublished: 2017-05-16
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 304125002
+
+description: Een totale schouderprothese is een chirurgische procedure waarbij een deel van of het hele schoudergewricht wordt vervangen. Er wordt geschat dat in Nederland elk jaar 3.000 mensen een totale schouderprothese krijgen. Dat aantal staat naast de 31.000 knieprotheses en de 38.000 heupprothese per jaar in Nederland.
+
+symptoms:
+  - name: Artrose
+    code:
+      codeValue: "396275006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Reumatische artritis
+    code:
+      codeValue: "69896004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Osteonecrose van de schouder (afsterven van botweefsel op de kop van de humerus)
+    code:
+      codeValue: "240196003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Artrose van schouder
+    code:
+      codeValue: "67315001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in schouderregio
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Ernstige schouderfractuur
+
+  - name: Ziekte aan het rotatorenmanchet (een gescheurde spier of degeneratie van zacht weefsel in het rotatorenmanchet)
+---

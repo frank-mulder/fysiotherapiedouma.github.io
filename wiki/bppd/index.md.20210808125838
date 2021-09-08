@@ -1,0 +1,61 @@
+---
+author: frank-mulder
+date: 2016-12-19 10:26:00+00:00
+draft: false
+isentity: true
+title: Benigne Paroxismale Positiedraaiduizeligheid (BPPD)
+type: wiki
+url: /wiki/bppd/
+categories:
+- Duizeligheid
+- Neurologie
+tags:
+- duizeligheid
+- epley manoeuvre
+- evenwichtsproblemen
+- instabiliteit
+- misselijkheid
+- nystagmus
+- overgeven
+- paroxismale positiedraaiduizeligheid
+- vestibulaire systeem
+
+alternate_names:
+  - Benigne Paroxismale Positiedraaiduizeligheid
+  - BPPD
+
+datepublished: 2016-12-19
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 111541001
+
+description : Elk jaar ontwikkelen duizenden mensen duizeligheid, het gevoel dat hun omgeving ronddraait. Het gevoel kan erg angstaanjagend zijn en kan het gevaar op vallen vergroten. Als bij u benigne paroxismale positiedraaiduizeligheid (BPPD) is vastgesteld, bent u niet de enige – tenminste 9 van elke 100 volwassenen hebben hier last van, waardoor het een van de meest voorkomende types van episodisch duizeligheid is. Het goede nieuws is dat BPPD behandelbaar is. Uw fysiotherapeut gebruikt unieke onderzoeken om duizeligheid vast te stellen en speciale oefeningen en handelingen om te helpen.
+
+symptoms:
+  - name: Duizeligheid
+    code:
+      codeValue: "404640003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlies van evenwicht of instabiliteit
+    code:
+      codeValue: "282299006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Misselijkheid
+    code:
+      codeValue: "422587007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Overgeven
+    code:
+      codeValue: "422400008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Het gevoel dat uw omgeving draait of beweegt
+    code:
+      codeValue: "399153001"
+      codingSystem: "SNOMED-CT"
+---

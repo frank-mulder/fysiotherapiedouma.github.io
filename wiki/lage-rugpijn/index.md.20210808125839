@@ -1,0 +1,83 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-02-21 08:18:32+00:00
+draft: false
+isentity: true
+title: Lage rugpijn
+type: wiki
+url: /wiki/lage-rugpijn/
+categories:
+- Rug
+tags:
+- a-specifieke rugklachten
+- hernia
+- lumbaal
+- osteoporose
+- ruggegraat
+- rugklachten
+- uitstraling
+
+alternate_names:
+  -
+
+datepublished: 2017-02-21
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 279039007
+
+description: Als u last heeft van lage rugpijn dan bent u niet alleen. Rond de 25% van alle mensen in Nederland heeft op enig moment lage rugpijn in de afgelopen 3 maanden. In de meeste gevallen is de lage rugpijn niet ernstig en verdwijnt zelf weer. Bij sommige mensen kan de rugpijn terugkomen of aanhouden, wat leidt tot een verminderde kwaliteit van leven of zelfs tot invaliditeit.
+
+symptoms:
+  - name: Acute pijn
+    code:
+      codeValue: "274663001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Brandende pijn
+    code:
+      codeValue: "36349006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stabbing pain
+    code:
+      codeValue: "55145008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zeurende pijn
+    code:
+      codeValue: "27635008"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - i7A92VFteAs
+  - LxIZGEfEKok
+  - mfcXNPfDdxw
+  - 2utlvzNwhnQ
+  - jCGmOIE3P2k
+  - kF9av2zLVqk
+  - k_sZvfLuhB4
+  - TneBVhP9yXc
+  - J_Z-hbtfVJM
+  - O3lih_Rl_jY
+  - D50wm_2dZDI
+  - e4D85Y3cCfs
+  - fmqggoXIT0w
+  - 0V0eQ7d_QUg
+  - ZXbMtt6ahSs
+  - Awlc5lHOIWg
+  - LQ75tN96FAE
+  - ANjAYGPgwR4
+  - RIL_mhNtC-s
+  - 6qNufTpnKz8
+---
+
+Als uw lage rugpijn vergezeld gaat van de volgende symptomen, moet u direct bij de spoedeisende hulp bij u in de buurt langsgaan:
+
+* Verlies van darm- en blaascontrole
+* Gevoelloosheid in de [lies](/categories/lies/) of de binnenkant van de dij
+
+Deze symptomen kunnen wijzen op een aandoening die het “cauda equina syndroom” wordt genoemd, waarbij zenuwen aan het einde van het ruggenmerg, die de darm- en blaasfunctie controleren samengedrukt worden.

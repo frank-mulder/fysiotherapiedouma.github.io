@@ -1,0 +1,78 @@
+---
+author: kaj-moorman
+date: 2016-12-19 12:34:21+00:00
+draft: false
+isentity: true
+title: Bicepspeesruptuur
+type: wiki
+url: /wiki/bicepspeesruptuur/
+
+categories:
+- Bovenarm
+- Elleboog
+- Onderarm
+- Pezen
+- Spierblessure
+- Spieren
+- Sportblessures
+
+tags:
+- biceps
+- bicepspeesruptuur
+- bicepsspier
+- clavicula
+- fossa glenoïdalis
+- humerus
+- kogelgewricht
+- processus coracoideus
+- scapula
+- scheur
+- scheuren
+- schouder
+
+alternate_names:
+  -
+
+datepublished: 2016-12-19
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 428883008
+
+description: Een bicepspeesruptuur komt voor wanneer de bicepsspier afgescheurd is van het bot op het punt van aanhechting (pees) aan de schouder of elleboog. Het vaakst is de bicepspees van de schouder afgescheurd. Dit afscheuren komt vaker bij mannen voor dan bij vrouwen; het meeste letsel komt voor tussen 40 en 60 jaar oud, ten gevolge van chronische slijtage van de bicepspees. Bij jongeren is het afscheuren meestal het gevolg van trauma (zoals een auto-ongeluk of een val). Bicepspeesrupturen kunnen op elke leeftijd ook voorkomen bij mensen, die herhaald zwaar tilwerk boven het hoofd doen en bij atleten die gewichtheffen of meedoen aan agressieve contactsporten. Fysiotherapeuten helpen na bicepspeesrupturen met het terugkrijgen van kracht en functie in de armen.
+
+symptoms:
+  - name: Scherpe pijn in de bovenarm of elleboog
+    code:
+      codeValue: "74323005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Blauwe plekken en zwelling van de bovenarm tot de elleboog
+    code:
+      codeValue: "449619004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een “plop” of “knak” bij de schouder of elleboog horen
+    code:
+      codeValue: "202337006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte in de arm bij het buigen van de elleboog, draaien van de voorarm of boven het hoofd tillen van de arm.
+
+  - name: Gevoeligheid in de schouder of elleboog
+
+  - name: Spierspasmes in de schouder en arm
+
+  - name: Een bult of vervorming in het lagere deel van de bovenarm (een “Popeye arm”)   
+
+videos:
+  - AnHxg6mtslY
+  - gXYM4VNoyKs
+  - jtzZOaU_dg8
+  - gcPAAD1wZAE
+  - 8pLlP14bPNM
+  - _aDZYsi10-o
+  - UUgrtkRI6Xw
+  - SO7axoiXxrA  
+---

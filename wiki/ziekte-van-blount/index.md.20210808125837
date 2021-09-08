@@ -1,0 +1,49 @@
+---
+author: li-anne-douma
+date: 2016-12-29 19:53:11+00:00
+draft: false
+isentity: true
+title: Ziekte van Blount
+type: wiki
+url: /wiki/ziekte-van-blount/
+categories:
+- Onderbeen
+tags:
+- groeistoornis
+- scheenbeen
+- tibia
+
+alternate_names:
+  -
+
+datepublished: 2016-12-29
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 79353000
+
+description: De ziekte van Blount is een groeistoornis, die het scheenbeen (de tibia) aantast, waarbij het onderbeen in een bocht naar binnen draait, waardoor het been onder de knie gebogen lijkt te zijn. De ziekte van Blount treft kleuters, kinderen en jongvolwassenen. Hoewel de precieze oorzaak van de ziekte niet bekend is, heeft onderzoek aangetoond dat het voorkomen verband houdt met overgewicht, te weinig vitamine D en vroeg leren lopen (op 8 tot 10 maanden).
+
+symptoms:
+  - name: Pijn in been
+    code:
+      codeValue: "10601006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in dijbeen
+    code:
+      codeValue: "301773003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Mank lopen
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Probleem met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+---
+Fysiotherapeuten helpen kinderen en families om in alle stadia om te gaan met de symptomen van de ziekte van Blount door het [kind](/categories/kind/) met hulpmiddelen te leren lopen en met krachtoefeningen.

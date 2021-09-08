@@ -1,0 +1,76 @@
+---
+author: piet-douma
+date: 2017-05-01 08:30:34+00:00
+draft: false
+isentity: true
+title: Dysfunctie van het sacro-iliacale gewricht (SI)
+type: wiki
+url: /wiki/dysfunctie-sacro-iliacale-gewricht/
+categories:
+- Bekken
+- Bil
+- Gewrichten
+- Heup
+- Wervelkolom
+tags:
+- bekken
+- meestal eenzijdig pijn
+- onderrugpijn
+- sacro-iliacale gewricht
+- SI-gewricht
+- uitstraling naar bil of been
+
+alternate_names:
+  -
+
+datepublished: 2017-05-01
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 79781000146109
+
+description: Dysfunctie van het sacro-iliacale (SI) gewricht is een aandoening aan de onderrug/bekken, die het resultaat kan zijn van stijfheid (hypomobiliteit) of slapheid (hypermobiliteit) van de SI-gewrichten in het bekken. De aandoening treft zowel mannen als vrouwen van alle leeftijden, maar komt vaker voor bij vrouwen. Symptomen doen zich over het algemeen aan één kant van het lichaam voor en treffen 10% tot 25% van alle patiënten met klachten van onderrugpijn. Fysiotherapeuten ontwerpen, op basis van de specifieke oorzaak van iemands aandoening en behandeldoelen, persoonlijke behandelprogramma’s om dysfunctie van het SI-gewricht aan te pakken. Fysiotherapie Douma kan u op verschillende manieren helpen bij klachten aan het SI-gewricht.
+
+symptoms:
+  - name: Pijn, die scherp, stekend of dof kan zijn, aan één kant van het bekken/onderrug, of in de lies of stuit.
+    code:
+      codeValue: "202487003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij beweging, zoals opstaan vanuit zittende positie, draaien in bed of buigen/draaien.
+    code:
+      codeValue: "298674008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij het lopen, staan en langdurig zitten.
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierstijfheid en gevoeligheid in de heup/billen.
+    code:
+      codeValue: "249914008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid van SI-gewricht
+    code:
+      codeValue: "298251000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn die kan uitstralen naar de knie.
+
+  - name: Pijn die erger wordt bij staan en lopen, en minder bij zitten of liggen.
+
+videos:
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - i7A92VFteAs
+  - LxIZGEfEKok
+  - mfcXNPfDdxw
+  - 2utlvzNwhnQ
+  - jCGmOIE3P2k
+  - ANjAYGPgwR4
+  - RIL_mhNtC-s
+  - 6qNufTpnKz8
+---

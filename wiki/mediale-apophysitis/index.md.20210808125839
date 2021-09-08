@@ -1,0 +1,66 @@
+---
+author: frank-mulder
+date: 2017-02-23 10:48:02+00:00
+draft: false
+isentity: true
+title: Mediale apophysitis
+type: wiki
+url: /wiki/mediale-apophysitis/
+categories:
+- Elleboog
+- Gewrichten
+tags:
+- ellebooggewricht
+- jonge sporters
+- mediale apophysitis
+- overbelasting
+- werperselleboog
+
+alternate_names:
+  -
+
+datepublished: 2017-02-23
+datemodified: 2020-05-06
+
+about: MedicalCondition
+
+snomed_code: 3951000119103
+
+description: Mediale apophysitis of werperselleboog is een aandoening die zich voordoet ten gevolge van letsel of irritatie van de binnenkant van de elleboog en treft meestal jonge sporters. Het wordt vaak geclassificeerd als een “overbelasting syndroom” bij honkballers in de ontwikkelingsfase van snelle groei (ongeveer 11 tot 15 jaar). Een werperselleboog kan door een fysiotherapeut worden geïdentificeerd en effectief worden behandeld.
+
+symptoms:
+  - name: Langzaam erger wordende pijn aan de binnenkant van uw elleboog als u een bal gooit
+    code:
+      codeValue: "298929004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling en gevoeligheid rond de binnenkant van de elleboog
+    code:
+      codeValue: "298870001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlies van grijpkracht
+    code:
+      codeValue: "299042006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zeurende pijnlijkheid aan de binnenkant van uw elleboog na werpen.
+    code:
+      codeValue: "27635008"
+      codingSystem: "SNOMED-CT"
+
+  - name: gevoeligheid van ellebooggewricht
+    code:
+      codeValue: "298928007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onvermogen om een bal met de normale snelheid te werpen
+
+  - name: Verlies van precisie of afstand bij het werpen
+
+  - name: Spierkramp in uw onderarm
+
+  - name: Verlies van mobiliteit in uw elleboog
+
+  - name: Ongemak bij de dagelijkse dingen waarbij u uw onderarmspieren gebruikt, zoals een deurklink draaien of iets zwaars voor u uit tillen
+---

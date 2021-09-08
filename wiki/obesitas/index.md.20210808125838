@@ -1,0 +1,64 @@
+---
+author: manon-klarenbeek
+date: 2017-03-23 13:57:43+00:00
+draft: false
+isentity: true
+title: Obesitas
+type: wiki
+url: /wiki/obesitas/
+categories:
+- Stofwisseling
+tags:
+- gewichtsverlies
+- overgewicht
+- te dik
+- te zwaar
+
+alternate_names:
+  -
+
+datepublished: 2017-03-23
+datemodified: 2020-05-06
+
+about: MedicalCondition
+
+snomed_code: 414916001
+
+description: Obesitas is een aandoening die wordt veroorzaakt door de ophoping van overmatig lichaamsvet. Obesitas is een wereldwijde epidemie.
+
+symptoms:
+  - name: Vermoeidheid
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met het doen van dagelijkse dingen, zoals lopen, traplopen of het spelen van lichamelijk actieve spelletjes
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewrichtspijn, met name in de benen en rug door de toegenomen druk die overmatig vet en gewicht plaatsen op de gewrichten en spieren van het lichaam
+    code:
+      codeValue: "57676002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Frustratie of depressiviteit over de aandoening en het onvermogen om gewicht te verliezen.
+    code:
+      codeValue: "35489007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewichtstoename
+    code:
+      codeValue: "8943002"
+      codingSystem: "SNOMED-CT"
+---
+
+**Geschat wordt dat 68% van de volwassen bevolking op dit moment te zwaar is en dat rond de 36% zwaarlijvig is. Geschat wordt dat 10% van de kinderen tussen 2 en 5 jaar, 15% van de kinderen tussen 6 en 11 jaar en 16% van de jongeren tussen 12 en 19 jaar overgewicht hebben. **
+
+**Volwassenen en kinderen kunnen door hun body mass index (BMI) te berekenen als normaal, te zwaar of zwaarlijvig worden geclassificeerd. Volwassenen, bijvoorbeeld, worden als te zwaar beschouwd als hun BMI tussen 25 en 29 is, en zwaarlijvig als hun BMI 30 of hoger is.**
+
+**Obesitas kan ontstaan door genetische, sociale, psychologische, culturele omgevings- en gedragsfactoren. Een zittend bestaan en de inname van teveel calorieën worden primair verantwoordelijk gehouden voor de enorme wereldwijde toename van obesitas in de afgelopen twee decennia.**
+
+**Obesitas raakt mensen van alle leeftijden, rassen en socio-economische lagen. Het draagt bij aan veel chronische ziektes en kan zelfs een vroeg overlijden veroorzaken. Het kan bijdragen aan gewrichtspijn door de toegenomen druk van een te hoog lichaamsgewicht op de [gewrichten](/categories/gewrichten/), [spieren](/categories/spieren/) en tussenwervelschijven. Het kan ook leiden tot verlies van “functie” – het vermogen om eenvoudige dagelijkse dingen zoals lopen, traplopen of het huishouden doen.**
+
+**Er zijn tegenwoordig veel mogelijkheden om obesitas te behandelen, waaronder laagcalorische diëten, lichamelijke oefening, gedragsaanpassing, medicatie en een operatie. Fysiotherapeuten zijn experts in lichamelijke oefening en kunnen persoonlijke lichamelijke inspanningsplannen maken voor mensen met overgewicht of obesitas, om de ontwikkeling van obesitas voorkomen of de effecten bestrijden.**

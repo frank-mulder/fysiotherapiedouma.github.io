@@ -1,0 +1,69 @@
+---
+author: kaj-moorman
+date: 2017-02-09 10:04:14+00:00
+draft: false
+isentity: true
+title: Gebroken elleboog
+type: wiki
+url: /wiki/gebroken-elleboog/
+categories:
+- Bovenarm
+- Elleboog
+- Onderarm
+tags:
+- elleboog
+- erge pijn
+- fissuur
+- fractuur
+- onderarm
+- radius
+- ulna
+
+alternate_names:
+  - fractuur van cubitus
+
+datepublished: 2017-02-09
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 309464009
+
+description: "Een gebroken elleboog is een botbreuk, die zich voordoet op het midden van de arm, in het gebied van het ellebooggewricht. De voornaamste oorzaak is trauma, zoals vallen op de elleboog of vallen op een uitgestrekte hand. Een gebroken elleboog kan iedereen overkomen. Recente onderzoeken laten een hoog aantal breuken bij kinderen, vrouwen en ouderen zien. Kinderen hebben de meeste breuken: 30 van elke 10.000 kinderen in nederland. Een gebroken elleboog wordt bij 7,4 van elke 10.000 Nederlandse volwassenen vastgesteld, waarbij volwassenen met een laag inkomen hoger scoren. Atleten hebben ook vaak een gebroken elleboog."
+
+symptoms:
+  - name: Strakheid, stijfheid of kramp in de arm.
+    code:
+      codeValue: "249917001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoelloosheid in de elleboog, onderarm, pols of hand.
+    code:
+      codeValue: "309521004"
+      codingSystem: "SNOMED-CT"
+
+  - name: verminderde actieve bewegingsuitslag van gewricht
+    code:
+      codeValue: "298222004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Matige tot ernstige pijn. Over het algemeen is het te pijnlijk om de arm te bewegen.
+
+  - name: Zwelling, kloppen, roodheid of gevoelloosheid in het gebied.
+
+  - name: Een knarsend of vastlopend gevoel in de elleboog
+
+  - name: Een ongewone vorm van de botten in het gebied (misvorming)
+
+  - name: Gevoeligheid voor aanraking. Het gebied kan ook warm aanvoelen.
+
+videos:
+  - AnHxg6mtslY
+  - gXYM4VNoyKs
+  - jtzZOaU_dg8
+  - gcPAAD1wZAE
+  - cgeEOAMCRIY
+  - UZtmdXQPfn8
+  - UUgrtkRI6Xw
+---
+Fysiotherapeuten ontwerpen persoonlijke behandelprogramma’s voor mensen met een gebroken [elleboog](/categories/elleboog/), waardoor mobiliteit en kracht in de elleboog wordt verbeterd, de zwelling verminderd en het gebruik van de [arm](/categories/arm/) voor het dagelijks leven en voor sport herstelt. Ze helpen ook om problemen met andere gebieden in de arm ([hand](/categories/hand/), pols, [schouder](/categories/schouder/)) te voorkomen, die zich voor kunnen doen wanneer de elleboog is geïmmobiliseerd met gips of een spalk.

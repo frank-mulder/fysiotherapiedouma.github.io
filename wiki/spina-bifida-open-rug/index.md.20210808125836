@@ -1,0 +1,48 @@
+---
+author: petra-tuunter
+date: 2017-05-08 06:34:25+00:00
+draft: false
+isentity: true
+title: Spina bifida (open rug)
+type: wiki
+url: /wiki/spina-bifida-open-rug/
+categories:
+- Kind
+- Rug
+- Wervelkolom
+tags:
+- beperkingen
+- geboortedefect
+- neurale buis
+- open rug
+- ruggegraat
+- spina bifida
+
+alternate_names:
+  - Open ruggetje
+
+datepublished: 2017-05-08
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 67531005
+
+description: Spina bifida is een geboortedefect dat zich ontwikkelt als de ruggengraat van een zuigeling zich niet volledig sluit in de vroege stadia van de zwangerschap van de moeder. Spina bifida wordt jaarlijks bij ongeveer 0,24 bij de 1000 baby’s in Nederland vastgesteld. Het geboortedefect kan zowel lichamelijke als intellectuele beperkingen veroorzaken.
+
+symptoms:
+  - name: Incontinentie
+    code:
+      codeValue: "48340000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Concentratieproblemen
+    code:
+      codeValue: "76039005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlamming van beide benen
+    code:
+      codeValue: "609553000"
+      codingSystem: "SNOMED-CT"
+---

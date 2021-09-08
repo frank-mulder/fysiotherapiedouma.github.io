@@ -1,0 +1,72 @@
+---
+author: manon-klarenbeek
+date: 2017-02-21 09:27:38+00:00
+draft: false
+isentity: true
+title: Lymfoedeem
+type: wiki
+url: /wiki/lymfoedeem/
+categories:
+- Borst
+- Bovenarm
+- Bovenbeen
+- Oncologie
+tags:
+- kanker
+- lymfeknopen
+- lymfklieren
+- tumoren
+- uitzaaiing
+
+alternate_names:
+  -
+
+datepublished: 2017-02-21
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 30213001
+
+description: Lymfoedeem is een zwelling die over het algemeen in de armen of benen voorkomt ten gevolge van een blokkade in uw lymfestelsel. Aangenomen wordt dat een derde deel van alle vrouwen, die tijdens behandeling tegen borstkanker een lymfeklierdissectie van de oksel ondergaan, lymfoedeem ontwikkelen. Het vroegtijdig identificeren en behandelen van lymfoedeem helpt om betere en snellere resultaten te verzekeren, maar ook latere behandeling, tijdens de chronische stadia van de ziekte, kan nog steeds helpen.
+
+symptoms:
+  - name: Gewrichtspijn
+    code:
+      codeValue: "57676002"
+      codingSystem: "SNOMED-CT"
+
+  - name: “Pitting” van de weefsels van uw ledemaat (een deuk die gemaakt wordt door een vinger op de huid te drukken en die pas een poosje nadat de druk is weggehaald weer opvult)
+    code:
+      codeValue: "77855009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in uw armen, benen, schouders, handen, vingers of borst
+    code:
+      codeValue: "299037003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onvermogen om bepaalde gewrichten  normaal en vrijelijk te bewegen, zoals uw pols of enkel
+    code:
+      codeValue: "8510008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Problemen met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Huid die in het aangedane gebied strakker, harder of dikker aanvoelt dan normaal
+
+  - name: Zwakte in uw arm of been
+
+  - name: Kleding, ringen, armbanden of schoenen die moeilijker passen dan voorheen
+
+  - name: Herhaalde infecties in uw arm of been
+
+  - name: Moeite met uw dagelijkse activiteiten
+---
+Raadpleeg, om vast te stellen of u lymfoedeem heeft, direct uw arts of fysiotherapeut als u zwelling in één van uw ledematen heeft en u:
+
+* Kanker heeft of behandeld bent tegen kanker
+* Een hart- nier- of leveraandoening heeft

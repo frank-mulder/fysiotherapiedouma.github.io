@@ -1,0 +1,63 @@
+---
+author: petra-tuunter
+date: 2017-03-24 09:55:38+00:00
+draft: false
+isentity: true
+title: Perifere neuropathie
+type: wiki
+url: /wiki/perifere-neuropathie/
+categories:
+- Neurologie
+tags:
+- gevoelloosheid
+- neuropathie
+- tintelingen
+- vitamine B deficientie
+- zenuwpijn
+
+alternate_names:
+  -
+
+datepublished: 2017-03-24
+datemodified: 2020-05-12
+
+about: MedicalCondition
+
+snomed_code: 302226006
+
+description: Perifere neuropathie is een aandoening die wordt veroorzaakt door zenuwschade of ziekte, waardoor de zenuwen in het lichaam worden aangetast. Perifere neuropathie leidt tot veranderingen in gevoel en beweging en kan pijn veroorzaken. Het kan ook verband houden met andere ziekteprocessen zoals diabetes. Hoewel de symptomen van perifere neuropathie ongemak en verlies van functie kunnen veroorzaken, zijn er aanwijzingen dat perifere neuropathie in de loop van de tijd verbetert. Behandeling door een fysiotherapeut kan de symptomen verminderen en iemands kwaliteit van leven verbeteren.
+
+symptoms:
+  - name: Gevoelloosheid en tintelingen, beginnend in de voeten en handen en zich daarna omhoog verspreidend langs de ledematen (bij polyneuropathie)
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlies of afwezigheid van sensatie (het vermogen om contact te voelen met externe voorwerpen)
+    code:
+      codeValue: "80910005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte of verlamming in de spieren of lichaamsdelen die door de zenuw of zenuwen zijn aangedaan
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Intolerantie voor temperatuur (meestal voor warmte/hitte)
+    code:
+      codeValue: "248468000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onhandigheid of verminderde coördinatie in de aangedane ledematen.
+    code:
+      codeValue: "302289002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn, vaak omschreven als brandend, scherp of “elektrisch”
+
+  - name: Verhoogde gevoeligheid voor lichte aanraking.
+
+  - name: Veranderingen in darm- en blaascontrole (de zenuwen die deze functies sturen kunnen aangedaan zijn)
+
+  - name: Verminderd vermogen om deel te nemen aan normale functionele activiteiten
+---

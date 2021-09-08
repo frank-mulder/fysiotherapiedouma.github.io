@@ -1,0 +1,67 @@
+---
+author: sanne-de-nijs
+date: 2017-02-09 10:13:20+00:00
+draft: false
+isentity: true
+title: Hamstringletsel
+type: wiki
+url: /wiki/hamstringletsel/
+categories:
+- Bovenbeen
+- Spierblessure
+tags:
+- pijn
+- spier
+- spierscheur
+- spierzwakte
+- sportblessures
+- te korte spieren
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-02-09
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 135851009
+
+description: Harmstringletsel komt voor wanneer 1 of meer van de 3 hamstringspieren of –pezen (dat wat de spier aan het bot verbindt) afscheuren. Het is één van de meest voorkomende blessures aan het onderlichaam, waardoor vooral sporters zoals voetballers of hardlopers getroffen worden. Na het scheuren van een hamstring heeft iemand 6 keer meer kans op vervolgletsel. Een operatie is nodig om de ernstigste gevallen te behandelen. Maar de meeste hamstringblessures worden met fysiotherapie behandeld.
+
+symptoms:
+  - name: Zwelling
+    code:
+      codeValue: "442672001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Bloeduitstortingen binnen een paar uur of dagen na het letsel
+    code:
+      codeValue: "385494008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met lopen, met manklopen als gevolg.
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Plotselinge, scherpe pijn in de billen of de achterkant van de dij
+    code:
+      codeValue: "279043006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een “plop”-gevoel of een scheur van de spier
+
+  - name: Gevoeligheid voor aanraking
+
+  - name: Moeite om comfortabel te zitten, uw been liggend op te tillen of om uw knie te strekken
+
+videos:
+  - L3v1fjwuFns
+  - nYjAwLSScv4
+  - 34wuJCU0u_E
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+---
+Een operatie is nodig om de ernstigste gevallen te behandelen. Maar de meeste hamstringblessures worden met fysiotherapie behandeld.

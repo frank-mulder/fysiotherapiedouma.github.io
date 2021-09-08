@@ -1,0 +1,65 @@
+---
+author: piet-douma
+date: 2017-05-06 09:21:25+00:00
+draft: false
+isentity: true
+title: Labrumscheur in de schouder
+type: wiki
+url: /wiki/labrumscheur-in-de-schouder/
+categories:
+- Bovenarm
+- Gewrichten
+- Schouder
+tags:
+- instabiliteit
+- labrumscheur
+- scheur
+- schouder
+
+alternate_names:
+  -
+
+datepublished: 2017-05-06
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 202332000
+
+description: Een instabiel schoudergewricht kan de oorzaak of het gevolg zijn van een labrumscheur. “Labrum” verwijst hier naar het labrum glenoidale, een ring van kraakbeen die rondom de onderkant van het schoudergewricht ligt.
+
+symptoms:
+  - name: Pijn aan de bovenkant van de schouder
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte in de schouder, meestal aan één kant
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn
+    code:
+      codeValue: "22253000"
+      codingSystem: "SNOMED-CT"
+
+  - name: “geplop”, “gerommel” of “geschuif” bij beweging van de schouder, omdat het gescheurde labrum “losse eindjes” heeft, die bij beweging in de schouder omklappen of omrollen en zelfs vast kunnen komen te zitten tussen de bovenarm en het schouderblad.
+
+  - name: Een gevoel dat uw schoudergewricht uit de kom wil ploppen.
+videos:
+  - bE2NCJXMkf8
+  - kxs6NHiUPVg
+  - iMXezW7bJZo
+  - AnHxg6mtslY
+  - x1gr9F8ENs0
+  - Ul6jfph8mx4
+  - 0yQq__3rISY
+---
+
+## Labrumscheur schouder
+
+
+Letsel aan het labrum komt veel voor, kan voor veel [pijn](/wiki/pijn/) zorgen en kan het bewegen van de [arm](/categories/arm/) bemoeilijken. Een labrumscheur kan ontstaan na een val of door herhaalde activiteiten of sport waarbij de [armen](/categories/arm/) boven het [hoofd](/categories/hoofd/) getild worden.
+
+Sommige labrumscheuren kunnen met fysiotherapie onder controle gekregen worden; in ernstige gevallen kan een operatie nodig zijn om het gescheurde labrum te repareren.

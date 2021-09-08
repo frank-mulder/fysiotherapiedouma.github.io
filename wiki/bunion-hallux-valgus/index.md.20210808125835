@@ -1,0 +1,63 @@
+---
+author: olivier-blaauw
+date: 2016-12-19 12:38:10+00:00
+draft: false
+isentity: true
+title: Bunion (hallux valgus)
+type: wiki
+url: /wiki/bunion-hallux-valgus/
+categories:
+- Voet
+tags:
+- artrose
+- bunion
+- hallux valgus
+- pijn
+- platvoeten
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2016-12-19
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 118623005
+
+description : Een bunion (hallux valgus) is een grote knobbel aan de zijkant van de voet die zich bij de aanzet van de grote teen ontwikkelt. Een bunion ontsteekt vaak en is vaak gezwollen, waardoor pijn in de voet ontstaat. Alhoewel iedereen een bunion kan ontwikkelen, komt de aandoening meestal voor bij vrouwen en oudere volwassenen. In de loop van de tijd kan het gewricht groter en stijf worden, waardoor de schoen niet goed meer past, pijn ontstaat en lopen moeilijk wordt. Fysiotherapeuten helpen mensen met een bunion om de hoek van de grote teen te verbeteren, spierkracht en loopvermogen te verbeteren en de pijn te verminderen.
+
+symptoms:
+  - name: Pijn en zwelling in het gewricht van de grote teen, die verergert bij staan en lopen.
+    code:
+      codeValue: "418237007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van gewricht van teen
+    code:
+      codeValue: "299577004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Veranderingen in het evenwicht, waardoor vooral bij ouderen het risico op vallen toeneemt.
+    code:
+      codeValue: "129839007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Graduele vergroting van de knobbel aan de zijkant van de voet, die ontstoken en gezwollen kan raken waardoor pijn ontstaat.
+
+  - name: Pijn bij het dragen van schoenen, waardoor het moeilijk wordt om comfortabele of modieuze schoenen te vinden.
+
+  - name: Veranderingen in de manier van lopen
+
+  - name: Toenemende moeite met lopen
+
+  - name: Kruisen van de grote teen met de kleinere tenen, waardoor de tenen elkaar in de weg zitten en mogelijk tot meer vervormingen en pijn leiden.
+
+  - name: Verminderde kwaliteit van leven door de pijn in de voet.
+
+videos:
+  - D-fXVYfcQ7M
+  - 89MQ9jcPHcE
+  - b-JKyIReYn4
+---

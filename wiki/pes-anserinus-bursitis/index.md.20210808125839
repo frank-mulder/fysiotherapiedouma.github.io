@@ -1,0 +1,68 @@
+---
+author: olivier-blaauw
+date: 2017-05-08 06:03:55+00:00
+draft: false
+isentity: true
+title: Pes anserinus bursitis
+type: wiki
+url: /wiki/pes-anserinus-bursitis/
+categories:
+- Diabetes
+- Knie
+- Pezen
+- Sportblessures
+tags:
+- bursitis
+- diabetes
+- herhaald bewegen
+- obesitas
+- pijn
+- slijmbeursontsteking
+
+alternate_names:
+  -
+
+datepublished: 2017-05-08
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 73105000
+
+description: Pes anserinus bursitis is een pijnlijke aandoening van de knie, die vooral voorkomt bij jongeren die aan sport doen (zoals hardlopen of crawle), vrouwen van middelbare leeftijd die te zwaar zijn, en mensen van boven de 50 die artrose van de knie hebben. Tot 75% van de mensen met artrose van de knie hebben symptomen van een pes anserinus bursitis.
+
+symptoms:
+  - name: Pijn bij buigen en strekken van de knie.
+    code:
+      codeValue: "299377003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn en zwelling aan de binnen- en onderkant van de knie, 5-8 centimeter onder het kniegewricht.
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van de binnen- en onderkant van de knie.
+    code:
+      codeValue: "299322007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn of moeite met lopen, gaan zitten, gaan staan of traplopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij aanraking van de binnen- en onderkant van de knie.
+videos:
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - 34wuJCU0u_E
+  - WnZVUTeuAks
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - vvyV5OqrbF4
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+  - b-JKyIReYn4
+---

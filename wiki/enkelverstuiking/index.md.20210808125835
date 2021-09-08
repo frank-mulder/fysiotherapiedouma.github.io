@@ -1,0 +1,78 @@
+---
+author: olivier-blaauw
+date: 2016-12-04 16:24:18+00:00
+draft: false
+isentity: true
+title: Enkelverstuiking
+type: wiki
+url: /wiki/enkelverstuiking/
+categories:
+- Enkel
+tags:
+- enkel
+- enkelverstuiking
+- gewrichtsbanden
+- stijfheid
+- verstuiking
+- zwelling
+
+alternate_names:
+  - Distorsie van enkel
+
+datepublished: 2016-12-04
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 44465007
+
+description : Verstuiking van de enkel komt vaak voor wanneer de voet verder draait dan het normale bewegingsbereik toelaat, waardoor de enkelbanden overrekken of afscheuren.  Jonge atleten, militairen en iedereen die vaak rent, springt of snel van richting verandert bij sportuitoefening (‘snijbeweging”) valt in de groep met een verhoogd risico op een verstuikte enkel. Fysiotherapeuten helpen mensen met enkelverstuikingen om de pijn te verminderen, kracht, beweging en evenwicht te herstellen, verder te gaan met de normale activiteiten en nieuw letsel te voorkomen.
+
+symptoms:
+  - name: Pijn
+    code:
+      codeValue: "22253000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling
+    code:
+      codeValue: "267039000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een gevoel van instabiliteit in het enkelgewricht
+    code:
+      codeValue: "813001"
+      codingSystem: "SNOMED-CT"
+
+  - name: throbbing
+    code:
+      codeValue: "410704005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Enkelgewricht pijnlijk bij beweging
+    code:
+      codeValue: "299447008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onvermogen om te staan of lopen op de aangedane voet
+
+  - name: Kloppen
+
+  - name: Stijfheid
+
+  - name: Zwakte
+
+videos:
+  - hx7Sbevet0Q
+  - XzIjVJA3pC8
+  - BRHY4wyA5qs
+  - D-fXVYfcQ7M
+  - L3v1fjwuFns
+  - 89MQ9jcPHcE
+  - 8WqA9rVRbOE
+  - b-JKyIReYn4
+---
+
+**Verstuiking van de [enkel](/categories/enkel/) komt vaak voor wanneer de [voet](/categories/voet/) verder draait dan het normale bewegingsbereik toelaat, waardoor de enkelbanden overrekken of afscheuren. **
+
+**Jonge atleten, militairen en iedereen die vaak rent, springt of snel van richting verandert bij sportuitoefening (‘snijbeweging”) valt in de groep met een verhoogd risico op een verstuikte enkel. Fysiotherapeuten helpen mensen met enkelverstuikingen om de [pijn](/wiki/pijn/) te verminderen, kracht, beweging en [evenwicht](/categories/evenwicht/) te herstellen, verder te gaan met de normale activiteiten en nieuw letsel te voorkomen.**

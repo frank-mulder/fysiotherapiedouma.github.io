@@ -1,0 +1,59 @@
+---
+author: olivier-blaauw
+date: 2017-02-23 09:39:05+00:00
+draft: false
+isentity: true
+title: Mediaal kniebandletsel
+type: wiki
+url: /wiki/mediaal-kniebandletsel/
+categories:
+- Knie
+tags:
+- binnenkant knie
+- pijn
+- sporttrauma
+- voetbal blessure
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-02-23
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 444448004
+
+description: Het mediaal collateraal ligament (MCL) ofwel de binnenband van het kniegewricht is de vaakst beschadigde gewrichtsband in de knie. De MCL kan verrekken of scheuren als gevolg van een klap op de buitenkant van de knie, door verdraaiing van de knie of door snel van richting te veranderen tijdens het lopen of rennen. MCL-letsel komt het meest voor bij sporters, alhoewel ook niet-sporters getroffen kunnen worden.
+
+symptoms:
+  - name: Stijfheid in de knie.
+    code:
+      codeValue: "249913002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een instabiel gevoel, alsof de knie kan doorzakken
+    code:
+      codeValue: "250102002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling en bloeduitstortingen aan de binnenkant van de knie.
+    code:
+      codeValue: "248491001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn of moeite met lopen, gaan zitten, opstaan uit een stoel of traplopen
+    code:
+      codeValue: "304321000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling die zich verspreid naar de rest van het kniegewricht in de 1 of 2 dagen volgend op het letsel.
+
+  - name: Pijn aan de binnenkant van de knie
+
+  - name: Moeite of pijn bij het proberen om de knie te buigen of te strekken
+
+  - name: Een “ploppend” geluid bij het ontstaan van het letsel
+---
+Een fysiotherapeut behandelt een MCL-verrekking of –scheur om [pijn](/wiki/pijn/), zwelling, stijfheid en elke andere verwante zwakte in de [knie](/categories/knie/) of onderste ledemaat te verminderen.
