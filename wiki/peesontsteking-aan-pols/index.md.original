@@ -1,0 +1,67 @@
+---
+author: manon-klarenbeek
+date: 2017-05-08 05:47:43+00:00
+draft: false
+isentity: true
+title: Peesontsteking aan de pols
+type: wiki
+url: /wiki/peesontsteking-aan-pols/
+categories:
+- Pezen
+- Pols
+tags:
+- onstekingen
+- peesontsteking
+- pols
+- Quervain
+- stijfheid
+- tendinitis
+- tendinopathie
+
+alternate_names:
+  - tendinitis van pols
+
+datepublished: 2017-05-08
+datemodified: 2020-05-12
+
+about: MedicalCondition
+
+snomed_code: 423810002
+
+description: Peesontsteking van de pols is een aandoening die zich meestal bij mensen voordoet die herhaalde activiteiten met de hand en arm uitvoeren. Dit kunnen mensen zijn die hun polsen veel gebruiken zoals computergebruikers of sporters die ballen gooien en vangen of met een racket spelen. In Nederland is de incidentie van peesontsteking als een beroepsblessure onder mensen die fulltime werken 1,1 per 100.000.
+
+symptoms:
+  - name: Stijfheid in de pols en een verminderd vermogen om de pols te buigen en te strekken
+    code:
+      codeValue: "249916005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Ontsteking of zwelling in de polsstreek
+    code:
+      codeValue: "298941006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn aan de duimzijde van de pols (radiaal) of aan de pinkzijde van de pols (ulnair).
+    code:
+      codeValue: "56608008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid voor aanraking in de spieren van de pols en/of onderarm.
+    code:
+      codeValue: "299017002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn wanneer druk op de hand wordt gezet, zoals bij het gebruiken van de armen om uzelf uit een stoel naar stand op te drukken.
+
+  - name: Pijn die zich alleen voordoet als de pols onder druk staat, die zonder behandeling permanent kan worden.
+
+  - name: Pijn op het punt waar de arm de hand ontmoet, die naar de elleboog kan uitstralen.
+
+videos:
+  - cgeEOAMCRIY
+  - UZtmdXQPfn8
+  - PTbk1jb5QQ4
+  - UF2Fcf616ks
+  - OnEwr875Q8M
+  - UUgrtkRI6Xw
+---

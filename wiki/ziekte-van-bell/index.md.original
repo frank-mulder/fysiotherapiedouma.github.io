@@ -1,0 +1,60 @@
+---
+author: li-anne-douma
+date: 2016-12-19 10:09:44+00:00
+draft: false
+isentity: true
+title: Ziekte van Bell
+type: wiki
+url: /wiki/ziekte-van-bell/
+categories:
+- Hoofd
+- Neurologie
+tags:
+- aangezichtsverlamming
+- beroerte
+- ziekte van bell
+
+alternate_names:
+  - idiopathische perifere facialisparese
+  - Bell-verlamming
+  - verlamming van Bell
+  - paralyse van Bell
+  - IPAV
+  - Bell-paralyse
+  - idiopathische perifere aangezichtsverlamming
+
+datepublished: 2016-12-19
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 193093009
+
+description: Er zijn verschillende oorzaken voor aangezichtsverlamming, zoals tumoren op de aangezichtszenuw of aan de hersenstam, of een aangeboren aandoening. De ziekte van Bell begint normaliter met een plotselinge slapte aan een kant van uw gezicht of een plotseling gevoel dat u een kant van uw gezicht niet meer kunt bewegen.
+
+symptoms:
+  - name:
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name:
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name:
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name:
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name:
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+---

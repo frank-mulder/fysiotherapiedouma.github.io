@@ -1,0 +1,71 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-01-12 19:08:04+00:00
+draft: false
+isentity: true
+title: Degeneratieve discopathie
+type: wiki
+url: /wiki/degeneratieve-discopathie/
+categories:
+- Degeneratie
+- Wervelkolom
+tags:
+- degeneratie
+- gewrichtspijn
+- mobiliteits probleem
+- niet buigen
+- ruggengraat
+- rugklachten
+- rugpijn
+- wervelkolom
+
+alternate_names:
+  - degeneratie van tussenwervelschijf
+
+datepublished: 2017-01-12
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 77547008
+
+description: Er wordt vanuit gegaan dat ongeveer 75% van ons op enig moment enige vorm van rug- of nekpijn zal krijgen. Het goede nieuws is dat de meesten van ons zonder een operatie zullen herstellen – en conservatieve zorg, zoals fysiotherapie heeft meestal betere resultaten dan een operatie. Degeneratieve discopathie is een oorzaak van rug- en nekpijn. Degeneratieve discopathie is meestal het gevolg van het natuurlijke ouderdomsproces.
+
+symptoms:
+  - name: Rugpijn
+    code:
+      codeValue: "161891005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Nekpijn
+    code:
+      codeValue: "81680005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schouderpijn
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in bilstreek
+    code:
+      codeValue: "279043006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in been
+    code:
+      codeValue: "10601006"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - Na3963B1xTU
+  - LxIZGEfEKok
+  - mfcXNPfDdxw
+  - jCGmOIE3P2k
+  - Awlc5lHOIWg
+  - LQ75tN96FAE
+  - 9G-M0PJlua0
+  - ANjAYGPgwR4
+  - KGbwxK38uEo
+  - yUF2g4cQ7iY
+---

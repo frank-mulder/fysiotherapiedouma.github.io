@@ -1,0 +1,54 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-05-01 07:31:15+00:00
+draft: false
+isentity: true
+title: Decubitus ("doorliggen")
+type: wiki
+url: /wiki/decubitus-doorliggen/
+categories:
+- Bekken
+- Bil
+- Heup
+- Oncologie
+- Onderrug
+tags:
+- circulatie stoornis
+- dezelfde houding
+- doorliggen
+- druk
+- huidklachten
+- wond
+- wondzorg
+
+alternate_names:
+  -
+
+datepublished: 2017-05-01
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 399912005
+
+description : Meestal doet decubitus zich voor als mensen al lange tijd erg ziek zijn en niet in staat om in bed of in een stoel van houding te veranderen. Mensen met aandoeningen zoals dwarslaesie of dementie en die veel tijd in bed of in een stoel doorbrengen realiseren zich misschien niet eens dat ze van houding moeten veranderen.
+
+
+symptoms:
+  - name: Doorligwond
+    code:
+      codeValue: "420226006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Wondafscheiding
+    code:
+      codeValue: "239164002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Wondvocht
+    code:
+      codeValue: "247450001"
+      codingSystem: "SNOMED-CT"
+
+
+---

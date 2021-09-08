@@ -1,0 +1,64 @@
+---
+author: piet-douma
+date: 2017-02-09 06:47:42+00:00
+draft: false
+isentity: true
+title: Frozen shoulder (adhesieve capsulitis)
+type: wiki
+url: /wiki/frozen-shoulder-adhesieve-capsulitis/
+categories:
+- Schouder
+tags:
+- bevroren
+- gewrichtspijn
+- mobiliteits probleem
+- scherpe pijn
+- schouderklachten
+- stijfheid
+- vastzitten
+
+alternate_names:
+  -
+
+datepublished: 2017-02-09
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 399114005
+
+description : Adhesieve capsulitis, vaak een stijve schouder of “frozen shoulder” genoemd, komt voor bij ongeveer 2% tot 5% van de bevolking. Vrouwen hebben er meer last van dan mannen en het komt vooral voor bij mensen die ouder dan 45 zijn. Van de mensen, die een frozen shoulder hebben gehad, krijgt 20% tot 30% het ook in de andere schouder.
+
+symptoms:
+  - name: Schouderpijn
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schoudergewricht pijnlijk bij beweging
+    code:
+      codeValue: "298857005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid van schoudergewricht
+    code:
+      codeValue: "249918006"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - bE2NCJXMkf8
+  - kxs6NHiUPVg
+  - iMXezW7bJZo
+  - 8pLlP14bPNM
+  - 3H6UlhJH3O0
+  - QO0NJyw1DTg
+  - -64cM9GloCo
+  - 72EOhxZr7pQ
+  - _aDZYsi10-o
+  - x1gr9F8ENs0
+  - Ul6jfph8mx4
+  - YQqsYkSCbek
+  - 0yQq__3rISY
+---
+
+**Adhesieve capsulitis, vaak een stijve schouder of “frozen shoulder” genoemd, komt voor bij ongeveer 2% tot 5% van de bevolking. Vrouwen hebben er meer last van dan mannen en het komt vooral voor bij mensen die ouder dan 45 zijn. Van de mensen, die een frozen shoulder hebben gehad, krijgt 20% tot 30% het ook in de andere schouder.**

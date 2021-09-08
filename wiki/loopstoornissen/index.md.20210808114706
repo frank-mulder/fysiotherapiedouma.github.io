@@ -1,0 +1,61 @@
+---
+author: gerjanne-van-der-borden-van-roekel
+date: 2017-02-13 13:55:20+00:00
+draft: false
+isentity: true
+title: Loopstoornissen
+type: wiki
+url: /wiki/loopstoornissen/
+categories:
+- Loopstoornis
+tags:
+- afwikkeling
+- balans
+- gangspoor
+- gangspoorbreedte
+- hanentred
+- heupzwakte
+- loopstoornis
+- waggelen
+
+alternate_names:
+  -
+
+datepublished: 2017-02-13
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 228158008
+
+description: Loopstoornissen betreffen veranderingen in uw normale looppatroon, vaak verwant aan een ziekte of afwijking aan een ander gebied van uw lichaam. Loopstoornissen zijn één van de meest voorkomende oorzaken van vallen bij oudere volwassenen, goed voor 17% van alle valpartijen. Deze richtlijn zal u helpen om beter te begrijpen hoe loopstoornissen worden gecategoriseerd en hoe behandeling door een fysiotherapeut u kan helpen om uw gezonde looppatroon weer terug te krijgen.
+
+
+symptoms:
+  - name: Antalgisch looppatroon
+    code:
+      codeValue: "67141003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Cerebellaire ataxie
+    code:
+      codeValue: "85102008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gang bij vestibulaire ataxie
+    code:
+      codeValue: "250032008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hanentred
+    code:
+      codeValue: "27253007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schuifelende gang
+    code:
+      codeValue: "43005009"
+      codingSystem: "SNOMED-CT"
+---
+
+Fysiotherapeuten zijn experts in het identificeren van de oorzaken van loopstoornissen en ontwikkelen behandelingen om het looppatroon te herstellen.

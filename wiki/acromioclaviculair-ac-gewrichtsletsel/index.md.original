@@ -1,0 +1,69 @@
+---
+author: kaj-moorman
+date: 2016-12-04 15:52:47+00:00
+draft: false
+isentity: true
+title: Acromioclaviculair (AC) gewrichtsletsel
+type: wiki
+url: /wiki/acromioclaviculair-ac-gewrichtsletsel/
+categories:
+- Schouder
+tags:
+- acromioclaviculair gewrichtsletsel
+- acromion
+- schouder
+- schouderblad
+- schouderdak
+
+alternate_names:
+  - Pijn in articulatio acromioclavicularis
+  - Artralgie van AC-gewricht
+  - AC-gewricht artrose
+
+datepublished: 2016-12-04
+datemodified: 2020-04-24
+
+maintopic: medicalcondition/acgewrichtsletsel
+
+mentions:
+  - anatomicalstructure/voet
+  - anatomicalstructure/bovenrug
+  - medicaltherapy/manuele_therapie
+
+
+about: MedicalCondition
+
+snomed_code: 201943001
+
+description : Acromioclaviculair (AC) gewrichtsletsel is een term die gebruikt wordt om letsel bovenop de schouder te beschrijven, waar de voorkant van het schouderblad, het schouderdak (acromion), vastzit aan het sleutelbeen (clavicula). Het kan veroorzaakt worden door een traumatische gebeurtenis zoals een val direct op de buitenkant van de schouder of door overbelasting. AC gewrichtsletsel komt vooral voor bij mensen onder 35 jaar. Mannen maken 5 keer vaker traumatisch AC gewrichtsletsel door dan vrouwen. Omdat jongere atleten de meeste kans hebben om deel te nemen aan hoog-risico en botsgevoelige gebeurtenissen, zoals voetbal, fietsen, sneeuwsporten, hockey en rugby, komt AC gewrichtsletsel het vaakst voor in deze populatie. AC gewrichtsletsel kan worden vastgesteld en effectief behandeld door een fysiotherapeut, zodat vaak geen operatie nodig is.
+
+videos:
+  - 8pLlP14bPNM
+  - 3H6UlhJH3O0
+  - -64cM9GloCo
+  - _aDZYsi10-o
+
+symptoms:
+  - name: Algemene schouderpijn en –zwelling
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling en gevoeligheid van het AC gewricht
+    code:
+      codeValue: "202479004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlies van kracht in de schouder
+
+  - name: Een zichtbare bobbel boven de schouder
+
+  - name: Pijn bij het liggen op de betrokken zij
+
+  - name: Verlies van mobiliteit in de schouder
+
+  - name: Een ploppend geluid of een plakkend gevoel bij beweging van de schouder
+
+  - name: Ongemak bij dagelijkse activiteiten, die het AC gewricht belasten, zoals boven het hoofd tillen, voor het lichaam reiken of zwaar tillen aan uw zij
+
+---

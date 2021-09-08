@@ -1,0 +1,70 @@
+---
+author: li-anne-douma
+date: 2016-12-04 16:00:38+00:00
+draft: false
+isentity: true
+title: Ziekte van Alzheimer
+type: wiki
+url: /wiki/ziekte-van-alzheimer/
+categories:
+- Alzheimer
+- Neurologie
+tags:
+- alzheimer
+- verwardheid
+- ziekte van Alzheimer
+
+alternate_names:
+  -
+
+datepublished: 2016-12-04
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 26929004
+
+description: Naast geheugenverlies en andere cognitieve problemen hebben mensen met de ziekte van Alzheimer moeilijkheden met het uitvoeren van simpele dagelijkse taken.
+
+symptoms:
+  - name: Veranderingen in het geheugen, die het dagelijks leven overhoop gooien
+    code:
+      codeValue: "386807006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Desoriëntatie in tijd en plaats
+    code:
+      codeValue: "62476001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Concentratieprobleem
+    code:
+      codeValue: "76039005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Veranderingen in stemming of persoonlijkheid
+    code:
+      codeValue: "18963009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Depressieve-stemmingsstoornis
+    code:
+      codeValue: "35489007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Problemen met nemen van beslissingen, vooral bij het plannen of oplossen van problemen
+
+  - name: Problemen met het afmaken van bekende taken
+
+  - name: Problemen met het begrijpen van visuele informatie of de manier waarop dingen fysiek in elkaar passen (ruimtelijke inzicht)
+
+  - name: De juiste woorden vinden in woord en geschrift
+
+  - name: Dingen op de verkeerde plaats leggen of het vermogen verliezen om uw stappen te herleiden
+
+  - name: Slecht of verminderd inschattingsvermogen over veiligheid
+
+  - name: Terugtrekking uit werk of sociale activiteiten
+---
+
+Fysiotherapeuten werken samen met families en mantelzorgers om mensen met de ziekte van Alzheimer te helpen om veilig te blijven bewegen en het verslechteren van de aandoening te vertragen.

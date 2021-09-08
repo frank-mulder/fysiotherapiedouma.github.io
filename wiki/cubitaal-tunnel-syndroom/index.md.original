@@ -1,0 +1,71 @@
+---
+author: olivier-blaauw
+date: 2017-01-12 19:07:20+00:00
+draft: false
+isentity: true
+title: Cubitaal tunnel syndroom
+type: wiki
+url: /wiki/cubitaal-tunnel-syndroom/
+categories:
+- Bovenarm
+- Elleboog
+- Onderarm
+- Uitstraling
+tags:
+- elleboog
+- inklemming
+- pijn
+- spierzwakte
+- uitstraling
+- zenuw
+- zenuwpijn
+- zenuwuitval
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 56177003
+
+description : Cubitaal tunnel syndroom is de op één na meest voorkomende zenuwbeknelling in de arm (carpaal tunnel syndroom is de meest voorkomende). Het is een aandoening die wordt veroorzaakt door toegenomen druk op de elleboogzenuw (nervus ulnaris). Deze druk kan leiden tot aanzienlijk ongemak en kan uitmonden in functieverlies in de hand. Cubitaal tunnel syndroom treft meer mannen dan vrouwen, vooral bij mensen met werk dat herhaalde elleboogbewegingen en langdurig buigen van de elleboog noodzaakt. Symptomen kunnen zich zowel in de dominante als de niet-dominante arm voordoen.
+
+symptoms:
+  - name: Een misvorming van de hand waarbij de vingers naar binnen buigen, “klauwhand” genaamd.
+    code:
+      codeValue: "299034005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spieratrofie van de kleine spieren in de hand
+    code:
+      codeValue: "719188003"
+      codingSystem: "SNOMED-CT"
+
+  - name: paresthesia of arm
+    code:
+      codeValue: "95673003"
+      codingSystem: "SNOMED-CT"     
+
+  - name: Moeite met het pakken en vasthouden van voorwerpen (onhandige handen)
+
+  - name: Afgenomen gevoel of moeite om het verschil aan te geven tussen scherpe en stompe voorwerpen, die de binnenkant van de voorarm raken.
+
+  - name: Gevoeligheid aan de binnenkant van de elleboog waar de zenuw dicht aan de oppervlakte ligt.
+
+  - name: Terugkerende pijn of gevoelloosheid en tinteling door voortdurend en gedurende langere tijd buigen van de elleboog.
+
+videos:
+  - jtzZOaU_dg8
+  - gcPAAD1wZAE
+  - cgeEOAMCRIY
+  - UZtmdXQPfn8
+  - UUgrtkRI6Xw
+  - SO7axoiXxrA
+---
+
+Cubitaal tunnel syndroom is de op één na meest voorkomende zenuwbeknelling in de arm (carpaal tunnel syndroom is de meest voorkomende). Het is een aandoening die wordt veroorzaakt door toegenomen druk op de elleboogzenuw (nervus ulnaris). Deze druk kan leiden tot aanzienlijk ongemak en kan uitmonden in functieverlies in de hand.
+
+Cubitaal tunnel syndroom treft meer mannen dan vrouwen, vooral bij mensen met werk dat herhaalde elleboogbewegingen en langdurig buigen van de elleboog noodzaakt. Symptomen kunnen zich zowel in de dominante als de niet-dominante arm voordoen.

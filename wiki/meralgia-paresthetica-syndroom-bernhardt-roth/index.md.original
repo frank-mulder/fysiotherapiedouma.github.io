@@ -1,0 +1,54 @@
+---
+author: petra-tuunter
+date: 2017-02-23 13:08:29+00:00
+draft: false
+isentity: true
+title: Meralgia paresthetica (Syndroom van Bernhardt-Roth)
+type: wiki
+url: /wiki/meralgia-paresthetica-syndroom-bernhardt-roth/
+categories:
+- Bovenbeen
+tags:
+- beknelling
+- Bernhard-Roth
+- doofheid
+- huiszenuw
+- meralgia paresthetica
+- tintelingen
+
+alternate_names:
+  -
+
+datepublished: 2017-02-23
+datemodified: 2020-05-06
+
+about: MedicalCondition
+
+snomed_code: 85007004
+
+description: Meralgia paresthetica of het syndroom van Bernhardt-Roth beschrijft een aandoening waarbij doofheid, tinteling en brandende pijn wordt gevoeld in het buitenste deel van de dij. Het komt voor ten gevolge van zenuwbeknelling. Meralgia paresthetica treft meestal mensen van middelbare leeftijd, en vaker mannen dan vrouwen. Het kan zich echter bij mensen van alle leeftijden voordoen.
+
+symptoms:
+  - name: Problemen met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Doofheid aan de buitenkant van de dij
+    code:
+      codeValue: "44077006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tinteling of brandende pijn aan de buitenkant van de dij
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Toegenomen gevoeligheid voor lichte aanraking aan de buitenkant van de dij
+
+  - name: Pijn als men op de aangedane zijde ligt
+
+  - name: Toegenomen gevoeligheid voor heel hoge of lage lucht- of watertemperatuur
+
+  - name: Toegenomen gevoeligheid voor verschillende kledingstoffen
+---

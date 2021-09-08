@@ -1,0 +1,63 @@
+---
+author: piet-douma
+date: 2017-02-21 10:18:17+00:00
+draft: false
+isentity: true
+title: Golfers elleboog (mediale epicondylitis)
+type: wiki
+url: /wiki/mediale-epicondylitis-golferselleboog/
+categories:
+- Elleboog
+tags:
+- elleboog
+- epicondylitis
+- golf
+- golferselleboog
+- overbelasting
+- tennis
+
+alternate_names:
+  -
+
+datepublished: 2017-02-21
+datemodified: 2020-05-06
+
+about: MedicalCondition
+
+snomed_code: 53286005
+
+description: Mediale epicondylitis ( golferselleboog genoemd) is een aandoening die zich ontwikkelt als de pezen aan de binnenkant van de onderarm geïrriteerd, ontstoken en pijnlijk worden ten gevolge van repetitief gebruik van de hand, pols, onderarm en elleboog. Het wordt vaak vastgesteld bij mensen die herhaalde bewegingen maken, zoals het zwaaien van een golfclub of tennisracket, of activiteiten doen waarbij ze moeten grijpen, draaien of gooien. Zelfs computergebruik of werk in de tuin kan de aandoening veroorzaken.
+
+symptoms:
+  - name: Stijfheid in de elleboog
+    code:
+      codeValue: "249917001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte in de hand en onderarm als men voorwerpen probeert te pakken
+    code:
+      codeValue: "299042006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn of gevoelloosheid en tintelingen die van de binnenkant van de elleboog uitstralen naar de hand en vingers, bij grijpende of knijpende bewegingen.
+    code:
+      codeValue: "298929004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn langs de binnenkant van de onderarm bij beweging van pols, hand of elleboog
+    code:
+      codeValue: "444899003"
+      codingSystem: "SNOMED-CT"
+
+  - name: paresthesia of arm
+    code:
+      codeValue: "95673003"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - gcPAAD1wZAE
+  - OnEwr875Q8M
+  - UUgrtkRI6Xw
+---
+
+Het komt vooral voor bij mannen van boven de 35. Een fysiotherapeut kan helpen om de pijn te verminderen, die wordt veroorzaakt door mediale epicondylitis en de mobiliteit, kracht en functioneren van de aangedane elleboog verbeteren.

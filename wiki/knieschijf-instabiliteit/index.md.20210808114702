@@ -1,0 +1,73 @@
+---
+author: piet-douma
+date: 2017-03-23 13:37:23+00:00
+draft: false
+isentity: true
+title: Knieschijf instabiliteit
+type: wiki
+url: /wiki/knieschijf-instabiliteit/
+categories:
+- Gewrichten
+- Knie
+tags:
+- crepitatie
+- gewrichtsstijfheid
+- instabiliteit
+- knieklachten
+
+alternate_names:
+  - patellofemorale instabiliteit
+
+datepublished: 2017-03-23
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 429696002
+
+description: Patella instabiliteit is de term die is gegeven aan een verscheidenheid aan letsel dat zich voordoet als de patella of knieschijf van de bedoelde rustplaats is geschoven. Oorzaken zijn traumatische verschuiving, zoals zich kan voordoen bij sport, of verschuiving veroorzaakt door het dagelijks gebruik. De aandoening treft ongeveer 7 op de 100.000 mensen in Nedereland en wordt vooral vastgesteld bij tieners en twintigers, met name jongere vrouwelijke sporters.
+
+symptoms:
+  - name: Kniepijn, vooral bij traplopen, hurken, rennen, springen of “snijden” bij sport.
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling en stijfheid in de knie na traumatisch letsel
+    code:
+      codeValue: "299322007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid van knie
+    code:
+      codeValue: "249913002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderde bewegingsuitslag van knie
+    code:
+      codeValue: "304321000"
+      codingSystem: "SNOMED-CT"
+
+  - name: De knieschijf uit de groef voelen schuiven of glijden
+
+  - name: Angst voor instabiliteit voelen bij zware inspanning, waaronder lopen op oneffen terrein, landen na een sprong, traplopen of draaien in bed.
+
+  - name: Zwakte in uw been alsof uw knie kan doorzakken
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - RIL_mhNtC-s
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+---
+Als iemand een periode van knieschijf instabiliteit heeft doorgemaakt, is sprake van verhoogd risico op nog een periode met 15% tot 44% die het daadwerkelijk nog een keer doormaken. Om knieschijf instabiliteit te behandelen, schrijven fysiotherapeut normaal gesproken een combinatie van krachtoefeningen voor om de pijn te verlichten en functioneren te verbeteren.
+
+Als iemand een periode van knieschijf instabiliteit heeft doorgemaakt, is sprake van verhoogd risico op nog een periode met 15% tot 44% die het daadwerkelijk nog een keer doormaken. Om knieschijf instabiliteit te behandelen, schrijven fysiotherapeut normaal gesproken een combinatie van krachtoefeningen voor om de pijn te verlichten en functioneren te verbeteren.

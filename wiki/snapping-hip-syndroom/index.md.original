@@ -1,0 +1,65 @@
+---
+author: olivier-blaauw
+date: 2017-05-18 11:43:59+00:00
+draft: false
+isentity: true
+title: Snapping hip syndroom
+type: wiki
+url: /wiki/snapping-hip-syndroom/
+categories:
+- Bovenbeen
+- Gewrichten
+- Heup
+tags:
+- gewrichtsbanden
+- knappend geluis
+- Loopproblemen
+- peesband
+- ploppend geluid
+- snapping hip syndroom
+- spierband
+
+alternate_names:
+  -
+
+datepublished: 2017-05-18
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 11568002
+
+description: Het snapping hip syndroom verwijst naar het knappende of ploppende gevoel dat zich aan de zijkant, voorkant of achterkant van uw heup voordoet als u uw been met kracht optilt, neerzet of zwaait. Snapping hip maakt het moeilijker om dingen te doen zoals tillen, trappen, uw been draaien, opstaan uit een stoel, lopen, rennen of fietsen.
+
+symptoms:
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid aan de voor- of achterkant van de heup
+    code:
+      codeValue: "249914008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling aan de voor- of zijkant van de heup
+    code:
+      codeValue: "442672001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Knappen of ploppen aan de voorkant, zijkant of achterkant van de heup bij het optillen, neerzetten of zwaaien van het been
+
+  - name: Zwakte in het been als u probeert om het vooruit of opzij te tillen
+
+  - name: Moeite met dagelijkse dingen zoals opstaan uit een stoel en wandelen.
+  
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - Na3963B1xTU
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+---

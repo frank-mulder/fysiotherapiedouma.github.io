@@ -1,0 +1,28 @@
+---
+title: Specialisaties van Fysiotherapie Douma Hilversum
+author: frank-mulder
+date: 2021-01-21
+datepublished: 2021-01-21
+type: page
+breadcrumb: Specialisaties van Fysiotherapie Douma Hilversum
+description: Fysiotherapie Douma heeft met alle ervaren therapeuten veel specialisaties in huis. Wilt u snel van uw klachten af? Bekijk dan hoe wij u kunnen helpen.
+url: /specialisaties/
+---
+{{< box >}}
+# Specialisaties van Fysiotherapie Douma Hilversum
+{{< /box >}}
+
+{{< specialisatie-overzicht >}}
+
+{{< specialisatie-buttons title="Meer specialisaties van Fysiotherapie Douma">}}
+  {{< button type="secondary" href="/oedeemtherapie/" >}}Oedeemtherapie{{< /button >}}
+  {{< button type="secondary" href="/kaakfysiotherapie/" >}}Kaakfysiotherapie{{< /button >}}
+  {{< button type="secondary" href="/dry-needling/" >}}Dry Needling{{< /button >}}
+  {{< button type="secondary" href="/acupunctuur/" >}}Acupunctuur{{< /button >}}
+  {{< button type="secondary" href="/orthopedische-revalidatie/" >}}Orthopedische revalidatie{{< /button >}}
+  {{< button type="secondary" href="/medical-taping/" >}}Medical taping{{< /button >}}
+  {{< button type="secondary" href="/bedrijfsfitheidsscan/" >}}Bedrijfsfitheidsscan{{< /button >}}
+  {{< button type="secondary" href="/niet-aangeboren-hersenletsel/" >}}Hersenletsel (NAH){{< /button >}}
+  {{< button type="secondary" href="/zwangerfit/" >}}Zwangerfit{{< /button >}}
+  {{< button type="secondary" href="/parkinson/" >}}Parkinson{{< /button >}}
+{{< /specialisatie-buttons >}}

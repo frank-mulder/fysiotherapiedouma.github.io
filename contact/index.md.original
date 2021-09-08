@@ -1,0 +1,33 @@
+---
+date: 2013-01-21 06:20:51+00:00
+draft: false
+title: Vragen voor  Fysiotherapie Douma? Neem contact op
+type: page
+url: /contact/
+useContact: true
+metadescription: Hier kunt u nalezen hoe u contact met ons kunt opnemen. Wij reageren tijdens openingstijden binnen afzienbare tijd.
+images:
+  - /images/headers/contact.jpg
+---
+<div>{{< headerimage src="images/headers/contact.jpg" title="Contact met Fysiotherapie Douma" >}}
+Heeft u een klacht of wilt u graag meer informatie? Wij staan graag voor u klaar.<br /><br />
+<strong>Telefonische bereikbaarheid</strong><br />
+maandag t/m vrijdag: 8:00 – 17:00 uur<br />
+zaterdag: 9:00 – 12:00 uur<br /><br /><div>
+<a role="button" class="btn-secondary btn-sm" href="tel:0356216812">Bel ons</a>
+<a role="button" class="btn-secondary btn-sm" href="mailto:info@fysiodouma.nl">Stuur een mail</a>
+<a role="button" class="btn-secondary btn-sm" href="/openingstijden/">Onze openingstijden</a>
+<a role="button" class="btn-secondary btn-sm" href="/aanmelden/">Maak een afspraak</a></div>
+{{< /headerimage >}}</div>
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Aanmeldingsformulier fysiotherapie
+Velden die gemarkeerd zijn met een * zijn verplichte velden.
+
+{{< aanmelden >}}
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Onze locaties
+{{< /twotoneright >}}
+{{< /twotone >}}

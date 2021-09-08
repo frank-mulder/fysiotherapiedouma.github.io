@@ -1,0 +1,59 @@
+---
+author: piet-douma
+date: 2017-02-06 14:32:04+00:00
+draft: false
+isentity: true
+title: Slijmbeursontsteking van de elleboog
+type: wiki
+url: /wiki/slijmbeursontsteking-van-de-elleboog/
+categories:
+- Elleboog
+tags:
+- bursitis
+- olecrani
+- ontstekingen
+- Popeye elleboog
+- slijmbeursontsteking
+- studentenelleboog
+
+alternate_names:
+  -
+
+datepublished: 2017-02-06
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 712484007
+
+description: Slijmbeursontsteking van de elleboog (olecranon), vaak  “studentenelleboog” of “Popeye elleboog” genoemd, behelst een zwelling aan het puntje van de elleboog, aan de achterkant van de arm. De aandoening kan pijnloos zijn, of pijnlijk bij rust of als erop wordt geleund, zoals bij schrijven met de arm op tafel.
+
+symptoms:
+  - name: Zwelling op de punt of aan de achterkant van de elleboog
+    code:
+      codeValue: "298870001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid in het ellebooggewricht en moeite met het buigen van de elleboog
+    code:
+      codeValue: "249917001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn als u met uw vingers op de punt of de achterkant van de elleboog drukt
+    code:
+      codeValue: "74323005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid van ellebooggewricht
+    code:
+      codeValue: "298928007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn als u op de arm leunt, zoals wanneer de arm op de leuning van een stoel of op de rand van een bureau of tafel ligt
+
+  - name: Roodheid op de punt van de elleboog
+---
+
+**Slijmbeursontsteking van de elleboog kan veel oorzaken hebben, maar de meest voorkomende is trauma na een directe klap of van kleinere tikken of doorlopende druk. Slijmbeursontsteking van de elleboog komt veel voor bij studenten of kantoormedewerkers, die langere tijd met hun ellebogen op harde bureaus of armsteunen leunen; het komt echter niet specifiek voor bij een bepaalde leeftijd of etnische groep. De aandoening kan ook veroorzaakt worden door ontsteking of aandoeningen van het auto-immuun systeem. Soms kan een specifieke oorzaak echter niet worden vastgesteld.**
+
+Fysiotherapeuten behandelen mensen met slijmbeursontsteking van de elleboog om de pijn, zwelling, stijfheid en andere verwante zwakte in de elleboog of bovenste ledematen te verlichten.

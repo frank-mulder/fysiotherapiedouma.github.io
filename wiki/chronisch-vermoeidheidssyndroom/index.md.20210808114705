@@ -1,0 +1,67 @@
+---
+author: bas-van-baaden
+date: 2017-01-12 19:01:11+00:00
+draft: false
+isentity: true
+title: Chronisch vermoeidheidssyndroom
+type: wiki
+url: /wiki/chronisch-vermoeidheidssyndroom/
+categories:
+- Neurologie
+- Vermoeidheid
+tags:
+- CVS
+- grieperig
+- griepverschijnselen
+- hoofdpijn
+- slaapproblemen
+- slapeloosheid
+- spierzwakte
+- stijfheid
+- vermoeidheid
+
+alternate_names:
+  - CVS
+
+datepublished: 2017-01-12
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 52702003
+
+description : Chronisch vermoeidheidssyndroom (CVS) is een aandoening, die ongeveer 1% van de bevolking heeft. Zonder behandeling leidt CVS meestal tot arbeidsongeschiktheid. Met behandeling, waaronder fysiotherapie, blijft de aandoening onder controle en de kwaliteit van het leven hoog.
+
+symptoms:
+  - name: Vermoeidheid
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Regelmatige hoofdpijn
+    code:
+      codeValue: "25064002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Griepsymptomen
+    code:
+      codeValue: "315642008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Wollige gedachten en verwarring
+    code:
+      codeValue: "26329005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Algemene pijn
+
+  - name: Onderbroken slaap
+
+---
+
+** **

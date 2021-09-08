@@ -1,0 +1,61 @@
+---
+author: piet-douma
+date: 2017-05-11 12:53:28+00:00
+draft: false
+isentity: true
+title: Tenniselleboog (laterale epicondylitis)
+type: wiki
+url: /wiki/tenniselleboog-laterale-epicondylitis/
+categories:
+- Elleboog
+- Pezen
+tags:
+- laterale epicondylitis
+- overbelasting
+- pijn
+- tenniselleboog
+
+alternate_names:
+  - Tenniselleboog
+
+datepublished: 2017-05-11
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 202855006
+
+description: De meeste mensen die een tenniselleboog krijgen spelen geen tennis! In feite komt minder dan 5% van alle gevallen van tenniselleboog voor bij tennisspelers. Een tenniselleboog kan iedereen overkomen die voor werk, sport of hobby vaak de elleboog, pols en hand gebruikt.
+
+symptoms:
+  - name: Pijn die naar uw onderarm en pols straalt
+    code:
+      codeValue: "444899003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid in de elleboog.
+    code:
+      codeValue: "249917001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte in de voorarm, pols of hand
+    code:
+      codeValue: "299042006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Toenemende pijn als u uw pols en hand gebruikt om dingen op te tillen, een pot open te draaien of iets stevig vast te pakken, zoals een mes en vork.
+    code:
+      codeValue: "298929004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met gewone dingen, zoals het omdraaien van een deurklink of vasthouden van een kopje.
+
+  - name: Moeite met dingen vasthouden
+
+videos:
+  - gcPAAD1wZAE
+  - UZtmdXQPfn8
+  - OnEwr875Q8M
+  - UUgrtkRI6Xw
+  - SO7axoiXxrA
+---

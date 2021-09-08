@@ -1,0 +1,77 @@
+---
+author: petra-tuunter
+date: 2017-01-12 19:19:43+00:00
+draft: false
+isentity: true
+title: Rectus diastase
+type: wiki
+url: /wiki/rectus-diastase/
+categories:
+- Buik
+tags:
+- bekkenbodem spieren
+- buik
+- buikspieren
+- vrouw
+- zwangerschap
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 62629000
+
+description: Rectus diastase is een aandoening waarbij de 2 zijden van de rechte buikspieren gescheiden worden doordat het weefsel dat ze verbindt oprekt. Dit gebeurt meestal bij vrouwen tijdens en na de zwangerschap door het rekken van de buikwand, terwijl de baarmoeder groter wordt. Fysiotherapie is zeer effectieve aanpak gebleken om rectus diastase zowel te vermijden en te behandelen.
+
+symptoms:
+  - name: Pijn bij seks
+    code:
+      codeValue: "71315007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in de onderrug, bekken of heup.
+    code:
+      codeValue: "30473006"
+      codingSystem: "SNOMED-CT"
+
+  - name: lage rugpijn
+    code:
+      codeValue: "279039007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Incontinentie
+    code:
+      codeValue: "48340000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Constipatie
+    code:
+      codeValue: "14760008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Slechte houding
+
+  - name: Gevoel van zwakte rond het middenrif
+
+  - name: Een zichtbare en voelbare (door aanraking) scheiding van de musculus rectus abdominis.
+
+  - name: Gevoel van “flubberigheid” in de buikspieren.
+
+videos:
+  - kF9av2zLVqk
+  - k_sZvfLuhB4
+  - TneBVhP9yXc
+  - J_Z-hbtfVJM
+  - O3lih_Rl_jY
+  - D50wm_2dZDI
+  - e4D85Y3cCfs
+  - fmqggoXIT0w
+  - 0V0eQ7d_QUg
+  - ZXbMtt6ahSs
+  - Awlc5lHOIWg
+  - LQ75tN96FAE
+---

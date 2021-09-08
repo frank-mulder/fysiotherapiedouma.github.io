@@ -1,0 +1,67 @@
+---
+author: carmen-van-eijck-wilmink
+date: 2017-05-11 13:03:16+00:00
+draft: false
+isentity: true
+title: Tarsaal tunnel syndroom
+type: wiki
+url: /wiki/tarsaal-tunnel-syndroom/
+categories:
+- Enkel
+- Pijn
+- Voet
+tags:
+- compressie
+- enkel impingement
+- retinaculum
+- scheenbeen
+- tarsaal tunnel syndroom
+- tibia
+- zenuwpijn
+- zenuwuitval
+
+alternate_names:
+  - TTS
+
+datepublished: 2017-05-11
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 47374004
+
+description: Het tarsaal tunnel syndroom is een aandoening die zich ontwikkelt als een zenuw in de tarsale tunnel van de binnenkant van de enkel wordt beklemd. Tarsaal tunnel syndroom kan leiden tot gevoels- en bewegingsveranderingen in de voet, enkel en onderbeen, en ook tot pijn.
+
+symptoms:
+  - name: Zwelling van de voet
+    code:
+      codeValue: "297142003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in enkelregio
+    code:
+      codeValue: "247373008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in voet
+    code:
+      codeValue: "47933007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tintelingen
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte in de spieren van het onderbeen en de voet
+
+  - name: Zwakte in de grote teen
+
+  - name: Symptomen die erger worden bij langdurig staan of wandelen
+
+  - name: Symptomen die minder wordt bij rust
+
+  - name: Veranderde temperatuur in de voet en enkel
+
+  - name: Pijn die de slaap verstoort
+---

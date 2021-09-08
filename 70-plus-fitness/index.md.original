@@ -1,0 +1,73 @@
+---
+author: sandra-koekkoek
+date: 2019-01-18 07:01:41+00:00
+draft: false
+title: 70 Plus Fitness
+type: page
+url: /70-plus-fitness/
+images:
+  - /images/headers/70-plus-fitness-in-Hilversum.jpg
+---
+<div>{{< headerimage src="images/headers/70-plus-fitness-in-Hilversum.jpg" title="Sportgroepen voor ouderen, 70-plus" button1="Abonnement kiezen" button1link="https://mijn.fysiodouma.nl/winkel/" >}}
+Bent u boven de 70 en nog fit? Wilt u fit blijven of fitter worden?<br />
+Doe dan eens mee met onze gezellige sportgroep
+{{< /headerimage >}}</div>
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft >}}
+## Waarom de 70+ sportgroep?
+Gezellig met leeftijdsgenoten sporten in een groep, ieder op zijn of haar eigen niveau. De groep is voor actieve ouderen die meer willen dan alleen zittend gymnastiek doen.
+
+Fit blijven of weer fit worden staat centraal binnen de trainingen, maar de gezelligheid en het sociale aspect mag zeker niet ontbreken.
+
+Bent u klaar voor de start? Bekijk de tarieven.
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+{{< embedimage img="sporten-voor-ouderen.jpg" alt="" >}}
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm">}}
+{{< twotoneleft>}}
+## Wat houden de 70+ trainingen in?
+Denk aan actieve groepslessen met leeftijdsgenoten waarbij plezier in de sport centraal staat. De oefeningen worden (afhankelijke van uw niveau zittend en/of staand gedaan. De trainingen zijn afwisselend waardoor het leuk blijft vaker te sporten. Denk bijvoorbeeld aan bewegen op muziek of balspelen. Ten slotte wordt er afgesloten met koffie, thee of water.
+{{< /twotoneleft >}}
+{{< twotoneright color="bg-blue" >}}
+## Voordelen van de 70-plus trainingsgroep
+
+* Sporten met leeftijdsgenoten
+
+* Afwisselende trainingen om samen fit te worden of te blijven
+
+* Trainingen zijn effectief én gezellig
+
+* Begeleiding van een sport-en beweegprofessional
+
+* Op een gezellige manier fit worden of blijven met leeftijdsgenoten
+
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Maandabonnement
+1x per week  
+€ 25,00 per maand  
+€ 70,00 per kwartaal  
+€ 250,00 per jaar
+
+2x per week  
+€ 40,00 per maand  
+€ 110,00 per kwartaal  
+€ 400,00 per jaar
+
+* Betaling via iDeal of Creditcard
+* Maandelijks opzegbaar  
+* Wij hanteren geen inschrijfgeld
+* Gratis proefles!
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Inschrijfformulier
+{{< fitnessaanmelden >}}
+{{< /twotoneright >}}
+{{< /twotone >}}

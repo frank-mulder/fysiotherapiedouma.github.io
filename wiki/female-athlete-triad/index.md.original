@@ -1,0 +1,62 @@
+---
+author: petra-tuunter
+date: 2017-02-09 06:57:57+00:00
+draft: false
+isentity: true
+title: Female athlete triad
+type: wiki
+url: /wiki/female-athlete-triad/
+categories:
+- Sport
+- Stofwisseling
+tags:
+- afvallen
+- lage energie
+- onregelmatige menstruatie
+- prestatievermindering
+- slechte kwaliteit botten
+- sociale druk
+- stress
+- vermoeidheid
+
+alternate_names:
+  -
+
+datepublished: 2017-02-09
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 710072005
+
+description : Female athlete triad is een syndroom dat een onevenwichtig verband inhoudt tussen de energieniveaus, botmineraaldichtheid (BMD) en menstruele functie van een vrouwelijke atleet en kan leiden tot een scala van zorgen om de gezondheid. Female athlete triad kan in de vroege stadia van ontwikkeling negatieve effecten hebben en, als vrouwen ouder worden, op de langer termijn effect hebben op de gezondheid en welzijn in het algemeen.
+
+symptoms:
+  - name: Moeite met concentreren
+    code:
+      codeValue: "76039005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onregelmatige of afwezige menstruatie
+    code:
+      codeValue: "80182007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Veranderd slaappatroon
+    code:
+      codeValue: "26677001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hoge stressniveaus
+    code:
+      codeValue: "262188008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Weinig energie op school, werk of training
+  - name: Stress-gerelateerd botletsel (stressreacties of breuken)
+  - name: Onverklaarbare prestatievermindering
+  - name: Verandering van eetgewoontes
+  - name: Ongewoon hoge focus op prestatie of image
+---
+
+**Female athlete triad is een syndroom dat een onevenwichtig verband inhoudt tussen de energieniveaus, botmineraaldichtheid (BMD) en menstruele functie van een vrouwelijke atleet en kan leiden tot een scala van zorgen om de gezondheid. Female athlete triad kan in de vroege stadia van ontwikkeling negatieve effecten hebben en, als vrouwen ouder worden, op de langer termijn effect hebben op de gezondheid en welzijn in het algemeen.**

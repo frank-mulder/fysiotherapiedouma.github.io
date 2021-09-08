@@ -1,0 +1,68 @@
+---
+author: piet-douma
+date: 2017-02-24 11:09:23+00:00
+draft: false
+isentity: true
+title: Slijmbeursontsteking van de knie
+type: wiki
+url: /wiki/slijmbeursontsteking-van-de-knie/
+categories:
+- Knie
+tags:
+- bidknie
+- bursitis
+- knieklachten
+- slijmbeursontsteking
+- werksterknie
+
+alternate_names:
+  - bursitis van knie
+
+datepublished: 2017-02-24
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 111243002
+
+description: Slijmbeursontsteking van de knie, vaak werkster-knie of bidknie genoemd, houdt een zwelling van 1 of meer van de slijmbeurzen aan de voorkant van de knie in. Slijmbeursontsteking van de knie is een van de meest voorkomende slijmbeursaandoeningen; het kan pijnlijk zijn om de knie te bewegen bij knielen maar ook soms gewoon in rust. De aandoening kan ook pijnloos zijn, met alleen de zichtbare zwelling. slijmbeursontsteking van de knie kan vele oorzaken hebben. De meest voorkomende is trauma, hetzij van een directe klap of het resultaat van activiteiten waarbij gedurende langere tijd op harde oppervlaktes gekropen of geknield moet worden, zoals bij tapijtleggen of tegelzetten, of bij het schrobben van vloeren.
+
+symptoms:
+  - name: Zwelling aan de voorkant van de knie
+    code:
+      codeValue: "248491001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid in het kniegewricht of moeite met het strekken of buigen van de knie
+    code:
+      codeValue: "249913002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn als u met uw vingers op de voorkant van de knie drukt
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid van kniegewricht
+    code:
+      codeValue: "299372009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderde bewegingsuitslag van knie
+    code:
+      codeValue: "304321000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Roodheid aan de voorkant van de knie
+
+  - name: Pijn bij het knielen
+
+videos:
+  - hx7Sbevet0Q
+  - XzIjVJA3pC8
+  - BRHY4wyA5qs
+  - L3v1fjwuFns
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - 34wuJCU0u_E
+---

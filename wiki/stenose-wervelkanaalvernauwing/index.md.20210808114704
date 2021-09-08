@@ -1,0 +1,50 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-05-11 12:45:17+00:00
+draft: false
+isentity: true
+title: Stenose (wervelkanaalvernauwing)
+type: wiki
+url: /wiki/stenose-wervelkanaalvernauwing/
+categories:
+- Nek
+- Onderrug
+- Pijn
+- Wervelkolom
+tags:
+- arthrose
+- gevoelloosheid
+- pijn
+- stenose
+- uitstraling benen
+- wervelkanaalvernauwing
+- wervelkolom
+
+alternate_names:
+  -
+
+datepublished: 2017-05-11
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 415582006
+
+description: Aangenomen wordt dat 75% van alle mensen op enig moment een vorm van rug- of nekpijn krijgt. Het goede nieuws is dat de meesten van ons zonder een operatie zullen herstellen – conservatieve zorg zoals fysiotherapie levert meestal betere resultaten dan een operatie. Stenose is een van de oorzaken van rug- en nekpijn. Het tast de wervels (de botten in uw rug) aan en vernauwt de openingen in deze botten waar het ruggenmerg en de zenuwen doorheen lopen.
+
+symptoms:
+  - name: Pijn
+    code:
+      codeValue: "22253000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tintelingen
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte van rug
+    code:
+      codeValue: "249938007"
+      codingSystem: "SNOMED-CT"
+---

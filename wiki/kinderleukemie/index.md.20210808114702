@@ -1,0 +1,63 @@
+---
+author: manon-klarenbeek
+date: 2017-01-12 19:17:51+00:00
+draft: false
+isentity: true
+title: Kinderleukemie
+type: wiki
+url: /wiki/kinderleukemie/
+categories:
+- Kind
+- Oncologie
+tags:
+- bloedziekte
+- botpijn
+- gewichtsverlies
+- kanker
+- leukemie
+- oncologie
+- vermoeidheidsproblemen
+- zwakte
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 128931003
+
+description: Leukemie, een kanker van bloedaanmakende cellen, is de meest voorkomende vorm van kanker die bij kinderen wordt vastgesteld. The precieze oorzaak van leukemie is niet bekend. Het  overlevingspercentage van kinderen met de ziekte is in de afgelopen jaren verhoogd en wordt nog steeds beter.
+
+symptoms:
+  - name: Koorts
+    code:
+      codeValue: "386661006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewichtsverlies
+    code:
+      codeValue: "89362005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Botpijn
+    code:
+      codeValue: "12584003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Blauwe plekken of bloeding
+    code:
+      codeValue: "302227002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte of vermoeidheid
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling of pijn in verschillende delen van het lichaam
+---
+
+Fysiotherapeuten helpen kinderen met kinderleukemie om sterk en functioneel te blijven, en om sommige effecten van de behandeling van de kanker te verminderen.

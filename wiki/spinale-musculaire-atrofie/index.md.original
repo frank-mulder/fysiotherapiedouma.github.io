@@ -1,0 +1,63 @@
+---
+author: petra-tuunter
+date: 2017-05-15 13:18:04+00:00
+draft: false
+isentity: true
+title: Spinale musculaire atrofie
+type: wiki
+url: /wiki/spinale-musculaire-atrofie/
+categories:
+- Neurologie
+- Spieren
+- Spierziekte
+tags:
+- SMA
+- atrofie
+- Kugelberg-Welander
+- longaandoeningen
+- luchtweginfecties
+- spinale musculaire atrofie
+- trillingen
+- Werdnig-Hoffmann
+
+alternate_names:
+  - SMA
+
+datepublished: 2017-05-15
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 5262007
+
+description: Spinale musculaire atrofie (SMA) is een veel voorkomende, overerfde neuromusculaire ziekte, die lage spierspanning (hypotonie) en voortschrijdende spierzwakte en spierverdunning (atrofie) veroorzaakt. Alle motorische vaardigheden kunnen door de ziekte worden aangetast, inclusief lopen, eten en ademhalen.
+
+symptoms:
+  - name: Spierverdunning (atrofie).
+    code:
+      codeValue: "13331008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Misvorming van de ruggengraat (scoliose)
+    code:
+      codeValue: "298382003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijve gewrichten, die niet helemaal kunnen buigen of strekken, of mogelijk helemaal niet kunnen bewegen.
+    code:
+      codeValue: "722450007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Lage spierspanning, waardoor het lichaam van het kind los of “zwabberend” voelt (hypotonie).
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Afwezige of aanzienlijk verminderde diepe peesreflexen (bijv. de kniepeesreflex).
+
+  - name: Onvrijwillige tongbewegingen.
+
+  - name: Trillingen (tremoren) in de hand.
+
+  - name: Luchtweginfecties en longaandoeningen
+---

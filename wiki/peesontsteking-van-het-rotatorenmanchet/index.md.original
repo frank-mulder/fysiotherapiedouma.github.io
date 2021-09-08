@@ -1,0 +1,59 @@
+---
+author: manon-klarenbeek
+date: 2017-05-09 06:47:03+00:00
+draft: false
+isentity: true
+title: Peesontsteking van het rotatorenmanchet
+type: wiki
+url: /wiki/peesontsteking-van-het-rotatorenmanchet/
+categories:
+- Gewrichten
+- Pezen
+- Schouder
+tags:
+- humerus
+- peesontsteking
+- rotatorenmanchet
+- scapula
+- schouderblad
+- tendinitis
+- tendinose
+
+alternate_names:
+  -
+
+datepublished: 2017-05-09
+datemodified: 2020-05-12
+
+about: MedicalCondition
+
+snomed_code: 442520000
+
+description: Stoornissen van het rotatorenmanchet en aan de weefsels eromheen zijn de meest voorkomende oorzaak van schouderpijn bij mensen boven de 40. Peesontsteking (tendinitis) van het rotatorenmanchet doet zich voor wanneer een schouderpees (een vezelbundel die spier met bot verbindt) geïrriteerd is en pijnlijk wordt. Bij aanhoudende irritatie, kan de pees verzwakken, waardoor tendinose ontstaat – een chronische, lange-termijn aandoening.
+
+symptoms:
+  - name: Stijfheid van schoudergewricht
+    code:
+      codeValue: "249918006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwakte van schoudergordel
+    code:
+      codeValue: "249940002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schouderpijn
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schoudergewricht pijnlijk bij beweging
+    code:
+      codeValue: "298857005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Dull pain
+    code:
+      codeValue: "83644001"
+      codingSystem: "SNOMED-CT"
+---

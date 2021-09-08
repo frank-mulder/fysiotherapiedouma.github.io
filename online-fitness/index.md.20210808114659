@@ -1,0 +1,24 @@
+---
+author: bas-van-baaden
+date: 2021-08-02 10:29:55+00:00
+draft: false
+title: Online Fitness
+type: page
+url: /online-fitness/
+images:
+  - /images/headers/online-fitness-groepsles-oefeningen
+---
+<div>{{< headerimage src="images/headers/online-fitness-groepsles-oefeningen.jpg" title="Online fitness groepsles" button1="Inschrijven" button1link="https://mijn.fysiodouma.nl/product/online-groepsles/" >}}
+__Werk vanaf thuis of iedere andere locatie aan je fitheid met de online groepslessen van Fysiotherapie Douma__
+{{< /headerimage >}}</div>
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Meer over online fitness
+Online fitness is voor iedereen die wil werken aan zijn of haar gezondheid en conditie. Het voordeel van online fitness is dat je het van iedere locatie kunt doen waar jij internet hebt. Zo kun je dus lekker vanuit huis sporten maar dan mét begeleiding van een ervaren fysiotherapeut.
+{{< button type="secondary" href="https://mijn.fysiodouma.nl/product/online-groepsles/" target="blank" >}}Schrijf je in{{< /button >}}
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+{{< embedimage img="thuis-fitness-met-online-fitness-fysiotherapie-douma.jpg" alt="Online groepsles fitness" >}}
+{{< /twotoneright >}}
+{{< /twotone >}}

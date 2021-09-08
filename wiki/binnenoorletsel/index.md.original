@@ -1,0 +1,55 @@
+---
+author: frank-mulder
+date: 2017-02-20 07:28:28+00:00
+draft: false
+isentity: true
+title: Binnenoorletsel
+type: wiki
+url: /wiki/binnenoorletsel/
+categories:
+- Duizeligheid
+- Evenwicht
+- Oor
+tags:
+- binnenoorproblemen
+- duizeligheid
+- evenwichtproblemen
+- nekklachten
+- onduidelijk zicht
+- vestibulaire systeem
+
+alternate_names:
+  -
+
+datepublished: 2017-02-20
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 262762001
+
+description : Uw binnenoor is essentieel voor het bewaren van uw evenwicht. Soms raakt na letsel aan het hoofd door een ongeluk of val ook het binnenoor beschadigd.
+
+symptoms:
+  - name: Draaiduizeligheid
+    code:
+      codeValue: "399153001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Duizeligheid
+    code:
+      codeValue: "404640003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Nekpijn
+    code:
+      codeValue: "81680005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlies van gezichtsvermogen
+    code:
+      codeValue: "397540003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Instabiliteit     
+---

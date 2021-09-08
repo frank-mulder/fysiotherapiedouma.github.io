@@ -1,0 +1,83 @@
+---
+author: petra-tuunter
+date: 2017-03-27 06:06:22+00:00
+draft: false
+isentity: true
+title: Bekkenpijn
+type: wiki
+url: /wiki/bekkenpijn/
+categories:
+- Bekken
+- Buik
+- Gewrichten
+- Rug
+tags:
+- bekkenklachten
+- bewegingsklachten
+- liespijn
+- na bevalling
+- rugklachten
+- schaambeen
+- SI klachten
+- zwaarlijvigheid
+
+alternate_names:
+  -
+
+datepublished: 2017-03-27
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 30473006
+
+description: Bekkenpijn is pijn die in de onderbuik, bekken of perineum wordt gevoeld. Het heeft vele mogelijke oorzaken en treft tot wel 20% van de bevolking van Nederland, zowel mannen als vrouwen. Bekkenpijn wordt als “chronisch” gezien als het langer dan 6 maanden aanhoudt. Fysiotherapeuten helpen mensen met bekkenpijn om kracht en soepelheid terug te krijgen in de spieren en gewrichten in het bekkengebied en om de pijn te verminderen.
+
+symptoms:
+  - name: Incontinentie
+    code:
+      codeValue: "48340000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Constipatie of moeite met ontlasting of pijnlijke ontlasting
+    code:
+      codeValue: "14760008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij plassen
+    code:
+      codeValue: "49650001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met slapen
+    code:
+      codeValue: "301345002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onvermogen om gedurende een normale periode te zitten
+
+  - name: Verminderd vermogen om uw heupen of onderrug te bewegen
+
+  - name: Pijn tijdens seks
+
+  - name: Moeite met het gebruik van tampons
+
+  - name: Onbalans bij het lopen
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+---

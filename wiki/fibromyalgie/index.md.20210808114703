@@ -1,0 +1,86 @@
+---
+author: bas-van-baaden
+date: 2017-02-07 10:21:11+00:00
+draft: false
+isentity: true
+title: Fibromyalgie
+type: wiki
+url: /wiki/fibromyalgie/
+categories:
+- Gewrichten
+- Reuma
+- Slapen
+- Spieren
+- Spierziekte
+- Vermoeidheid
+tags:
+- gewrichtsstijfheid
+- pijn
+- prikkelbaar
+- spierpijn
+- stijfheid
+- vermoeidheid
+- vermoeidheidsproblemen
+
+alternate_names:
+  -
+
+datepublished: 2017-02-07
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 203082005
+
+description: "Fibromyalgie is een chronische aandoening, die moeilijk is vast te stellen,  80% tot 90% zijn vrouwen. Fibromyalgie wordt meestal vastgesteld bij volwassenen tussen de 30 en de 50, maar de symptomen – zoals wijdverspreide chronische pijn en vermoeidheid – kunnen eerder opduiken. Hoewel er op dit moment geen definitieve genezing mogelijk is, zijn er behandelingen die kunnen helpen. Uw fysiotherapeut kan u helpen door: uw pijn te begrijpen en controleren uw vermoeidheid te verminderen uw functioneren en de kwaliteit van uw leven te verbeteren."
+
+symptoms:
+  - name: Gevoelloosheid of tintelingen
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Denk- en geheugenproblemen
+    code:
+      codeValue: "386807006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Depressiviteit
+    code:
+      codeValue: "35489007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Prikkelbare darm syndroom
+    code:
+      codeValue: "10743008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Vermoeidheid
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Wijdverspreide pijn, vaak een doffe pijnlijkheid, aan beide zijdes van het lichaam boven en onder het middel
+
+  - name: Plekken op uw hoofd, nek, borst, schouders, ellebogen, heupen of knieën, die pijnlijk zijn bij stevig aanraken; deze “gevoelige plekken” kunnen verplaatsen of weggaan en weer terugkomen
+
+  - name: Stijfheid van spieren, vooral ’s morgens
+
+  - name: Hoofdpijn
+
+  - name: Angst
+
+  - name: Pijn of kramp in de buik of het bekken
+
+  - name: Prikkelbare blaas syndroom
+
+  - name: Temporomandibulaire (kaakgewricht) pijn
+---
+
+**Fibromyalgie is een chronische aandoening, die moeilijk is vast te stellen,  80% tot 90% zijn vrouwen. Fibromyalgie wordt meestal vastgesteld bij volwassenen tussen de 30 en de 50, maar de symptomen – zoals wijdverspreide chronische pijn en vermoeidheid – kunnen eerder opduiken.**
+
+**Hoewel er op dit moment geen definitieve genezing mogelijk is, zijn er behandelingen die kunnen helpen. Uw fysiotherapeut kan u helpen door:**
+
+* **Uw pijn te begrijpen en controleren**
+* **Uw vermoeidheid te verminderen**
+* **Uw functioneren en de kwaliteit van uw leven te verbeteren**

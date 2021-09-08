@@ -1,0 +1,74 @@
+---
+author: olivier-blaauw
+date: 2017-02-20 07:13:42+00:00
+draft: false
+isentity: true
+title: Gebroken kaak
+type: wiki
+url: /wiki/gebroken-kaak/
+categories:
+- Kaak
+tags:
+- hoofdpijn
+- Kaakpijn
+- nekpijn
+- niet kunnen eten
+- oorsuizen
+- vloeibaar voedsel
+
+alternate_names:
+  -
+
+datepublished: 2017-02-20
+datemodified: 2020-05-05
+
+about: MedicalCondition
+
+snomed_code: 282756002
+
+description: Een breuk ter hoogte van het temporomandibulaire gewricht (gebroken kaak) is de op tweede na meest voorkomende breuk van de botten in het aangezicht. Alleen de botten in de neus breken nog vaker. Het kaakbeen (mandibula) of het schedelbotgedeelte van de kaak (temporale bot) kan breken. Het letsel doet zich normaal gesproken voor ten gevolge van trauma aan het gezicht, zoals een directe klap. Het gewricht zelf of de spieren die de kaak bewegen kunnen beschadigd zijn. Nadat het bot is genezen, kan het moeilijk zijn om de kaak te openen of te bewegen.
+
+symptoms:
+  - name: Kaakpijn
+    code:
+      codeValue: "274667000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Duizeligheid
+    code:
+      codeValue: "404640003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hoofdpijn
+    code:
+      codeValue: "25064002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Nekpijn
+    code:
+      codeValue: "81680005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Kaakgewricht stijf
+    code:
+      codeValue: "298231004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling en mogelijke bloeduitstorting van het gebied
+
+  - name: Vermoeidheid van de kaak
+
+  - name: Moeite met het openen van uw mond om te eten of te praten
+
+  - name: Oorsuizingen
+
+  - name: Losse of gebroken tanden
+
+  - name: Ploppend geluid in uw kaak
+
+  - name: Een geblokkeerde kaak
+
+  - name: Een bobbel die u met uw vingers op het kaakbeen of –gewricht kunt voelen
+---
+
+Fysiotherapeuten helpen mensen die een breuken van het kaakgewricht hebben doorgemaakt om hun pijn te verlichten en beweging en functioneren van de kaak te herstellen.

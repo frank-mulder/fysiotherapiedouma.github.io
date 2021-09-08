@@ -1,0 +1,79 @@
+---
+author: piet-douma
+date: 2017-05-18 08:17:36+00:00
+draft: false
+isentity: true
+title: Schouder impingement
+type: wiki
+url: /wiki/schouder-impingement/
+categories:
+- Bovenarm
+- Gewrichten
+- Schouder
+tags:
+- bovenhandse bewegingen
+- bursitis
+- impingment
+- schouder impingement
+- tendinitis
+
+alternate_names:
+  -
+
+datepublished: 2017-05-18
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 239960007
+
+description: Het schouder impingement syndroom doet zich voor ten gevolge van chronische of herhaalde afknelling of “impingement” van de rotatorenmanchet-pezen in de schouder, waardoor pijn en problemen met bewegen ontstaan. Het kan ook worden veroorzaakt door letsel aan de schouder.
+
+symptoms:
+  - name: Artrose van schouder
+    code:
+      codeValue: "67315001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid van schoudergewricht
+    code:
+      codeValue: "249918006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van het schoudergewricht
+    code:
+      codeValue: "298768000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schouderpijn
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schoudergewricht pijnlijk bij beweging
+    code:
+      codeValue: "298857005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Beperkte beweging van de schouder met aanverwante zwakte in bewegingspatronen, zoals bovenhands , achter het lichaam of opzij reiken.
+
+  - name: Pijn in de schouder als u de arm boven uw hoofd tilt, of opzij en naast het lichaam.
+
+  - name: Pijn en ongemak als u op de aangedane kant probeert te slapen.
+
+  - name: Pijn bij gooibewegingen en andere dynamische bewegingspatronen
+
+videos:
+  - bE2NCJXMkf8
+  - kxs6NHiUPVg
+  - 8pLlP14bPNM
+  - 3H6UlhJH3O0
+  - QO0NJyw1DTg
+  - -64cM9GloCo
+  - 72EOhxZr7pQ
+  - _aDZYsi10-o
+  - x1gr9F8ENs0
+  - jCGmOIE3P2k
+  - YQqsYkSCbek
+  - 0yQq__3rISY
+---

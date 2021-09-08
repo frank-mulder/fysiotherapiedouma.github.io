@@ -1,0 +1,67 @@
+---
+author: olivier-blaauw
+date: 2016-12-04 16:17:08+00:00
+draft: false
+isentity: true
+title: Enkel impingement
+type: wiki
+url: /wiki/enkel-impingement/
+categories:
+- Enkel
+- Sportblessures
+tags:
+- anterieure enkel impingement
+- enkel
+- enkelgewricht
+- impingement
+- posterieure enkel impingement
+- scheenbeen
+- tenen
+- voetballersenkel
+
+alternate_names:
+  - voetballersenkel
+
+datepublished: 2016-12-04
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 240021001
+
+description : Een enkel impingement (of voetballersenkel) doet zich voor wanneer hetzij zacht- of botweefsel in het enkelgewricht wordt samengedrukt aan het einde van een beweging, zoals het scherp naar beneden wijzen van de voet. Het komt vooral voor bij mensen, die druk voelen in hun enkel bij deze “uiterste” posities, zoals dansers, gymnasten of mensen, die trapbewegingen maken. Daarnaast zijn vooral mensen met herhaalde taken, die gepaard gaan met hurken of traplopen, vatbaar voor deze aandoening. Fysiotherapeuten helpen mensen met enkel impingement de pijn te verminderen, te genezen en het aangetaste gebied sterker te maken, en om hun evenwicht in het algemeen te verbeteren.
+
+symptoms:
+  - name: Pijn aan de voorkant of buitenkant van het enkelgewricht
+    code:
+      codeValue: "202490009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoel van instabiliteit van de enkel
+    code:
+      codeValue: "813001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid bij aanraking aan de voorkant van de enkel
+    code:
+      codeValue: "299446004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderd bewegingsbereik van de enkel bij opwaarts strekken van de tenen naar de scheen
+
+  - name: Pijn bij extreem strekken van de tenen naar de scheen
+
+  - name: Pijn aan de achterkant van de enkel, specifiek bij activiteiten waarbij de tenen gespitst worden
+
+  - name: Verminderd bewegingsbereik wanneer u uw tenen spitst
+
+  - name: Gevoeligheid bij aanraking aan de achterkant van de enkel
+
+videos:
+  - D-fXVYfcQ7M
+  - 89MQ9jcPHcE
+  - b-JKyIReYn4
+---
+Een enkel impingement (of voetballersenkel) doet zich voor wanneer hetzij zacht- of botweefsel in het enkelgewricht wordt samengedrukt aan het einde van een beweging, zoals het scherp naar beneden wijzen van de voet. Het komt vooral voor bij mensen, die druk voelen in hun enkel bij deze “uiterste” posities, zoals dansers, gymnasten of mensen, die trapbewegingen maken.
+
+Daarnaast zijn vooral mensen met herhaalde taken, die gepaard gaan met hurken of traplopen, vatbaar voor deze aandoening. Fysiotherapeuten helpen mensen met enkel impingement de pijn te verminderen, te genezen en het aangetaste gebied sterker te maken, en om hun evenwicht in het algemeen te verbeteren.

@@ -1,0 +1,34 @@
+---
+author: carmen-van-eijck-wilmink
+date: 2012-12-07 13:44:00+00:00
+draft: false
+title: Vergoedingen
+type: page
+url: /vergoedingen/
+---
+{{< box >}}
+# Vergoedingen
+**Wij hebben met elke zorgverzekeraar in Nederland een contract, u krijgt dan ook voor de behandelingen die vergoed worden geen rekening van ons. De rekening gaat rechtstreeks naar de zorgverzekeraar.**
+
+Elke Nederlander is verplicht verzekerd in de basisverzekering en kan daarnaast een aanvullende verzekering kiezen. De meeste aandoeningen waarvoor u behandeld kan worden door de fysiotherapeut worden **niet** vergoed vanuit de basisverzekering. Een goede aanvullende verzekering is daarom van belang.
+
+Elke verzekering heeft een eigen risico wat jaarlijks wordt bepaald, Fysiotherapie valt vaak onder eigen risico.
+
+Het is belangrijk om goed te controleren hoeveel behandelingen u vergoed krijgt vanuit de aanvullende verzekering, omdat u anders deze behandelingen zelf dient te betalen.
+
+De patiënt is zelf verantwoordelijk voor het in de gaten houden van het aantal behandelingen die vergoed worden vanuit de aanvullende verzekering. De fysiotherapeut zal eveneens streven naar het zo goed mogelijk in de gaten houden van dit maximum aantal behandelingen.
+
+Er is een aantal indicaties die wel vallen onder de vergoeding van de basisverzekering. Het gaat hier om indicaties zoals status na een orthopedische operatie, m. parkinson, status na CVA, MS, dwarslaesie,etc. Uw fysiotherapeut kan u hier meer informatie over geven.
+
+Voor indicaties die onder de basisverzekering vallen, geldt een vergoeding vanaf de 21ste behandeling en deze behandelingen vallen onder het wettelijk eigen risico. De eerste 20 behandelingen moet u zelf betalen of worden vergoed vanuit uw aanvullende verzekering. Vanaf de 21ste behandeling krijgt u de behandeling wel vergoed, maar kan het zijn dat u deze deels terug moet betalen via uw eigen risico. Uw behandelend fysiotherapeut kan u hier meer informatie over geven.
+
+## Tarieven fysiotherapie 2021
+Het is afhankelijk van uw ziektekosten verzekeraar of fysiotherapie en de andere therapieën die Fysiotherapie Douma aanbiedt geheel of gedeeltelijk worden vergoedt. U kunt dit nakijken in uw polisvoorwaarden. Doe dit voordat u met de behandeling begint, zodat u weet waar u aan toe bent.
+
+Mocht nu blijken dat de gewenste behandeling door de zorgverzekeraar niet wordt vergoed, dan gelden de onderstaande tarieven voor u.
+
+{{< tarieven therapy="fysiotherapie" >}}
+
+{{< tarieven therapy="acupunctuur" >}}
+
+{{< /box >}}

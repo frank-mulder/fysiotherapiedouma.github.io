@@ -1,0 +1,52 @@
+---
+author: piet-douma
+date: 2017-05-18 08:25:51+00:00
+draft: false
+isentity: true
+title: 'Schouder uit de kom ("schouder luxatie"): behandeling na een operatie'
+type: wiki
+url: /wiki/schouder-kom-schouder-luxatie-behandeling-operatie/
+categories:
+- Bovenarm
+- Gewrichten
+- Schouder
+tags:
+- luxatie
+- ontwrichting
+- schouderluxatie
+- traumatisch
+- uit de kom
+
+alternate_names:
+  -
+
+datepublished: 2017-05-18
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 417076003
+
+description: Omdat de schouder het meest mobiele gewricht in het lichaam is en een groot bewegingsbereik heeft, luxeert hij sneller dan enig ander gewricht in het lichaam. Luxaties zijn één van de meest voorkomende traumatische blessures van de schouder. Sporters, niet-sporters, kinderen en volwassenen kunnen allemaal hun schouder luxeren.
+
+symptoms:
+  - name: Pijn in schouderregio
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schoudergewricht pijnlijk bij beweging
+    code:
+      codeValue: "298857005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van schoudergewricht
+    code:
+      codeValue: "298768000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schouderpijn
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+---

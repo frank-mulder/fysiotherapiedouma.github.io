@@ -1,0 +1,70 @@
+---
+author: gerjanne-van-der-borden-van-roekel
+date: 2016-12-04 12:13:15+00:00
+draft: false
+isentity: true
+title: Beroerte (CVA)
+type: wiki
+url: /wiki/beroerte-cva/
+
+categories:
+- CVA
+- Loopproblemen
+- Loopstoornis
+- Neurologie
+
+tags:
+- afsluiting vat
+- beroerte
+- bloeding
+- cerebro vasculair accident
+- cva
+- hersenbloeding
+- herseninfarct
+- infarct
+
+alternate_names:
+  - TIA
+  - herseninfarct
+  - hersenbloeding
+  - CVA
+  - Cerebrovasculair Accident
+  - attaque
+
+datepublished: 2016-12-04
+datemodified: 2020-04-24
+
+about: MedicalCondition
+
+snomed_code: 230690007
+
+description: De medische term voor een beroerte is CVA, wat staat voor ‘cerebro vasculair accident’. Letterlijk betekent dit een ongeluk in de bloedvaten van de hersenen. Daarbij beschadigt het hersenweefsel. Elk jaar overkomt het ongeveer 30.000 Nederlanders. In de meeste gevallen (80%) gebeurt dat door de afsluiting van een bloedvat, maar het kan ook door een bloeding komen (20%).
+
+symptoms:
+  - name: "Stoornis in vloeiendheid van spreken door en na cerebrovasculair accident"
+    code:
+      codeValue: "290791000119105"
+      codingSystem: "SNOMED-CT"
+
+  - name: "Evenwichtsstoornis"
+    code:
+      codeValue: "387603000"
+      codingSystem: "SNOMED-CT"
+
+  - name: "Gedragsverandering"
+    code:
+      codeValue: "417350008"
+      codingSystem: "SNOMED-CT"  
+
+  - name: "Verlamming als restverschijnsel van beroerte"
+    code:
+      codeValue: "425882004"
+      codingSystem: "SNOMED-CT"
+
+sameas:
+  - https://nl.wikipedia.org/wiki/Herseninfarct
+  - https://icd.who.int/browse10/2010/en#/I63
+  - https://nl.wikipedia.org/wiki/Cerebrovasculair_accident
+  - https://www.diseasesdatabase.com/ddb2247.htm
+  - https://www.wikidata.org/wiki/Q3010352
+---

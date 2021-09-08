@@ -1,0 +1,81 @@
+---
+date: 2012-11-23 13:11:29+00:00
+draft: false
+title: Bekijk onze openingstijden - Fysiotherapie Douma
+type: page
+url: /openingstijden/
+description: Op zoek naar Fysiotherapie in Hilversum? Fysiotherapie Douma heeft 3 locaties in Hilversum. Bekijk onze openingstijden en kom snel langs.
+
+---
+{{< box >}}
+# Openingstijden Fysiotherapie Douma
+
+<table width="50%" style="margin-top: 15px;" border="0"" >
+<tbody >
+<tr >
+
+<td ><strong>Dag</strong>
+</td>
+
+<td ><strong>Openingstijden</strong>
+</td>
+</tr>
+<tr >
+
+<td >Maandag
+</td>
+
+<td >07:00 - 21:00
+</td>
+</tr>
+<tr >
+
+<td >Dinsdag
+</td>
+
+<td >07:00 - 21:00
+</td>
+</tr>
+<tr >
+
+<td >Woensdag
+</td>
+
+<td >07:00 - 21:00
+</td>
+</tr>
+<tr >
+
+<td >Donderdag
+</td>
+
+<td >07:00 - 21:00
+</td>
+</tr>
+<tr >
+
+<td >Vrijdag
+</td>
+
+<td >07:00 - 17:00
+</td>
+</tr>
+<tr >
+
+<td >Zaterdag
+</td>
+
+<td >08:00 - 12:30
+</td>
+</tr>
+<tr >
+
+<td >Zondag
+</td>
+
+<td >Gesloten
+</td>
+</tr>
+</tbody>
+</table>
+{{< /box >}}

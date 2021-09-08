@@ -1,0 +1,55 @@
+---
+author: frank-mulder
+date: 2017-05-09 06:36:28+00:00
+draft: false
+isentity: true
+title: Snapping scapula syndroom
+type: wiki
+url: /wiki/snapping-scapula-syndroom/
+categories:
+- Bovenarm
+- Bovenrug
+- Gewrichten
+- Schouder
+tags:
+- bovenhandse beweging
+- het snapping scapula syndroom
+- knarsen
+- ploppen
+- schouderblad
+- schuren
+
+alternate_names:
+  -
+
+datepublished: 2017-05-09
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 79699005
+
+description: Het snapping scapula syndroom is een aandoening waarbij sprake is van het ploppen, knarsen, schuren of “knappen” van botten en weefsels in het gebied van de scapula (het schouderblad), als de arm wordt opgetild of bewogen. Het knappen kan pijnlijk en soms zelfs hoorbaar zijn. Snapping scapula syndroom komt het vaakst voor bij jonge, actieve mensen die herhaalde bovenhandse bewegingen maken zoals bij volleybal, handbal, gewichtheffen, zwemmen of honkbal.
+
+symptoms:
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn aan de achterkant of bovenkant van de schouder als de arm boven het hoofd wordt getild of als de schouder worden opgehaald
+    code:
+      codeValue: "267949000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met bovenhandse armbewegingen door pijn of zwakte in het scapulagebied
+    code:
+      codeValue: "298857005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een zichtbaar verschil in hoe de pijnlijke scapula beweegt.
+
+  - name: Een afstaand of “gevleugeld” schouderblad, waarbij het lijkt of 1 rand van het lichaam afstaat.
+
+  - name: Een knappend, schurend, knarsend of ploppend gevoel in het scapulagebied als de arm wordt opgetild.
+---

@@ -1,0 +1,60 @@
+---
+author: frank-mulder
+date: 2017-05-06 09:00:56+00:00
+draft: false
+isentity: true
+title: Gescheurd rotatorenmanchet
+type: wiki
+url: /wiki/gescheurd-rotatorenmanchet/
+categories:
+- Pijn
+- Schouder
+- Spierblessure
+- Sportblessures
+tags:
+- gescheurd rotatorenmanchet
+- laesie
+- rotatorenmanchet
+- schoudermanchet
+- schoudermobiliteit
+- spierlaesie
+
+alternate_names:
+  - rotatorcuffruptuur
+
+datepublished: 2017-05-06
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 4106009
+
+description: Het “rotatorenmanchet” is een groep van 4 spieren, die verantwoordelijk zijn voor het stabiel houden van het schoudergewricht. Helaas komt letsel aan het rotatorenmanchet vaak voor, hetzij door letsel hetzij door overbelasting van de schouder. Letsel aan het rotatorenmanchet kan verschillen naar mate iemand ouder wordt.
+
+symptoms:
+  - name: verlies van schoudermobiliteit
+    code:
+      codeValue: "8510008"
+      codingSystem: "SNOMED-CT"
+
+  - name: schouderzwakte
+    code:
+      codeValue: "249940002"
+      codingSystem: "SNOMED-CT"
+
+  - name: pijn bovenop de schouder of lager aan de buitenkant van de arm
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - bE2NCJXMkf8
+  - kxs6NHiUPVg
+  - iMXezW7bJZo
+  - x1gr9F8ENs0
+  - Ul6jfph8mx4
+  - 0yQq__3rISY
+---
+Een gescheurd rotatorenmanchet komt vaker voor op latere leeftijd, maar kan zich ook bij jongere mensen voordoen. Het treft vaak sporters en mensen die zwaar werk doen; oudere mensen kunnen het rotatorenmanchet ook blesseren als ze vallen of de schouder verrekken, zoals bij het uitlaten van een hond die aan de riem trekt. Onbehandeld kan het letsel tot ernstige pijn leiden en een afname van het vermogen om de arm te gebruiken.
+
+Een gescheurd rotatorenmanchet komt vaker voor op latere leeftijd, maar kan zich ook bij jongere mensen voordoen. Het treft vaak sporters en mensen die zwaar werk doen; oudere mensen kunnen het rotatorenmanchet ook blesseren als ze vallen of de schouder verrekken, zoals bij het uitlaten van een hond die aan de riem trekt. Onbehandeld kan het letsel tot ernstige pijn leiden en een afname van het vermogen om de arm te gebruiken

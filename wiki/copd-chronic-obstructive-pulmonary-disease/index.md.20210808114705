@@ -1,0 +1,58 @@
+---
+author: carmen-van-eijck-wilmink
+date: 2017-01-12 19:06:29+00:00
+draft: false
+isentity: true
+title: COPD (Chronic obstructive pulmonary disease)
+type: wiki
+url: /wiki/copd-chronic-obstructive-pulmonary-disease/
+categories:
+- Longen
+- Spieren
+tags:
+- ademhaling
+- ademhalingsoefeningen
+- benauwd
+- kortademig
+- longemfyseem
+- longen
+- longrevalidatie
+- luchtwegen
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 13645005
+
+description : Chronische obstructieve longziekte, beter bekend onder de Engelse afkorting COPD (Chronic Obstructive Pulmonary Disease) veroorzaakt ademhalingsmoeilijkheden en leidt tot andere systemische problemen. COPD staat op de tiende plaats van de wereldwijd meest voorkomende ziektes. Aangenomen wordt dat het in 2050 de vijfde meest voorkomende doodsoorzaak ter wereld zal zijn. Alhoewel COPD vaker voorkwam bij mannen, worden tegenwoordig vrouwen in ontwikkelde bijna net zo vaak getroffen.
+
+symptoms:
+  - name: zwakte van distale spieren van armen en benen
+    code:
+      codeValue: "249943000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Evenwichtsproblemen
+    code:
+      codeValue: "387603000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hoog valrisico
+    code:
+      codeValue: "455201601000132100"
+      codingSystem: "SNOMED-CT"
+
+  - name: Voedingsproblemen (gewichtsverlies of –toename)
+    code:
+      codeValue: "78164000"
+      codingSystem: "SNOMED-CT"      
+---
+
+**Chronische obstructieve longziekte, beter bekend onder de Engelse afkorting COPD (Chronic Obstructive Pulmonary Disease) veroorzaakt ademhalingsmoeilijkheden en leidt tot andere systemische problemen. COPD staat op de tiende plaats van de wereldwijd meest voorkomende ziektes. **
+
+**Aangenomen wordt dat het in 2050 de vijfde meest voorkomende doodsoorzaak ter wereld zal zijn. Alhoewel COPD vaker voorkwam bij mannen, worden tegenwoordig vrouwen in ontwikkelde bijna net zo vaak getroffen.**

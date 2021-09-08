@@ -1,0 +1,84 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-03-21 07:53:46+00:00
+draft: false
+isentity: true
+title: Artrose
+type: wiki
+url: /wiki/artrose/
+categories:
+  - Gewrichten
+  - Hand
+  - Heup
+  - Wervelkolom
+  - Knie
+  - Nek
+  - Onderrug
+  - Reuma
+tags:
+- crepitatie
+- gewrichtspijn
+- gewrichtsstijfheid
+- knarsen
+- kraken
+- nachtelijke pijn
+- ochtendstijfheid
+- ontstekingen
+- overbelasting
+- pijn
+- startpijn
+
+alternate_names:
+  - Artritis
+
+datepublished: 2017-03-21
+datemodified: 2020-04-24
+
+maintopic: medicalcondition/artrose
+
+mentions:
+  - medicalcondition/artritis
+
+about: MedicalCondition
+
+snomed_code: 396275006
+
+description : Artrose is de meest voorkomende vorm van artritis (artritis is een term die wordt gebruikt om ontsteking van de gewrichten te beschrijven) en wordt meestal veroorzaakt doordat een gewricht aftakelt. Meestal worden de gewrichten die gewicht dragen getroffen, vooral de knie en de heup. Zo zou 1 op de 2 mensen in Nederland rond de 85 jaar artrose van de knie kunnen ontwikkelen, en 1 op de 4 zou tijdens hun leven artrose van de heup kunnen ontwikkelen. Tot 50 jaar krijgen mannen en vrouwen even vaak artrose; na de 50 worden vrouwen vaker getroffen dan mannen. Bij 21% van de mensen met overgewicht en 31% van de zwaarlijvigheid.
+
+symptoms:
+  - name: Stijfheid in het gewricht na zitten of liggen voor een langere periode
+    code:
+      codeValue: "84445001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn tijdens activiteit, die minder wordt bij rust
+    code:
+      codeValue: "298255009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn als u op het gewricht duwt
+    code:
+      codeValue: "57676002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Vooral in de ochtend stijfheid in het gewricht, die binnen 30 minuten minder wordt
+
+  - name: Kraken, knarsen, knakken of andere soorten gewrichtsgeluid  
+
+  - name: Toename in botgroei rond het gewricht, die u misschien kunt voelen     
+
+---
+
+Artrose heeft invloed op het dagelijks leven en is de meest voorkomende oorzaak van invaliditeit in de volwassen bevolking van Nederland. Hoewel bij artrose niet altijd een operatie zoals vervanging van een gewricht nodig is, wordt verwacht dat het gebruik van volledige gewrichtsvervanging in Nederland in het jaar 2030 met 174% zal zijn toegenomen voor heupen en met 673% voor knieën.
+
+Fysiotherapeuten helpen patiënten om artrose en de complicaties ervan te begrijpen, en bieden behandelingen om de pijn te verlichten en beweging te verbeteren. Daarnaast kunnen fysiotherapeuten informatie geven over keuzes voor een gezonde levenswijze en obesitaseducatie. Dit is belangrijk omdat uit onderzoek blijkt dat gewichtsverlies de kans op artrose kan verminderen. Eén studie laat zien dat door gewichtsverlies van 5 kilo het risico op artrose bij vrouwen kleiner werd.
+
+### Meer over artrose
+
+* [Artrose van de heup](/wiki/artrose-van-de-heup/) (pijn meestal in de lies en aan de voor- en zijkant van uw heup. De pijn kan uitstralen naar uw bovenbeen of knie)
+* [Artrose van de knie](/wiki/artrose-van-de-knie/) (pijn voornamelijk in en rondom uw knie, maar u kunt de pijn ook voelen in uw bovenbeen of heup)
+* [Artrose van de schouder](/wiki/artrose-van-de-schouder/)
+* Artrose van de wervelkolom
+
+### Andere bronnen over artrose
+* [Reumatische artritis](/wiki/reumatoide-artritis/)

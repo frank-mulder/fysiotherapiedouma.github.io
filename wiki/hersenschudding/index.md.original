@@ -1,0 +1,122 @@
+---
+author: bas-van-baaden
+date: 2017-01-12 19:16:56+00:00
+draft: false
+isentity: true
+title: Hersenschudding
+type: wiki
+url: /wiki/hersenschudding/
+categories:
+- Hoofd
+tags:
+- concentratieproblemen
+- dubbel zien
+- duizeligheid
+- evenwichtproblemen
+- geheugenproblemen
+- hoofdpijn
+- misselijkheid
+- mistigheid
+- vermoeidheidsproblemen
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 110030002
+
+description: Hersenschudding is traumatisch hersenletsel dat het hersenweefsel kan beschadigen en het chemisch evenwicht van het brein kan verstoren. Hersenschudding kan tot lichamelijke, geestelijke en emotionele symptomen leiden, zowel op korte als langere termijn.  Elke hersenschudding wordt door zorgverleners als ernstig letsel beschouwd.
+
+symptoms:
+  - name: Hoofdpijn
+    code:
+      codeValue: "25064002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Duizeligheid
+    code:
+      codeValue: "404640003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Evenwichtsproblemen
+    code:
+      codeValue: "387603000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Misselijkheid
+    code:
+      codeValue: "422587007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Vermoeidheid
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met slapen
+
+  - name: Verhoogde slaperigheid
+
+  - name: Dubbel of wazig zien
+
+  - name: Gevoeligheid voor licht en geluid
+
+  - name: Onduidelijke spraak
+
+  - name: Glazig kijken
+
+  - name: Toevallen
+
+  - name: Moeite met korte of lange termijn geheugen
+
+  - name: Verwardheid
+
+  - name: Trage “verwerking” (bijvoorbeeld, verminderd vermogen om problemen door te denken)
+
+  - name: “Mistigheid”
+
+  - name: Moeite met concentreren
+
+  - name: Slechtere resultaten op school
+
+  - name: Geïrriteerdheid
+
+  - name: Rusteloosheid
+
+  - name: Angstigheid
+
+  - name: Depressiviteit
+
+  - name: Stemmingswisselingen
+
+  - name: Agressie
+
+  - name: Verminderde tolerantie voor stress
+
+  - name: Veranderingen in persoonlijkheid of gedrag
+
+  - name: Libidoverlies
+
+  - name: Verminderde menstruatie
+
+  - name: Groeiproblemen (kinderen)
+
+  - name: Gewichtstoename
+
+  - name: Lage bloeddruk
+
+  - name: Spierzwakte
+
+  - name: Chronische hoofdpijn of duizeligheid
+
+  - name: Spierspasmes
+
+  - name: Vroege dementie/chronisch traumatisch encefalopathie
+---
+Een fysiotherapeut kan de symptomen beoordelen om vast te stellen of sprake is van een hersenschudding en het letsel behandelen door de patiënt te begeleiden met een veilig en persoonlijk herstelprogramma.
+
+Een fysiotherapeut kan de symptomen beoordelen om vast te stellen of sprake is van een hersenschudding en het letsel behandelen door de patiënt te begeleiden met een veilig en persoonlijk herstelprogramma.

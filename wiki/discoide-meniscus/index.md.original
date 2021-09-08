@@ -1,0 +1,76 @@
+---
+author: manon-klarenbeek
+date: 2017-01-11 12:31:36+00:00
+draft: false
+isentity: true
+title: Discoide meniscus
+type: wiki
+url: /wiki/discoide-meniscus/
+categories:
+- Knie
+tags:
+- knieklachten
+- krachtverlies
+- meniscus
+- pijn knie
+- scherpe pijn
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-01-11
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 239721001
+
+description : Een discoide meniscus is een afwijkend gevormde meniscus (het kraakbeen dat als kussen tussen de botten in de knie fungeert), die bij 1% tot 3% van alle mensen voorkomt. De aandoening is het resultaat van de afwijkende vorm van de meniscus gedurende de ontwikkeling in de baarmoeder. Terwijl sommige mensen zich niet bewust zijn van hun discoide meniscus en nooit verwante symptomen ervaren, hebben ze toch een hoger risico op letsel dan mensen met een normale meniscus. Een discoide meniscus wordt met name in de kindertijd of puberteit ontdekt en moet vaak geopereerd worden. Fysiotherapeuten bieden behandeling aan pre en post operatie, en voor aandoeningen waarvoor geen operatie nodig is.
+
+symptoms:
+  - name: Zwelling van kniegewricht.
+    code:
+      codeValue: "299322007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid aan de buitenkant of soms aan de binnenkant van de knie.
+    code:
+      codeValue: "299372009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Knakken of op-slot-gaan van de knie terwijl u loopt of hurkt.
+    code:
+      codeValue: "1126007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in uw knie, vaak aan buitenkant van het been.
+
+  - name: Scherpe pijn bij rennen, springen, “snijden” of diep hurken.
+
+  - name: Verlies aan kniemobiliteit, met name “vastzitten” bij volledig buigen of strekken van de knie.
+
+  - name: Verlies van kracht in de quadriceps (dijspier)
+
+  - name: Ongemak bij dagelijkse dingen, zoals traplopen.
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - 89MQ9jcPHcE
+  - RIL_mhNtC-s
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+  - b-JKyIReYn4
+---
+
+Een discoide meniscus is een afwijkend gevormde meniscus (het kraakbeen dat als kussen tussen de botten in de knie fungeert), die bij 1% tot 3% van alle mensen voorkomt. De aandoening is het resultaat van de afwijkende vorm van de meniscus gedurende de ontwikkeling in de baarmoeder. Terwijl sommige mensen zich niet bewust zijn van hun discoide meniscus en nooit verwante symptomen ervaren, hebben ze toch een hoger risico op letsel dan mensen met een normale meniscus.
+
+Een discoide meniscus wordt met name in de kindertijd of puberteit ontdekt en moet vaak geopereerd worden. Fysiotherapeuten bieden behandeling aan pre en post operatie, en voor aandoeningen waarvoor geen operatie nodig is.

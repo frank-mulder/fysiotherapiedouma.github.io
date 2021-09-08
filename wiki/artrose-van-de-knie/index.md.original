@@ -1,0 +1,82 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-03-21 10:26:22+00:00
+draft: false
+isentity: true
+title: Artrose van de knie
+type: wiki
+url: /wiki/artrose-van-de-knie/
+
+categories:
+- Gewrichten
+- Knie
+- Loopproblemen
+
+tags:
+- crepitatie
+- gonartrose
+- ochtendstijfheid
+- pijnlijke knie
+- startpijn
+
+alternate_names:
+  - Gonartrose
+
+datepublished: 2017-03-21
+datemodified: 2020-04-24
+
+maintopic: medicalcondition/artroseknie
+
+mentions:
+  - medicalcondition/artritis
+  - medicaltherapy/manuele_therapie
+
+about: MedicalCondition
+
+snomed_code: 239873007
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - RIL_mhNtC-s
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+
+description: Artrose van de knie ontstaat als gevolg van ontsteking en degeneratie van de botten die het kniegewricht vormen. Ongeveer 14% van de volwassenen boven de 25 en 34% van de volwassenen boven de 65 zijn gediagnosticeerd met artrose op basis van diagnostische beeldvorming. Ongeveer 16% van de volwassenen boven de 45 hebben specifiek last van artrose van de knie.
+
+symptoms:
+  - name: Erger wordende pijn tijdens of na activiteit, vooral bij lopen, traplopen of opstaan.
+    code:
+      codeValue: "299377003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn of stijfheid na langdurig zitten met gebogen of gestrekte knie
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een ploppend, krakend of knarsend gevoel als de knie wordt bewogen
+    code:
+      codeValue: "255352000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling na activiteit
+    code:
+      codeValue: "442672001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid van knie
+    code:
+      codeValue: "249913002"
+      codingSystem: "SNOMED-CT"  
+
+  - name: Gevoeligheid voor aanraking op het kniegewricht     
+
+---

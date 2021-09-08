@@ -1,0 +1,53 @@
+---
+author: olivier-blaauw
+date: 2017-05-16 07:51:15+00:00
+draft: false
+isentity: true
+title: Plica syndroom
+type: wiki
+url: /wiki/plica-syndroom/
+categories:
+- Gewrichten
+- Knie
+tags:
+- blokkade knie
+- kapselplooi
+- knappend geluid
+- knieschijf
+- plica
+
+alternate_names:
+  - plica synovialis van knie
+
+datepublished: 2017-05-16
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 240171001
+
+description: Plica (kapselplooi)syndroom is een irritatie van het membraam in het kniegewricht dat er voor zorgt dat het gewricht goed gesmeerd blijft. Wanneer dit weefsel aan de binnenkant van de knieschijf geïrriteerd raakt, leidt het tot pijn in de knie en gevoeligheid voor aanraking. Het plica syndroom is vaak het resultaat van overbelasting, maar kan ook ontstaan als gevolg van letsel na een directe klap. Plica syndroom wordt meestal met fysiotherapie behandeld om de mobiliteit en kracht in de knie te verbeteren, zodat de druk en irritatie afnemen.
+
+symptoms:
+  - name: Stijfheid in de knie
+    code:
+      codeValue: "249913002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid bij aanraking
+    code:
+      codeValue: "247348008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Knie Pijn
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Doffe pijn in de knie in rust, die erger wordt bij activiteit
+    code:
+      codeValue: "83644001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een “blokkerend” of “knappend” gevoel bij het buigen van de knie
+---

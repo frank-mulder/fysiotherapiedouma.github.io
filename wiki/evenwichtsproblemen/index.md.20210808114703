@@ -1,0 +1,87 @@
+---
+author: carmen-van-eijck-wilmink
+date: 2016-12-19 10:56:45+00:00
+draft: false
+isentity: true
+title: Evenwichtsproblemen
+type: wiki
+url: /wiki/evenwichtsproblemen/
+categories:
+- Duizeligheid
+- Evenwicht
+- Neurologie
+tags:
+- artrose
+- beroerte
+- binnenoorproblemen
+- diabetes
+- evenwichtsproblemen
+- gewrichtsstijfheid
+- hersenletsel
+- multiple sclerose
+- oogvolgproblemen
+- oogziektes
+- ouderdom
+- ruggenmergletsel
+- spierzwakte
+- ziekte van parkinson
+
+alternate_names:
+  -
+
+datepublished: 2016-12-19
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 387603000
+
+description : "Evenwichtsproblemen maken het voor mensen moeilijk om een stabiele en rechte houding aan te houden wanneer ze staan, lopen of zelfs zitten. Oudere mensen hebben meer risico op evenwichtsproblemen: bij 75% van de Nederlanders boven de 70 is vastgesteld dat ze een “afwijkend” evenwicht hebben. Oudere vrouwen hebben meer kans dan oudere mannen op het ontwikkelen van evenwichtsproblemen, hoewel de verschillen tussen de geslachten klein zijn. Evenwichtsproblemen nemen met bijna 30% toe bij mensen boven de 80.  Fysiotherapeuten ontwikkelen persoonlijke programma’s voor lichamelijke activiteit om te helpen met het verbeteren van kracht, stabiliteit en mobiliteit van mensen met evenwichtsproblemen."
+
+symptoms:
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewrichtsstijfheid
+    code:
+      codeValue: "84445001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Beroerte
+    code:
+      codeValue: "230690007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Diabetes
+    code:
+      codeValue: "73211009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hersenletsel
+    code:
+      codeValue: "301766008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Binnenoorproblemen
+  - name: Sommige medicijnen (zoals die voor depressie en hoge bloeddruk
+
+  - name: Gebrek aan activiteit of een zittend bestaan
+
+  - name: Ouderdom
+
+  - name: Ziekte van Parkinson
+
+  - name: Multiple sclerose
+
+  - name: Artrose
+
+  - name: Ruggenmergletsel
+
+  - name: Cognitieve aandoeningen
+---
+
+**Evenwichtsproblemen maken het voor mensen moeilijk om een stabiele en rechte houding aan te houden wanneer ze staan, lopen of zelfs zitten. Oudere mensen hebben meer risico op evenwichtsproblemen: bij 75% van de Nederlanders boven de 70 is vastgesteld dat ze een “afwijkend” evenwicht hebben. ****Oudere vrouwen hebben meer kans dan oudere mannen op het ontwikkelen van evenwichtsproblemen, hoewel de verschillen tussen de geslachten klein zijn. **
+
+Evenwichtsproblemen nemen met bijna 30% toe bij mensen boven de 80.  Fysiotherapeuten ontwikkelen persoonlijke programma’s voor lichamelijke activiteit om te helpen met het verbeteren van kracht, stabiliteit en mobiliteit van mensen met evenwichtsproblemen.

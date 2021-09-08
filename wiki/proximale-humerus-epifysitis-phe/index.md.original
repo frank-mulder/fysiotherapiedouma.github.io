@@ -1,0 +1,57 @@
+---
+author: frank-mulder
+date: 2017-05-16 08:12:35+00:00
+draft: false
+isentity: true
+title: Proximale humerus epifysitis (PHE)
+type: wiki
+url: /wiki/proximale-humerus-epifysitis-phe/
+categories:
+- Elleboog
+- Schouder
+tags:
+- honkballen
+- jonge sporters
+- softbal
+- sportblessures
+- werpersletsel
+
+alternate_names:
+  - PHE
+
+datepublished: 2017-05-16
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 729211005
+
+description: Proximale humerus epifysitis (PHE) is een aandoening van de schouder van een werpende sporter, die nog in de groei is. Alhoewel het letsel met name voorkomt bij jonge honkballers, kan het zich voordoen bij elk kind dat herhaalde, bovenhandse, werpbewegingen maakt. Met de toegenomen deelname op heel jonge leeftijd aan gespecialiseerde sportbeoefening, zijn schouder- en elleboogblessures gemeengoed geworden.
+
+symptoms:
+  - name: Pijn in de schouder bij het werpen, of op de dag na een wedstrijd of training
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name: Toegenomen schouderpijn in relatie tot toegenomen werpactiviteit.
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in de bovenarm
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling van schoudergewricht
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderde snelheid of het vermogen om de bal tijdens het werpen onder controle te houden
+
+  - name: Beperkte mobiliteit in de schouder in vergelijking tot de andere kant
+
+  - name: Moeite met het optillen van de arm
+---

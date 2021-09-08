@@ -1,0 +1,60 @@
+---
+author: frank-mulder
+date: 2013-03-11 07:35:15+00:00
+draft: false
+title: Over Fysiotherapie Douma in Hilversum
+type: page
+breadcrumb: Over Ons
+url: /over-ons/
+description: Fysiotherapie Douma is een fysiotherapiepraktijk in Hilversum met 3 locaties en ervaren fysiotherapeuten in Hilversum. Wilt u kennismaken met één van onze therapeuten? Maak dan een afpsraak.
+schemapage: organization
+images:
+  - /images/headers/wachtkamer.jpg
+---
+{{< wrap >}}
+<div>{{< headerimage src="images/headers/wachtkamer.jpg" title="Over ons" button1="Afspraak maken" button1link="/aanmelden/" >}}
+**Fysiotherapie Douma is een fysiotherapie praktijk met drie locaties in het zuiden van Hilversum**
+{{< /headerimage >}}</div>
+{{< twotone >}}
+{{< twotoneleft>}}
+## Wij staan voor
+
+* Persoonlijke aandacht
+
+* Doelmatigheid van zorg
+
+* Klanttevredenheid
+
+* Gegarandeerd hoge kwaliteit van behandelen
+
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+{{< embedimage img="images/photos/kitchenette.jpg" alt="" >}}
+{{< /twotoneright >}}
+{{< /twotone >}}
+{{< box color="color2 p-md">}}
+## Meer over onze praktijken
+In de praktijk wordt altijd volgens de meest recente inzichten en richtlijnen gewerkt en daarnaast worden wij jaarlijks geauditeerd. Fysiotherapie Douma heeft contracten met alle zorgverzekeraars, zodat behandelingen (indien u verzekerd bent voor fysiotherapie) vergoed worden vanuit de aanvullende verzekering.
+
+In de praktijk zijn elf fysiotherapeuten werkzaam die ondersteund worden door een office manager, kwaliteitsmanager en twee praktijk assistenten.
+
+Al onze medewerkers zijn geregistreerd bij het kwaliteitsregister van het KNGF het CKR en volgen jaarlijks herhalingstrainingen reanimatie en AED.
+{{< /box >}}
+{{< box >}}
+## Onze medewerkers
+{{< listmedewerkers >}}
+{{< /box >}}
+{{< twotone >}}
+{{< twotoneleft>}}
+## Onze drie locaties in Hilversum
+Fysiotherapie Douma heeft meerdere [fysiotherapiepraktijken in Hilversum](/locatie/).
+
+Zo is er altijd een fysiotherapeut bij u in de buurt. Onze fysiotherapeuten begeleiden u met veel plezier persoonlijke aandacht. De locatie van de behandeling kunt u zelf kiezen.
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+{{< locationcard name="Nieuw Zuid" image="logo-fysiodouma-1000x1000.png" href="/locatie/nieuw-zuid/" address="Diependaalselaan 337A" >}}
+{{< locationcard name="Hilvertshoek" image="logo-fysiodouma-1000x1000.png" href="/locatie/hilvertshoek/" address="Diependaalselaan 197" >}}
+{{< locationcard name="De Boomberg" image="logo-fysiodouma-1000x1000.png" href="/locatie/de-boomberg/" address="Vaartweg 42" >}}
+{{< /twotoneright >}}
+{{< /twotone >}}
+{{< /wrap >}}

@@ -1,0 +1,64 @@
+---
+author: piet-douma
+date: 2017-02-10 10:43:27+00:00
+draft: false
+isentity: true
+title: Heupinklemming (femoro-acetabulair impingement)
+type: wiki
+url: /wiki/heupinklemming-femoro-acetabulair-impingement/
+categories:
+- Heup
+tags:
+- heupkom
+- heupkop
+- impingement
+- inklemming
+- labrum
+
+alternate_names:
+  - femurkopinklemmingssyndroom
+
+datepublished: 2017-02-10
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 432473000
+
+description: Heupinklemming betreft een verandering in de vorm van het oppervlak van het heupgewricht dat het vatbaar maakt voor schade waardoor stijfheid en pijn ontstaat. Heupinklemming is een proces dat vooraf kan gaan aan artritis. Het treft vooral jonge, actieve mensen.
+
+symptoms:
+  - name: Stijfheid of een diepe pijn in rust aan de voor- of zijkant van de heup of de voorkant van het bovenbeen.
+    code:
+      codeValue: "249914008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Scherpe, stekende pijn bij opstaan uit een stoel, hurken, opstaan uit hurken, hardlopen, “snijden”, springen, draaien, scharnieren of zijwaartse bewegingen maken.
+    code:
+      codeValue: "55145008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn die meestal geleidelijk ontstaat, maar kan blijven na het genezen van een andere blessure.
+    code:
+      codeValue: "427128002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn die erger wordt bij langdurig zitten of voorover leunen.
+
+  - name: Het gevoel van minder flexibiliteit in de heupen, inclusief verminderd vermogen om uw dij aan de pijnlijke kant naar binnen te draaien.
+
+  - name: Pijn op een specifieke plaats in de heup, die aangegeven wordt door een “C” te maken met duim en hand, die op de vouw aan de voor- en zijkant van de heup wordt geplaatst, genaamd het “C-teken”.
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+---
+Recent onderzoek toont aan dat bij 87% van alle tieners en volwassenen met pijn in de heup op diagnostische beelden van hun heupgewrichten aanwijzingen van heupinklemming aanwezig zijn. Om heupinklemming te behandelen, schrijven fysiotherapeuten stretch- en krachtoefeningen voor om de spieren rond de heup beter te balanceren en te beschermen, en gebruiken [manuele therapie](/manuele-therapie/) om het bewegingsbereik te herstellen en het welzijn te verbeteren.

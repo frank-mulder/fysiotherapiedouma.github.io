@@ -1,0 +1,54 @@
+---
+author: petra-tuunter
+date: 2017-03-27 10:30:06+00:00
+draft: false
+isentity: true
+title: Peroneale tendinopathie
+type: wiki
+url: /wiki/peroneale-tendinopathie/
+categories:
+- Enkel
+tags:
+- blessure
+- enkel klachten
+- overbelasting
+- tendinopathie
+
+alternate_names:
+  - tendinitis van peroneuspees
+
+datepublished: 2017-03-27
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 53208009
+
+description: Letsel door overbelasting is goed voor de helft van alle blessures. De meeste blessures door overbelasting doen zich voor bij hardlopers, met 20% van het letsel in het onderbeen, 15% in de enkel en 15% in de voet.
+
+symptoms:
+  - name: Zeurende pijn aan de buitenkant van de enkel, vooral bij activiteit
+    code:
+      codeValue: "27635008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling of gevoeligheid als de voet actief naar buiten bewogen wordt of als die naar beneden wijst.
+    code:
+      codeValue: "267039000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Laterale (buitenkant) enkelpijn die minder wordt bij rust.
+    code:
+      codeValue: "247373008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn als bij lopen of rennen wordt afgezet op de bal van de voet.
+
+  - name: Pijn bij het lopen op hellende ondergrond waardoor de voet naar buiten wordt gedrukt
+
+  - name: Pijn als de voet naar binnen en beneden wordt gestrekt.
+---
+
+Peroneale tendinopathie is een type van overbelasting dat zich veel bij sporters, zoals langeafstandlopers en basketballers, voordoet. Dansers, mensen die enkelverstuikingen hebben gehad, of mensen die gewoon zwakke enkels hebben worden ook vaak getroffen.
+
+Peroneale tendinopathie wordt gekarakteriseerd door pijn aan de buitenkant van de enkel die erger wordt bij activiteit, maar minder wordt bij rust. Een fysiotherapeut kan helpen om de door deze aandoening veroorzaakte symptomen te verlichten door behandeling zoals stretchen en krachtoefeningen aan te bieden om de enkel mobieler, sterk en stabiel te maken.

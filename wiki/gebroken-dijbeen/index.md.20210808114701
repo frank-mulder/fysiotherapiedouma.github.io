@@ -1,0 +1,71 @@
+---
+author: kaj-moorman
+date: 2017-02-09 08:58:57+00:00
+draft: false
+isentity: true
+title: Gebroken dijbeen
+type: wiki
+url: /wiki/gebroken-dijbeen/
+categories:
+- Bovenbeen
+- Fractuur
+tags:
+- breuk
+- femur
+- fissuur
+- fractuur
+
+alternate_names:
+  - femurfractuur
+
+datepublished: 2017-02-09
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 71620000
+
+description : Een femurfractuur is breuk-, barst- of verbrijzelletsel aan het dijbeen. Het wordt soms, als de breuk zich in het bovenste deel van het bot bij het heupgewricht bevindt, “heupfractuur” of “gebroken heup” genoemd. Breuken in het dijbeen, die bestaan uit eenvoudige, korte barsten in het bot hebben normaal gesproken geen operatie nodig. Breuken, echter, die volledig door het bot heen breken of dislocatie of verbrijzeling van het bot veroorzaken, moeten direct geopereerd worden.
+
+symptoms:
+  - name: Zwelling in het heupgebied
+    code:
+      codeValue: "299232002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hematoom (een lokale bloedophoping waardoor verkleuring optreedt) of ernstige bloeduitstorting in het gebied van de breuk
+    code:
+      codeValue: "302227002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in been
+    code:
+      codeValue: "10601006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onvermogen om het been te bewegen of om te staan
+
+  - name: Bloeding uit een open wond, als het bot door de huid steekt
+
+  - name: Een verandering van de vorm (misvorming) van het dijbeengebied
+
+  - name: Spierspasmes in de dij
+
+  - name: Gevoelloosheid en/of tinteling in de dij of het been
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - RIL_mhNtC-s
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+---
+
+**Een femurfractuur is breuk-, barst- of verbrijzelletsel aan het dijbeen. Het wordt soms, als de breuk zich in het bovenste deel van het bot bij het heupgewricht bevindt, “heupfractuur” of “gebroken heup” genoemd. Breuken in het dijbeen, die bestaan uit eenvoudige, korte barsten in het bot hebben normaal gesproken geen operatie nodig. Breuken, echter, die volledig door het bot heen breken of dislocatie of verbrijzeling van het bot veroorzaken, moeten direct geopereerd worden.**

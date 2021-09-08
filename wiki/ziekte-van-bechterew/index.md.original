@@ -1,0 +1,61 @@
+---
+author: li-anne-douma
+date: 2016-12-04 16:30:16+00:00
+draft: false
+isentity: true
+title: Ziekte van Bechterew
+type: wiki
+url: /wiki/ziekte-van-bechterew/
+categories:
+- Bovenrug
+- Gewrichten
+- Nek
+- Reuma
+tags:
+- bekken
+- gewrichtspijn
+- ontstekingen
+- ruggengraat
+- stijfheid
+- wervelkolom
+
+alternate_names:
+  - spondylitis ankylopoetica
+
+datepublished: 2016-12-04
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 9631008
+
+description: De ziekte van Bechterew is een ontstekingsziekte die pijn en stijfheid in de ruggengraat, het bekken en andere gewrichten, zoals heup, knieën, voeten en schouders veroorzaakt. De ziekte van Bechterew is een chronisch (levenslange) ziekte en is erfelijk. Hoewel de meerderheid van mensen met de ziekte van Bechterew een gen genaamd HLA-B27 dragen, ontwikkelt ongeveer 80% van de mensen die het gen van een ouder met de ziekte van Bechterew hebben geërfd de ziekte niet.
+
+symptoms:
+  - name: Lage rugpijn
+    code:
+      codeValue: "279039007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in SI gewricht
+    code:
+      codeValue: "202487003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Heuppijn
+    code:
+      codeValue: "49218002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Schouderpijn
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Koorts
+    code:
+      codeValue: "386661006"
+      codingSystem: "SNOMED-CT"
+---
+
+Het begin van de ziekte van Bechterew wordt meestal bij mensen tussen 17 en 45 jaar oud vastgesteld. Bij mannen wordt 2 tot 3 keer vaker dan bij vrouwen de ziekte van Bechterew vastgesteld en mannen hebben ernstiger symptomen van de ziekte dan vrouwen. Fysiotherapeuten helpen mensen met de ziekte van Bechterew om productief te blijven door met hen te werken aan het verhogen van hun kracht, spierflexibiliteit en gewrichtsmobiliteit en door hun houding te verbeteren.

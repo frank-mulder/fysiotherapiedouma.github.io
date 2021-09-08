@@ -1,0 +1,54 @@
+---
+author: manon-klarenbeek
+date: 2017-03-27 06:19:13+00:00
+draft: false
+isentity: true
+title: Patellofemoraal pijnsyndroom
+type: wiki
+url: /wiki/patellofemoraal-pijnsyndroom/
+categories:
+- Knie
+- Loopstoornis
+tags:
+- knieklachten
+- patella
+- patellafemorale pijn
+- PFPS
+
+alternate_names:
+  -
+
+datepublished: 2017-03-27
+datemodified: 2020-05-12
+
+about: MedicalCondition
+
+snomed_code: 430725003
+
+description: Het patellofemoraal pijnsyndroom (PFPS) is één van de meest voorkomende soorten van pijn in de knie, met name bij sporters, actieve tieners, oudere volwassenen en mensen die lichamelijke arbeid verrichten. Patellofemorale pijn treft meer vrouwen dan mannen en is goed voor 20%-25% van alle gemelde kniepijn.
+
+symptoms:
+  - name: Kniegewricht pijnlijk bij beweging
+    code:
+      codeValue: "299377003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Knee pain
+    code:
+      codeValue: "30989003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoeligheid van kniegewricht
+    code:
+      codeValue: "299372009"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - WVal4FR2KT4
+  - RIL_mhNtC-s
+  - 8WqA9rVRbOE
+---

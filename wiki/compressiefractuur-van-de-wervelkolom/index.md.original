@@ -1,0 +1,84 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-05-01 08:15:22+00:00
+draft: false
+isentity: true
+title: Compressiefractuur van de wervelkolom
+type: wiki
+url: /wiki/compressiefractuur-van-de-wervelkolom/
+categories:
+- Bovenrug
+- Gewrichten
+- Onderrug
+- Pijn
+- Rug
+- Uitstraling
+- Wervelkolom
+tags:
+- breuk
+- compressiefracturen
+- compressiefractuur
+- lengte verlies
+- pijn
+- ruggegraat
+- thoracaal
+- uistraling
+- wervelkolom
+
+alternate_names:
+  -
+
+datepublished: 2017-05-01
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 42942008
+
+description : Een breuk in de wervelkolom ontstaat als de wervels of kleine botjes, die de wervelkolom vormen inzakken of breken. Er zijn 5 verschillende soorten wervelkolomfracturen, maar de compressiefractuur van de wervelkolom komt het meest voor. Een compressiefractuur doet zich voor als de wervels in elkaar zakken. Deze breuken komen meestal voor bij mensen met osteoporose (botontkalking), vrouwen van boven de 50, die in de menopauze zijn, of iedereen boven de 60 die verzwakte botten zou kunnen hebben.
+
+symptoms:
+  - name: Pijn in de rug die plotseling opkomt of langzaamaan erger wordt.
+    code:
+      codeValue: "161891005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn, gevoelloosheid of verlamming in de benen (bijv. een traumatische compressiefractuur door kleine botsplinters die zich in het ruggenmerg vastzetten)
+    code:
+      codeValue: "609553000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een voorovergebogen houding, bochel genaamd of thoracale kyfose
+    code:
+      codeValue: "414564002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verlies van tot wel 15 cm lengte.
+    code:
+      codeValue: "71781005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Rugpijn die erger wordt als u rechtop zit of staat
+
+  - name: Pijn bij het hoesten, niezen, lachen of diep ademhalen
+
+  - name: Rugpijn die minder wordt als u gaat liggen
+
+  - name: Pijn bij en moeite met buigen of draaien
+
+  - name: Gevoeligheid in een bepaald gebied op de ruggengraat.
+
+  - name: "In gevallen waarbij het ruggenmerg samengedrukt is: gevoelloosheid, tintelingen , moeite met lopen, geen controle over darmen of blaas"
+
+videos:
+  - Na3963B1xTU
+  - LxIZGEfEKok
+  - mfcXNPfDdxw
+  - jCGmOIE3P2k
+  - Awlc5lHOIWg
+  - LQ75tN96FAE
+  - 9G-M0PJlua0
+  - ANjAYGPgwR4
+  - KGbwxK38uEo
+  - yUF2g4cQ7iY
+---

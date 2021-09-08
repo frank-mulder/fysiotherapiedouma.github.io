@@ -1,0 +1,44 @@
+---
+author: piet-douma
+date: 2019-01-25 09:18:05+00:00
+draft: false
+title: Fitness en Sporten met een sportfysiotherapeut? Fysiotherapie Douma
+description: Fitnessen en Sporten in Hilversum onder begeleiding van een ervaren Sportfysiotherapeut? Dat kan bij Fysiotherapie Douma. Bekijk onze mogelijkheden.
+type: page
+url: /fitness-en-sporten/
+aliases: /fitness/
+images:
+  - /images/headers/Fysiotherapie-Douma-Hilversum-Oefenzaal-head.jpg
+---
+<div>{{< headerimage src="images/headers/Fysiotherapie-Douma-Hilversum-Oefenzaal-head.jpg" title="Fitness in Hilversum" button1="Abonnement kiezen" button1link="https://mijn.fysiodouma.nl/winkel/" >}}
+Voor iedereen die wil sporten onder begeleiding van Fysiotherapeuten. Behaal jouw fitness doelen behalen alleen of in een team.
+{{< /headerimage >}}</div>
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft >}}
+## Fitnessen in groepsverband
+Haal alles uit jezelf met de groepslessen van Fysio Douma. Met onze groepsfitnesss in Hilversum behaal je jouw doelen én heb je het gezellig. Het is voor ons belangrijk dat jij plezier hebt in sporten en dat gaat vaak beter in een groep, onder begeleiding van een professional.
+
+Ons aanbod van fitnessgroepen loopt lekker uit één. Van BBB trainingen en Core Stability trainingsgroepen tot sportgroepen voor ouderen en COPD groepsfitness. Iedere groepsles wordt begeleid door één van onze Fysio's.
+
+Kijk voor meer informatie op de pagina van de groepsles waar je meer over wilt weten.
+{{< /twotoneleft >}}
+{{< twotoneright color="bg-blue">}}
+## Onze groepslessen op een rijtje
+* [Zwangerfit](/zwangerfit/)
+* [55+ Fitness](/55-plus-fitness/)  
+* [70+ Groep](/70-plus-fitness/)  
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft color="bg-blue" >}}
+## Individuele Fitness in Hilversum
+
+Wil jij alles uit jezelf halen onder begeleiding van een Fysiotherapeut? Kies dan voor één van de individuele fitness trainingen van Fysiotherapie Douma. Wij stellen een schema voor je op en zorgen ervoor dat jij het maximale bereikt tijdens iedere les. Wij hebben verschillende ervaren fysiotherapeuten dat klaar staat voor jouw individuele fitness in Hilversum
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Onze individuele lessen op een rijtje
+* [Medisch Fitness](/medisch-fitness/)
+{{< /twotoneright >}}
+{{< /twotone >}}

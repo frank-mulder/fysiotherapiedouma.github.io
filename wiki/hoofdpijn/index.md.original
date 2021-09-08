@@ -1,0 +1,75 @@
+---
+author: bas-van-baaden
+date: 2017-02-09 14:37:38+00:00
+draft: false
+isentity: true
+title: Hoofdpijn
+type: wiki
+url: /wiki/hoofdpijn/
+categories:
+- Hoofd
+tags:
+- clusterhoofdpijn
+- frontale hoofdpijn
+- hoofdpijn
+- migraine
+- occipitale hoofdpijn
+- spanningshoofdpijn
+- temporale hoofdpijn
+
+alternate_names:
+  -
+
+datepublished: 2017-02-09
+datemodified: 2020-05-01
+
+about: MedicalCondition
+
+snomed_code: 25064002
+
+description : Elke vorm van pijn die zich in enig deel van het hoofd voordoet, wordt hoofdpijn genoemd. Er zijn zeer veel verschillende soorten hoofdpijn met net zoveel verschillende oorzaken.
+
+symptoms:
+  - name: Aangezichtspijn
+    code:
+      codeValue: "31681005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Nekpijn
+    code:
+      codeValue: "81680005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Migraine
+    code:
+      codeValue: "37796009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Clusterhoofdpijn
+    code:
+      codeValue: "193031009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spanningshoofdpijn
+    code:
+      codeValue: "398057008"
+      codingSystem: "SNOMED-CT"
+---
+De International Headache Society beschrijft verschillende categorieën hoofdpijn:
+
+Spanningshoofdpijn
+Migraine en clusterhoofdpijn
+Secundaire hoofdpijnen vanuit een onderliggende aandoening, zoals koorts, infectieziekte, sinusaandoening of, in zeldzame gevallen, een tumor of een meer serieuze ziekte
+Craniale neuralgieën, aangezichtspijn en andere hoofdpijnen
+De meeste hoofdpijnen zijn onschuldig en lossen zichzelf op, maar ernstige hoofdpijnen die regelmatig terugkomen kunnen uw vermogen om uw dagelijkse activiteiten uit te voeren aantasten en uw kwaliteit van leven verminderen.
+
+Er is een effectieve behandeling voor bijna elke vorm van hoofdpijn. De uitdaging ligt in het vaststellen van de soort hoofdpijn, de oorzaak daarvan en in het ontwikkelen van het juiste behandelplan dat zowel de frequentie als de intentie vermindert. Fysiotherapeuten kunnen helpen bij het vaststellen van het soort hoofdpijn dat u heeft en zijn experts in de beheersing van pijn door spanningshoofdpijnen.
+
+- Spanningshoofdpijn
+- Migraine en clusterhoofdpijn
+- Secundaire hoofdpijnen vanuit een onderliggende aandoening, zoals koorts, infectieziekte, sinusaandoening of, in zeldzame gevallen, een tumor of een meer serieuze ziekte
+- Craniale neuralgieën, aangezichtspijn en andere hoofdpijnen
+
+De meeste hoofdpijnen zijn onschuldig en lossen zichzelf op, maar ernstige hoofdpijnen die regelmatig terugkomen kunnen uw vermogen om uw dagelijkse activiteiten uit te voeren aantasten en uw kwaliteit van leven verminderen.
+
+Er is een effectieve behandeling voor bijna elke vorm van hoofdpijn. De uitdaging ligt in het vaststellen van de soort hoofdpijn, de oorzaak daarvan en in het ontwikkelen van het juiste behandelplan dat zowel de frequentie als de intentie vermindert. Fysiotherapeuten kunnen helpen bij het vaststellen van het soort hoofdpijn dat u heeft en zijn experts in de beheersing van pijn door spanningshoofdpijnen.

@@ -1,0 +1,69 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-01-12 18:56:35+00:00
+draft: false
+isentity: true
+title: Cervicale radiculopathie
+type: wiki
+url: /wiki/cervicale-radiculopathie/
+categories:
+- Nek
+- Schouder
+- Uitstraling
+tags:
+- artritis
+- hernia
+- nek
+- nekhernia
+- nekklachten
+- uitstraling
+- wervelkanaalstenose
+- zenuwwortel
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 54404000
+
+description : Cervicale radiculopathie wordt vaak aangeduid als een beknelde zenuw in de nek. Het wordt gekarakteriseerd door uitstralende pijn vanuit de nek naar de schouder, schouderblad, arm of hand. Zwakte en gebrek aan coördinatie in de arm en hand komen ook voor. De aandoening treft ongeveer 85 uit 100.000 mensen – meestal 50ers. Atleten, mensen met zwaar werk en arbeiders, die trillende machines bedienen worden meestal getroffen. Mensen die lang zitten of die artrose in de cervicale (nek) regio hebben worden ook aangedaan. Conservatieve behandeling, waaronder fysiotherapie, kan helpen om de symptomen te verminderen. Een fysiotherapeut kan helpen om de acute symptomen in nek en arm die het gevolg zijn van de aandoening te verminderen en ook om de kracht en het functioneren in het algemeen te verbeteren. De meeste gevallen van cervicale radiculopathie worden door middel van fysiotherapie en zonder operatie verholpen.
+
+symptoms:
+  - name: Pijn in de nek, schouderblad, schouder, borst of arm, waarbij de pijn mogelijk naar de vingers straalt langs de baan van de betreffende zenuwwortel
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Als “scherp” omschreven pijn of “tintelingen” of een “plop”-gevoel in het cervicale gebied.
+    code:
+      codeValue: "103014001"
+      codingSystem: "SNOMED-CT"      
+
+  - name: Een algemeen doffe pijn of gevoelloosheid overal langs de baan van de zenuw.
+
+  - name: Zwakte in de schouder, arm of hand
+
+  - name: Pijn, die erger wordt bij bepaalde bewegingen van de nek.
+
+  - name: Pijn, die minder wordt als de arm boven en achter het hoofd wordt getild (minder spanning op de ruggenmergzenuw).
+
+  - name: "C5 zenuwwortel (tussen nekwervels C4-C5): zwakte in de deltaspier (voor- en zijkant van de schouder) en bovenarm; schouderpijn en gevoelloosheid"
+
+  - name: "C6 zenuwwortel (tussen nekwervels C5-C6): zwakte in de biceps (voorkant van de bovenarm) en polsspieren; gevoelloosheid aan de duimkant van de hand"
+
+  - name: "C7 zenuwwortel (tussen nekwervel (C6-C7): zwakte in de triceps (de achterkant van de bovenarm en pols); gevoelloosheid en tinteling aan de achterkant van de arm en de middelvinger van de aangedane hand"
+
+  - name: "C8 zenuwwortel (tussen wervels C7-T1): zwakte in de greep van de hand; gevoelloosheid in de pink"
+
+videos:
+  - _REACPZwLHo
+  - fwEDV8mSiDo
+  - 5A11pp6xYxU
+  - pqM3gJuB_kw
+  - awg5BeG09fQ
+  - VOVZiSRjYhs
+---

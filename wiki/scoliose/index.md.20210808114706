@@ -1,0 +1,59 @@
+---
+author: marina-hoogendijk-prinsen
+date: 2017-05-18 09:00:29+00:00
+draft: false
+isentity: true
+title: Scoliose
+type: wiki
+url: /wiki/scoliose/
+categories:
+- Bovenrug
+- Gewrichten
+- Rug
+- Wervelkolom
+tags:
+- C kromming
+- congenitaal
+- kromming wervelkolom
+- neuromusculair
+- S kromming
+- scoliose
+
+alternate_names:
+  -
+
+datepublished: 2017-05-18
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 298382003
+
+description: Scoliose is een aandoening, die de normale vorm van de wervelkolom aantast en iemands houding en algemene stand van de romp verandert. Door scoliose beweegt de wervelkolom naar de zijkant en draait weg.
+
+symptoms:
+  - name: Pijn in wervelkolom
+    code:
+      codeValue: "48926009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in bekken
+    code:
+      codeValue: "30473006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Afwijkende houding
+    code:
+      codeValue: "43029002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Ongelijke schouderhoogte
+
+  - name: Ongelijke heuphoogte
+
+  - name: Een ongelijke taille
+
+  - name: Een algemeen gevoel dat de twee kanten van het lichaam niet goed uitlijnen
+
+  - name: Pijn bij bepaalde beweging of activiteit.
+---

@@ -1,0 +1,13 @@
+---
+author: frank-mulder
+date: 2013-01-22 07:11:03+00:00
+draft: false
+title: Samenwerkingen
+type: page
+url: /samenwerkingen/
+---
+{{< box >}}
+# Onze samenwerkingen
+{{< /box >}}
+
+<center>{{< samenwerking-overzicht >}}</center>

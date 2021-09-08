@@ -1,0 +1,81 @@
+---
+author: sandra-koekkoek
+date: 2018-09-27 12:34:41+00:00
+draft: false
+title: Medisch fitness
+type: page
+url: /medisch-fitness/
+description: Medisch Fitness helpt u uw gezondheid te onderhouden of te verbeteren. Om genoeg energie voor uw dagelijks leven te hebben, wilt u wel uw conditie verbeteren of afvallen maar niet in een grootschalig fitness centrum met topfitte sporters om u heen.
+images:
+  - /images/headers/medische-fitness-onder-begeleiding.jpg
+---
+<div>{{< headerimage src="images/headers/medische-fitness-onder-begeleiding.jpg" title="Medisch Fitness Training" button1="Inschrijven" button1link="/aanmelden/" >}}
+Wil je zelf meer bewegen, werken aan je conditie en spierkracht?<br />
+Dan is Medisch Fitness onder begeleiding iets voor jou.
+{{< /headerimage >}}</div>
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Meer over medisch fitness
+Medisch Fitness helpt u uw gezondheid te onderhouden of te verbeteren. Om genoeg energie voor uw dagelijks leven te hebben, wilt u wel uw conditie verbeteren of afvallen maar niet in een grootschalig fitness centrum met topfitte sporters om u heen.
+
+In de praktijk van Fysiotherapie Douma begrijpen wij dit. Wij bieden daarom verschillende vormen van Medisch Fitness aan. Wij combineren het comfortabele van een fitness centrum met de professionaliteit en persoonlijke aandacht vanuit onze fysiotherapie. Zo wordt u begeleidt naar fitheid.
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+{{< embedimage img="medisch-fitness-oefening.jpg" alt="" >}}
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Wat houdt de individuele Medisch Fitness Training in?
+Een persoonlijk trainingsschema gericht op jouw situatie, mogelijkheden en wensen. Sporten onder deskunidge begeleiding van een fysiotherapeut of beweegspecialist. We zullen regelmatig met elkaar evalueren om het trainingsschema te verbeteren en samen het beste resultaat te behalen.
+
+De focus medisch fitness ligt op:
+* Het verbeteren van de conditie
+* Spierkracht, coördinatie en uithoudingsvermogen trainen/verbeteren
+* Gewichtsafname
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Voordelen van Medisch Fitness
+* Kleinschaliger dan een sportschool
+
+* Persoonlijke trainingsschema’s
+
+* Begeleiding van een sport-en beweegprofessional
+
+* Vrije inloop
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Tarieven Medisch Fitness
+1x per week  
+€15,00 per maand  
+€35,00 per kwartaal  
+€125,00 per jaar
+
+2x per week  
+€ 25,00 per maand  
+€ 60,00 per kwartaal  
+€ 225,00 per jaar
+
+Onbeperkt trainen
+€ 35,00 per maand  
+€ 100,00 per kwartaal  
+€ 325,00 per jaar
+
+* Betaling via iDeal of CreditCard
+* Maandelijks opzegbaar
+* Wij hanteren geen inschrijfgeld
+* Gratis proefles!
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Inschrijven voor Medisch Fitness?
+Dat doe je via eenvoudig via Mijn Fysiodouma. Je kunt hier zelf aangeven hoe vaak je wilt sporten en wat voor lidmaatschap je wilt.
+{{< button type="secondary" href="https://mijn.fysiodouma.nl/product/medischfitness-vrij-trainen/" target="blank" >}}Schrijf je in{{< /button >}}
+Of [bel ons](tel:035-6216812) voor meer informatie.
+
+{{< /twotoneright >}}
+{{< /twotone >}}

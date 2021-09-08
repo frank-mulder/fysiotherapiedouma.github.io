@@ -1,0 +1,69 @@
+---
+author: olivier-blaauw
+date: 2017-02-20 12:28:12+00:00
+draft: false
+isentity: true
+title: Gescheurde meniscus
+type: wiki
+url: /wiki/gescheurde-meniscus/
+categories:
+- Knie
+tags:
+- draaien
+- knieklachten
+- meniscus
+- pijn
+- scheur
+- sportletsel
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-02-20
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 239720000
+
+description : Een gescheurde meniscus is een vaak voorkomende blessure. Sporters in individuele en teamsporten worden erdoor getroffen. Maar het komt ook vaak voor bij mensen die werk doen waarbij ze veel moeten bukken, zoals loodgieters of stratenmakers. Uw fysiotherapeut kan u helpen om het letsel te beheersen en, als een operatie nodig is, om u op de procedure voor te bereiden en om na afloop uw kracht en mobiliteit terug te krijgen.
+
+symptoms:
+  - name: Soms zit de knie op slot
+    code:
+      codeValue: "1126007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Scherpe, intense pijn in de knie
+    code:
+      codeValue: "274663001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in de eerste 24 uur na het letsel
+    code:
+      codeValue: "299322007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een “plop” of scheurend gevoel
+
+  - name: Moeite met lopen vanwege de pijn of een “op slot” gevoel
+
+  - name: Moeite met het strekken van de knie
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - 89MQ9jcPHcE
+  - RIL_mhNtC-s
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+  - b-JKyIReYn4
+---

@@ -1,0 +1,66 @@
+---
+title: Multidirectionele instabiliteit (MDI) van de schouder
+alternate_names:
+  - Schouder uit de kom
+  - MDI
+  - Multidirectionele instabiliteit van glenohumeraal gewricht
+  - Schouderinstabiliteit
+
+draft: false
+isentity: true
+date: 2017-02-24 09:35:00+00:00
+datepublished: 2017-02-24
+datemodified: 2020-04-13
+url: /wiki/multidirectionele-instabiliteit-schouder
+
+type : wiki
+about: MedicalCondition
+category: schouder
+tag:
+  - hypermobiel
+  - instabiliteit
+  - overbelasting
+  - pijn
+  - schouderklachten
+snomed_code: 26571000146106
+
+author: piet-douma
+
+description : Schouderinstabiliteit is een aandoening die vaak voorkomt bij mensen die aan sport doen. Hoewel veel mensen schouderinstabiliteit associëren met een traumatische gebeurtenis zoals disclocatie (uit de kom), kan multidirectionele instabiliteit (MDI) zich ook zonder trauma voordoen. MDI komt meestal voor bij mensen die verhoogde mobiliteit in een gewricht hebben of het gewricht al langere tijd niet getraind hebben.
+
+symptoms:
+  - name: Last van de schouder
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij duwen en trekken, of het tillen van zware voorwerpen
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn bij het maken van bewegingen boven het hoofd
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn tijdens of na sportbeoefening
+    code:
+      codeValue: "45326000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een gevoel dat de schouder “verschuift” (ook ’s nachts in bed)
+
+  - name: Angst om de schouder in bepaalde houdingen te zetten
+
+  - name: Gevoelloos en tintelend gevoel in de aangedane arm
+
+  - name: Klikkend en ploppend gevoel bij beweging
+
+  - name: Zwakte bij het maken van sportbewegingen, vooral boven het hoofd en van het lichaam af
+
+  - name: Verlies van prestatievermogen bij sport
+
+  - name: Vermoeidheid bij herhaalde activiteit
+---
+Zwakte van het schoudergewricht (rotatorenmanchet) kan het risico op MDI vergroten. Na het behandelen van de door MDI van de schouder veroorzaakte pijn en ontsteking, richt fysiotherapie zich op het versterken van de spieren die het schouderblad (Scapula) en schoudergewricht (rotatorenmanchet) ondersteunen om te helpen bij terugkeer naar activiteit en nieuw letsel te voorkomen.

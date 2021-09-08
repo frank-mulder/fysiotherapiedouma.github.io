@@ -1,0 +1,71 @@
+---
+author: frank-mulder
+date: 2017-05-15 12:31:51+00:00
+draft: false
+isentity: true
+title: Temporomandibulaire dysfunctie
+type: wiki
+url: /wiki/temporomandibulaire-dysfunctie/
+categories:
+- Hoofd
+- Kaak
+tags:
+- bruxisma
+- kaak
+- kaakklem
+- kauwen
+- malocclusie
+- opendoen mond
+- temporomandibulaire dysfunctie
+- TMD
+- trismus
+- uitlijnen
+
+alternate_names:
+  - syndroom van Costen
+
+datepublished: 2017-05-15
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 386207004
+
+description: Temporomandibulaire dysfunctie (TMD) is een veel voorkomende aandoening die de natuurlijke functionaliteit van de kaak beperkt, zoals kauwen en het opendoen van de mond. De aandoening treft in de Nederland zeer veel mensen. Het wordt vaak ten onrechte TMJ genoemd, wat naar het gewricht (temporomandibular joint) verwijst.
+
+symptoms:
+  - name: Pijn in de kaak
+    code:
+      codeValue: "274667000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Artritis
+    code:
+      codeValue: "298160000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Duizeligheid
+    code:
+      codeValue: "404640003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hoofdpijn
+    code:
+      codeValue: "25064002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Kaakgewricht stijf
+    code:
+      codeValue: "298231004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite om uw mond open te doen om te eten of te praten
+
+  - name: Oorsuizen
+
+  - name: Ploppende geluiden in uw kaak
+
+  - name: Pijn in de nek
+
+  - name: Kaak op slot
+---

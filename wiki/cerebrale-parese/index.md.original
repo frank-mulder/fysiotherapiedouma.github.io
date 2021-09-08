@@ -1,0 +1,89 @@
+---
+author: gerjanne-van-der-borden-van-roekel
+date: 2017-01-12 18:54:55+00:00
+draft: false
+isentity: true
+title: Cerebrale parese
+type: wiki
+url: /wiki/cerebrale-parese/
+categories:
+- CVA
+- Loopproblemen
+- Loopstoornis
+- Neurologie
+tags:
+- coordinatie problemen
+- cva
+- hersenletsel
+- motorische stoornissen
+- ontstekingen
+- parese
+- spastisch
+- spierzwakte
+- zuurstofgebrek
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 128188000
+
+description : Cerebrale parese (CP) is de algemene aanduiding om een groep stoornissen te beschrijven.  CP wordt veroorzaakt door hersenletsel, zoals ontsteking, beroerte, trauma of zuurstofgebrek in de hersenen, dat zich voor, tijdens of na de geboorte of in de eerste twee levensjaren voordoet. Het hersenletsel is niet progressief, dat wil zeggen dat het oorspronkelijke letsel niet verergert. Echter, de dagelijkse dingen die in iemands kindertijd door het letsel worden aangedaan, kunnen later in het leven verergeren. Problemen door CP variëren van licht tot ernstig. Mensen met CP kunnen problemen hebben om te zien, horen, voelen, denken of communiceren. Ze kunnen ook toevallen doormaken. CP komt in Nederland bij ongeveer 3.6 kinderen op elke 1000 geboortes voor. Het aantal kinderen bij wie CP wordt vastgesteld is recentelijk gegroeid door de toegenomen overlevingskansen van vroeggeboren baby’s en baby’s met een laag geboortegewicht. De gemiddelde levensverwachting van volwassenen met CP is ook toegenomen. Mensen met CP hebben in alle stadia van hun leven baat bij fysiotherapie. Fysiotherapeuten zijn experts om mensen met CP bij te staan hum lichamelijke functies te verbeteren. Ze kunnen ze helpen om actief en gezond te blijven en ADL (dagelijkse dingen) uit te voeren zoals wandelen, een rolstoel gebruiken en in en uit een rolstoel, badkuip of auto komen.
+
+symptoms:
+  - name: Gebrek aan coördinatie
+    code:
+      codeValue: "281016006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijve gewrichten, die niet helemaal kunnen buigen of strekken, met name in de handen, ellebogen, heupen, knieën en enkels
+    code:
+      codeValue: "84445001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierzwakte of afname van bewegingen die het kind al uitvoerde.
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gewrichtspijn, vaak veroorzaakt door spierspanning of een slechte houding
+    code:
+      codeValue: "57676002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Visusproblemen (problemen met het zicht)
+    code:
+      codeValue: "63102001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gespannen spieren, wat verergert door stress, ziekte en door verloop van tijd.
+
+  - name: Gebrek aan efficiënte beweging van de benen, armen, romp of nek
+
+  - name: Slappe spieren, vooral in de nek of de romp
+
+  - name: Tremoren (trillingen van de spieren)
+
+  - name: Moeite met spreken of begrepen worden
+
+  - name: Leerstoornissen (ondanks dat het kind een normale intelligentie heeft)
+
+  - name: Gehoorproblemen
+
+  - name: Toevallen
+
+  - name: Verminderde kracht van de mondspieren of verminderde coördinatie, wat leidt tot problemen met eten.
+
+  - name: Obstipatie
+
+  - name: Moeite met het ophouden van urine
+
+  - name: Langzame groei
+
+  - name: Stoornissen in intelligentie
+
+---

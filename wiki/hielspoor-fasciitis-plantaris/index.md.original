@@ -1,0 +1,80 @@
+---
+author: olivier-blaauw
+date: 2017-05-06 09:05:35+00:00
+draft: false
+isentity: true
+title: Hielspoor ("Fasciitis plantaris")
+type: wiki
+url: /wiki/hielspoor-fasciitis-plantaris/
+categories:
+- Voet
+tags:
+- faciitis plantaris
+- Hielspoor (“Fasciitis plantaris”)
+- lopen op blote voeten
+- peesplaat
+- platvoeten
+- steunzolen
+- strechen
+
+alternate_names:
+  - calcaneusspoor
+
+datepublished: 2017-05-06
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 55260003
+
+description: Hielspoor is een aandoening die pijn in de hiel veroorzaakt. De fascia plantaris, of peesplaat, een dikke weefselband, die de wreef ondersteunt en de hiel met de bal van de voet verbindt kan ontstoken raken of scheuren. U kunt pijn voelen als u gewicht op uw voet zet – vooral ’s ochtends bij het nemen van de eerste stappen. De pijn kan op de hiel worden gevoeld, of langs de wreef en de bal van de voet.
+
+symptoms:
+  - name: Pijn in hiel
+    code:
+      codeValue: "2733002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stabbing pain
+    code:
+      codeValue: "55145008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Mank lopen
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - hx7Sbevet0Q
+  - XzIjVJA3pC8
+  - BRHY4wyA5qs
+---
+Hielspoor is een vaak voorkomende aandoening aan de voet. Het komt bij 10% van de bevolking voor ergens tijdens hun leven.
+
+Factoren die aan de ontwikkeling van hielspoor bijdragen zijn onder andere:
+
+* Leeftijd (boven de 40)
+* Werk, sport of hobby waarbij veel moet worden gestaan of een andere gewicht-dragende activiteit moet worden gedaan
+* Snelle toename in duur of niveau van activiteiten, zoals beginnen met een nieuw hardloopschema of beginnen in een baan waarbij meer moet worden gestaan of gelopen dan u gewend bent.
+* Afname van spiersoepelheid
+* Toegenomen lichaamsgewicht (BMI van meer dan 30)
+* Aanleg voor platvoeten (pronatie)
+
+Hielspoor treft mensen van alle leeftijden, zowel sporters als niet-sporters. Mannen en vrouwen lopen evenveel kans op hielspoor.
+
+Behandeling vermindert over het algemeen de pijn en herstelt het vermogen om gewicht op de voet te zetten.
+
+Hielspoor is een vaak voorkomende aandoening aan de voet. Het komt bij 10% van de bevolking voor ergens tijdens hun leven.
+
+Factoren die aan de ontwikkeling van hielspoor bijdragen zijn onder andere:
+
+Leeftijd (boven de 40)
+Werk, sport of hobby waarbij veel moet worden gestaan of een andere gewicht-dragende activiteit moet worden gedaan
+Snelle toename in duur of niveau van activiteiten, zoals beginnen met een nieuw hardloopschema of beginnen in een baan waarbij meer moet worden gestaan of gelopen dan u gewend bent.
+Afname van spiersoepelheid
+Toegenomen lichaamsgewicht (BMI van meer dan 30)
+Aanleg voor platvoeten (pronatie)
+Hielspoor treft mensen van alle leeftijden, zowel sporters als niet-sporters. Mannen en vrouwen lopen evenveel kans op hielspoor.
+
+Behandeling vermindert over het algemeen de pijn en herstelt het vermogen om gewicht op de voet te zetten.

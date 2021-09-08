@@ -1,0 +1,66 @@
+---
+author: frank-mulder
+date: 2017-02-07 06:51:54+00:00
+draft: false
+isentity: true
+title: Duizeligheid
+type: wiki
+url: /wiki/duizeligheid/
+categories:
+- Duizeligheid
+- Nek
+tags:
+- duizeligheid
+- evenwichtproblemen
+- hypertone nekspieren
+- paroxismale positiedraaiduizeligheid
+
+alternate_names:
+  -
+
+datepublished: 2017-02-07
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 404640003
+
+description : Duizeligheid is een algemeen probleem, vooral onder oudere volwassenen. In feite is duizeligheid voor mensen boven de 65 één van de meest voorkomende redenen voor bezoek aan een arts en opname in een ziekenhuis. Ongeacht de oorzaak van duizeligheid, is het het beste om zo snel mogelijk hulp te krijgen.
+
+symptoms:
+  - name: Misselijkheid
+    code:
+      codeValue: "422587007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Depressiviteit
+    code:
+      codeValue: "35489007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Vermoeid voelen
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Onrust
+    code:
+      codeValue: "24199005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderd concentratievermogen
+    code:
+      codeValue: "76039005"
+      codingSystem: "SNOMED-CT"    
+
+  - name: Moeite met lopen
+---
+
+ Duizeligheid – en de evenwichtsproblemen, die erbij optreden – kan ontstaan door een aantal factoren:
+
+* Binnenoorstoornissen (“vestibulaire stoornissen”) zoals benigne paroxismale positieduizeligheid
+* Letsel of trauma aan het binnenoor
+* Ziektes zoals artritis of diabetes
+* Hersenaandoeningen zoals ziekte van Parkinson of beroerte
+* Aandoeningen zoals lage bloeddruk
+* Gebruik van bepaalde medicijnen

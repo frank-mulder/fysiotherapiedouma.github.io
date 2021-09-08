@@ -1,0 +1,74 @@
+---
+author: sanne-de-nijs
+date: 2016-12-04 12:39:10+00:00
+draft: false
+isentity: true
+title: Bovenbeenamputatie
+type: wiki
+url: /wiki/bovenbeenamputatie/
+categories:
+- Bovenbeen
+- Loopproblemen
+- Loopstoornis
+- Pijn
+tags:
+- amputatie
+- bovenbeen
+- diabetes
+- fantoompijnen
+- gangreen
+- infectie
+- kanker
+- perifere vaatziektes
+- transfemorale amputatie
+- tumor
+
+alternate_names:
+  -
+
+datepublished: 2016-12-04
+datemodified: 2020-04-24
+
+about: MedicalCondition
+
+snomed_code: 79733001
+
+description : Amputatie van de onderste ledematen is een chirurgische procedure, die wordt uitgevoerd om een door trauma of ziekte beschadigde ledemaat te verwijderen. Ongeveer 27% van de amputaties van de onderste ledematen bestaat uit bovenbeenamputaties. Amputatie komt voor in alle leeftijdsgroepen, maar het vaakst bij mensen van 65 jaar en ouder.
+
+symptoms:
+  - name: Perifere arteriële vaatziekte
+    code:
+      codeValue: "399957001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Diabetes
+    code:
+      codeValue: "73211009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Tumor/kanker
+    code:
+      codeValue: "363346000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Infectie/gangreen
+    code:
+      codeValue: "372070002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Trauma waardoor het onderbeen verpletterd of afgescheurd is
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - RIL_mhNtC-s
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+  - b-JKyIReYn4
+---

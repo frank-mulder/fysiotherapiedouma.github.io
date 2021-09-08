@@ -1,0 +1,65 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-03-24 09:48:16+00:00
+draft: false
+isentity: true
+title: Osteomyelitis van de kaak
+type: wiki
+url: /wiki/osteomyelitis-van-de-kaak/
+categories:
+- Kaak
+tags:
+- botinfectie
+- kaak
+- Kaakpijn
+- osteomyelitis
+- sinus
+
+alternate_names:
+  -
+
+datepublished: 2017-03-24
+datemodified: 2020-05-12
+
+about: MedicalCondition
+
+snomed_code: 87415007
+
+description: Osteomyelitis is een botinfectie. Het temporomandibulaire- of kaakgewricht wordt zelden getroffen door osteomyelitis, maar als het gebeurt, is onmiddellijke aandacht nodig. Tijdens en na de infectie kan zich beperkte mobiliteit van de kaak en nek voordoen. Fysiotherapie draagt bij aan het verbeteren van de mobiliteit in uw kaak zodat uw vermogen om te eten, praten en uw tanden te poetsen weer wordt hersteld.
+
+symptoms:
+  - name: Kaakpijn
+    code:
+      codeValue: "274667000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Koorts
+    code:
+      codeValue: "386661006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid in de kaak
+    code:
+      codeValue: "298231004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Vermoeidheid
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hoofd- en nekpijn
+    code:
+      codeValue: "25064002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in het gezicht
+
+  - name: Gevoeligheid voor aanraking
+
+  - name: Sinus uitvloed
+
+  - name: Verlies van tanden
+
+  - name: Pus (dik, meestal geelwitte vloeistof)          
+---

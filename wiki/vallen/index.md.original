@@ -1,0 +1,68 @@
+---
+author: frank-mulder
+date: 2017-02-06 15:31:00+00:00
+draft: false
+isentity: true
+title: Vallen
+type: wiki
+url: /wiki/vallen/
+categories:
+- Duizeligheid
+- Evenwicht
+- Spieren
+tags:
+- angst
+- antidepressiva
+- duizeligheid
+- evenwichtproblemen
+- instabiliteit
+- multi farmaceutica
+- opstaan
+- stabiliteit
+- vallen
+
+alternate_names:
+  -
+
+datepublished: 2017-02-06
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code: 129839007
+
+description: Een val kan uw vermogen om een actief en onafhankelijk leven te leiden verminderen. Ongeveer een derde van alle mensen boven de 65 en bijna de helft van mensen boven de 80 valt in een jaar tenminste één keer.
+
+symptoms:
+  - name: Verminderend evenwicht
+    code:
+      codeValue: "282302006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spierzwakte
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Coördinatieprobleem
+    code:
+      codeValue: "302289002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Wazig zien
+    code:
+      codeValue: "111516008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Probleem met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+---
+Er zijn meestal verschillende redenen voor een val. Fysiotherapeuten kunnen u helpen om uw valrisico te verkleinen door:
+
+* Uw valrisico te beoordelen
+* U te helpen om uw huis zo veilig mogelijk te maken
+* U te onderrichten over de medische risicofactoren in verband met vallen
+* Een persoonlijk oefenprogramma en evenwichtstraining op te stellen
+* Met andere zorgprofessionals en buurtdiensten samen te werken om een programma te creëren voor mensen, die hun valrisico willen verkleinen

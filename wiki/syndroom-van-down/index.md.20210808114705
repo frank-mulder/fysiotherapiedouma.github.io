@@ -1,0 +1,39 @@
+---
+author: walter-bout
+date: 2017-02-13 14:36:46+00:00
+draft: false
+isentity: true
+title: Syndroom van Down
+type: wiki
+url: /wiki/syndroom-van-down/
+categories:
+- Neurologie
+tags:
+- chromosoom
+- erfelijkheid
+- lichamelijk
+- trisome 21
+- vertraagde ontwikkeling
+
+alternate_names:
+  - trisomie 21
+
+datepublished: 2017-02-13
+datemodified: 2020-05-18
+
+about: MedicalCondition
+
+snomed_code: 41040004
+
+description: Het syndroom van Down treft ongeveer 1 op de 700 baby’s.  Meer dan 6 miljoen wereldwijd hebben het syndroom van Down. De meeste kinderen met het syndroom van Down hebben een vertraagde geestelijke en lichamelijke ontwikkeling. Veel kinderen met Down hebben een intellectuele stoornis en ongeveer 45% van de nieuwgeboren baby’s met het syndroom van Down hebben aangeboren hartafwijkingen.
+
+symptoms:
+  - name: Lage spierspanning
+    code:
+      codeValue: "26544005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Een enkele, diepe plooi over de palm van de hand
+
+  - name: Een licht afgeplat gezichtsprofiel en een opwaartse schuinstand van de ogen
+---

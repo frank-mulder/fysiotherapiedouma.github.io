@@ -1,0 +1,49 @@
+---
+author: manon-klarenbeek
+date: 2017-01-12 19:14:55+00:00
+draft: false
+isentity: true
+title: Dyspraxie
+type: wiki
+url: /wiki/dyspraxie/
+categories:
+- Kind
+- Neurologie
+tags:
+- coordinatie stoornis
+- motorische stoornissen
+- onhandig
+- problemen met ADL
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-27
+
+about: MedicalCondition
+
+snomed_code: 6950007
+
+description : Dyspraxie, of met de Engelse afkorting DCD (Developmental Coordination Disorder), treft ongeveer 5% van de schoolgaande kinderen. Kinderen met DCD hebben problemen met het uitvoeren van dagelijkse activiteiten zoals fietsen, sporten, of huppelen, rennen en springen. Hun handvaardigheden zijn ook vaak aangedaan; Ze hebben een slecht handschrift, hebben problemen met het gebruik van voorwerpen, die je vasthoudt zoals potloden of scharen en doen langer over schoolopdrachten. Ze doen vaak extra moeite om taken uit te voeren, die makkelijk zijn voor andere kinderen, maar kunnen zichzelf lui, onhandig of onbeholpen vinden.
+
+symptoms:
+  - name: Stoornis in motorische vaardigheden
+    code:
+      codeValue: "4949009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Coördinatieprobleem
+    code:
+      codeValue: "302289002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Bewegingsstoornis
+    code:
+      codeValue: "60342002"
+      codingSystem: "SNOMED-CT"
+---
+
+**Dyspraxie, of met de Engelse afkorting DCD (Developmental Coordination Disorder), treft ongeveer 5% van de schoolgaande kinderen. **
+
+**Kinderen met DCD hebben problemen met het uitvoeren van dagelijkse activiteiten zoals fietsen, sporten, of huppelen, rennen en springen. Hun handvaardigheden zijn ook vaak aangedaan; Ze hebben een slecht handschrift, hebben problemen met het gebruik van voorwerpen, die je vasthoudt zoals potloden of scharen en doen langer over schoolopdrachten. Ze doen vaak extra moeite om taken uit te voeren, die makkelijk zijn voor andere kinderen, maar kunnen zichzelf lui, onhandig of onbeholpen vinden.**

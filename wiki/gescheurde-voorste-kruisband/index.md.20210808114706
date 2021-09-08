@@ -1,0 +1,76 @@
+---
+author: olivier-blaauw
+date: 2016-12-04 16:42:52+00:00
+draft: false
+isentity: true
+title: Gescheurde voorste kruisband
+type: wiki
+url: /wiki/gescheurde-voorste-kruisband/
+categories:
+- Sportblessures
+tags:
+- atleten
+- atletiek
+- basketballen
+- basketballer
+- gymnast
+- gymnastiek
+- knie
+- kruisband
+- skiën
+- skiër
+- voetballen
+- voetballer
+- voorste kruisband
+
+alternate_names:
+  -
+
+datepublished: 2016-12-04
+datemodified: 2020-04-30
+
+about: MedicalCondition
+
+snomed_code: 239725005
+
+description: Een gescheurde voorste kruisband is een blessure van de knie die meestal voetballers, basketballers, skiërs, gymnasten en andere atleten treft. Ongeveer 70% van de gescheurde voorste kruisbanden zijn het resultaat van letsel zonder contact; 30% zijn het gevolg van direct contact (speler-speler, speler-voorwerp). Vrouwen hebben 4-6 keer meer kans op een gescheurde voorste kruisband.
+
+symptoms:
+  - name: Zwelling van kniegewricht
+    code:
+      codeValue: "239721001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Scherpe pijn
+    code:
+      codeValue: "8708008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Mank lopen
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+videos:
+  - m5bvAt17Itw
+  - R-wDoUyQ5gY
+  - rYv2QUNXbI0
+  - y7cF1T1N774
+  - yO0uAfLXoLU
+  - D8AsfDZVqKo
+  - WVal4FR2KT4
+  - 89MQ9jcPHcE
+  - RIL_mhNtC-s
+  - vvyV5OqrbF4
+  - 4KnH1lhrK_E
+  - 8WqA9rVRbOE
+  - iO1ZQRtoblo
+  - b-JKyIReYn4
+---
+Normalerwijs wordt u direct na het letsel onderzocht door een fysiotherapeut of een orthopedisch chirurg. De meeste mensen die een gescheurde voorste kruisband krijgen zullen geopereerd worden om de scheur te repareren; sommige mensen vermijden een operatie echter door hun fysieke activiteit aan te passen, zodat ze weinig druk op de knie zetten. Een kleine groep lukt het om zonder een operatie na revalidatie terug te keren naar zware lichamelijke activiteit.
+
+Uw fysiotherapeut kan u samen met de chirurg helpen om vast te stellen of behandeling zonder operatie (revalidatie zonder chirurgie) voor u een optie is. Als u voor een operatie heeft gekozen, zal uw fysiotherapeut u zowel helpen bij de voorbereiding op de operatie als het herstellen van uw kracht en beweging na de operatie.
+
+Normalerwijs wordt u direct na het letsel onderzocht door een fysiotherapeut of een orthopedisch chirurg. De meeste mensen die een gescheurde voorste kruisband krijgen zullen geopereerd worden om de scheur te repareren; sommige mensen vermijden een operatie echter door hun fysieke activiteit aan te passen, zodat ze weinig druk op de knie zetten. Een kleine groep lukt het om zonder een operatie na revalidatie terug te keren naar zware lichamelijke activiteit.
+
+Uw fysiotherapeut kan u samen met de chirurg helpen om vast te stellen of behandeling zonder operatie (revalidatie zonder chirurgie) voor u een optie is. Als u voor een operatie heeft gekozen, zal uw fysiotherapeut u zowel helpen bij de voorbereiding op de operatie als het herstellen van uw kracht en beweging na de operatie.

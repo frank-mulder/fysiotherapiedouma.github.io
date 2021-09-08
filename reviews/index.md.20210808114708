@@ -1,0 +1,16 @@
+---
+author: frank-mulder
+date: 2021-01-14 12:25:49+00:00
+draft: false
+title: Reviews van onze patiënten - Fysiotherapie Douma
+description: Benieuwd naar de ervaringen van onze patiënten? Bekijk dan de reviews die wij voor onze fysiotherapie behandelingen hebben ontvangen.
+url: /reviews/
+type: page
+---
+{{< box >}}
+# Reviews van patiënten
+Onze patiënten zijn erg tevreden over onze zorgverlening. Hieronder lees je reviews en testimonials die zij over ons hebben geschreven bij [Feedback Company](https://www.feedbackcompany.com/nl-nl/reviews/fysiotherapie%2ddouma/). Verder kun je ook nog reviews vinden op diverse beoordelingssites, zoals [Google](https://g.page/DoumaFysio/review), [Independer](https://www.independer.nl/fysiotherapie/regio/gooi-en-vechtstreek/hilversum/fysiotherapie-douma/diependaalselaan-337%20a.aspx?id=214453997), [ZorgkaartNederland](https://www.zorgkaartnederland.nl/zorginstelling/fysiotherapiepraktijk-fysiotherapie-douma-hilversum-hilversum-10001916), [Yelp](https://www.yelp.nl/biz/fysiotherapie-douma-hilversum-hilversum), [Facebook](https://www.facebook.com/fysiodouma/) en dergelijke.
+
+{{< showreviews >}}
+
+{{< /box >}}

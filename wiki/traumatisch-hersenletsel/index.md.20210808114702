@@ -1,0 +1,56 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-05-16 06:53:05+00:00
+draft: false
+isentity: true
+title: Traumatisch hersenletsel
+type: wiki
+url: /wiki/traumatisch-hersenletsel/
+categories:
+- Hoofd
+tags:
+- auto-ongeval
+- hersenletsel
+- klappen tegen hoofd
+- schade door ongeval
+- trauma
+- traumatisch hersenletsel
+
+alternate_names:
+  -
+
+datepublished: 2017-05-16
+datemodified: 2020-05-23
+
+about: MedicalCondition
+
+snomed_code:
+
+description: Traumatisch hersenletsel ontstaat wanneer door trauma schade wordt toegebracht aan de manier waarop het brein functioneert. De meest voorkomende oorzaken van traumatisch hersenletsel zijn vallen, auto-ongelukken en klappen tegen het hoofd.
+
+symptoms:
+  - name: Problemen met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Verminderend evenwicht
+    code:
+      codeValue: "282302006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Concentratieprobleem
+    code:
+      codeValue: "76039005"
+      codingSystem: "SNOMED-CT"
+
+  - name: Wazig zien
+    code:
+      codeValue: "111516008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Coördinatieprobleem
+    code:
+      codeValue: "302289002"
+      codingSystem: "SNOMED-CT"
+---

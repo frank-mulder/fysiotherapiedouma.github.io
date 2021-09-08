@@ -1,0 +1,71 @@
+---
+author: frank-mulder
+date: 2017-05-18 08:56:45+00:00
+draft: false
+isentity: true
+title: Schoudergordelsyndroom (thoracic outlet syndroom)
+type: wiki
+url: /wiki/schoudergordelsyndroom-thoracic-outlet-syndroom/
+categories:
+- Gewrichten
+- Schouder
+tags:
+- inklemming
+- schoudergordelsyndroom
+- thoracic outlet syndroom
+- TOS
+- uitstraling
+- zenuwinklemming
+
+alternate_names:
+  - TOS
+
+datepublished: 2017-05-18
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 128210009
+
+description: Thoracic outlet syndroom (TOS) of schoudergordelsyndroom is een potentieel pijnlijke en beperkende aandoening van het bovenste ledemaat. Het ontstaat door compressie van structuren in de thoracic outlet, de ruimte net boven de eerste rib en achter de clavicula (sleutelbeen).
+
+symptoms:
+  - name: Pijn aan hand
+    code:
+      codeValue: "53057004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Gevoelloosheid en tinteling
+    code:
+      codeValue: "62507009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling in de arm
+    code:
+      codeValue: "449619004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Hoofdpijn
+    code:
+      codeValue: "25064002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Doof gevoel
+    code:
+      codeValue: "44077006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Het koud hebben of niet goed tegen kou kunnen
+
+  - name: Pijn in de arm
+
+  - name: Verandering van kleur van de arm (ziet er blauwig uit)
+
+  - name: Zwaar gevoel in de arm
+
+  - name: Onhandigheid met de hand
+
+  - name: Kou en verkleuring in de hand
+
+  - name: Nadrukkelijker symptomen in de nacht dan overdag
+---

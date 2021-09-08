@@ -1,0 +1,68 @@
+---
+author: gerjanne-van-der-borden-van-roekel
+date: 2017-02-24 09:41:08+00:00
+draft: false
+isentity: true
+title: Multiple sclerose
+type: wiki
+url: /wiki/multiple-sclerose/
+categories:
+- Neurologie
+- Spierziekte
+tags:
+- lumbaalpunctie
+- myeline
+- spierzwakte
+- spraakproblemen
+- vermoeidheidsproblemen
+
+alternate_names:
+  - MS
+
+datepublished: 2017-02-24
+datemodified: 2020-05-06
+
+about: MedicalCondition
+
+snomed_code: 24700007
+
+description: Multiple sclerose (MS) is een chronische ziekte waarbij ontstekingen ontstaan in het centrale zenuwstelsel (de hersenen en het ruggenmerg). Het centrale zenuwstelsel kan bij MS bepaalde signalen niet goed verwerken, dit komt omdat de isolatielaag (myeline) rondom de zenuwen is aangetast. Dit kan diverse uitvalsverschijnselen geven, denk hierbij aan krachtsverlies, blindheid, extreme moeheid en geheugenproblemen.
+
+symptoms:
+  - name: Vermoeidheid die niet overgaat na rust
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Evenwichtsproblemen
+    code:
+      codeValue: "387603000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Spraakproblemen
+    code:
+      codeValue: "267095009"
+      codingSystem: "SNOMED-CT"
+
+  - name: Emotionele of stemmingsproblemen, waaronder depressiviteit
+    code:
+      codeValue: "35489007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid en spasmes of een zwaar gevoel in uw armen en benen
+
+  - name: Blaas- en darmproblemen zoals aandrang of verlies
+
+  - name: Geheugen- en denkproblemen
+
+  - name: Pijn en andere onplezierig gevoel
+
+  - name: Zichtproblemen, hoewel het zicht op zichzelf goed kan zijn
+
+  - name: Duizeligheid of draaiduizeligheid
+---

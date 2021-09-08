@@ -1,0 +1,70 @@
+---
+author: sandra-koekkoek
+date: 2019-01-21 12:56:41+00:00
+draft: false
+title: BBB Training in Hilversum - Fysiotherapie Douma
+description: Train je benen, billen en buikspieren voor een goede basiskracht en dat strakke lichaam. Onder begeleiding van een ervaren sportfysiotherapeut ga je aan de slag.
+type: page
+useFitnessRegister: true
+url: /bbb-training/
+images:
+  - /images/headers/bbb-training.jpg
+---
+<div>{{< headerimage src="images/headers/bbb-training.jpg" title="Benen, Billen, Core Groepsles in Hilversum" button1="Afspraak maken" button1link="/aanmelden/" >}}
+Train je benen, billen en core voor een goede basiskracht en dat strakke lichaam.
+{{< /headerimage >}}</div>
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Waarom Benen, Billen, Core?
+Met de BBC Training pak je drie spiergroepen aan in kore tijd: de beenspieren, bilspieren en je core. Een goede balans tussen cardiotraining en krachttraining zorgt ervoor dat je niet alleen veel calorieën verbrandt, maar ook nog eens sterker en strakker wordt. Deze training is in groepsverband, dus je kunt extra resultaat behalen door samen te werken.
+
+Ben jij klaar voor de start? Bekijk de tarieven.
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+{{< embedimage img="images/photos/cardiotraining.jpg" alt="" >}}
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft>}}
+## Wat houdt deze Benen, Billen, Core Groepsles in?
+De BBC groep is een leuke groep voor mensen die een actieve les willen welke zich specifiek focust op de benen, billen en core. Tijdens deze les zal er een combinatie van kracht en conditie getraind worden. Hierbij wordt er gebruik gemaakt van verschillende materialen, waaronder gewichten, kettlebells en elastieken. Doordat een aantal oefeningen met gewichten worden uitgevoerd zal er getraind worden onder een verhoogde weerstand. Hierdoor wordt zowel een afname van het vetpercentage als krachtigere spieren gerealiseerd. De trainingen duren slechts één uur. Kortom: in een korte tijd boek je veel resultaat.
+{{< /twotoneleft >}}
+{{< twotoneright color="bg-blue">}}
+## Voordelen van Benen, Billen, Core Training
+* In 1 uur train je 3 verschillende spiergroepen maximaal
+* Train en werk aan meerdere trainingsdoelen tegelijk
+* Begeleiding van een sport-en beweegprofessional
+* Train op je eigen niveau
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< twotone style="p-sm" >}}
+{{< twotoneleft color="bg-blue">}}
+## Maandabonnement
+1x per week  
+€ 25,00 per maand  
+€ 70,00 per kwartaal  
+€ 250,00 per jaar
+
+2x per week  
+€ 40,00 per maand  
+€ 110,00 per kwartaal  
+€ 400,00 per jaar
+
+3x per week  
+€ 50,00 per maand  
+€ 140,00 per kwartaal  
+€ 500,00 per jaar
+
+* Betaling via automatische incasso  
+* Maandelijks opzegbaar  
+* Wij hanteren geen inschrijfgeld
+* Gratis proefles!
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Inschrijfformulier
+{{< fitnessaanmelden >}}
+{{< /twotoneright >}}
+{{< /twotone >}}

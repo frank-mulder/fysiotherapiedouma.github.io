@@ -1,0 +1,54 @@
+---
+author: maaike-van-dijk-krook
+date: 2017-05-16 08:20:46+00:00
+draft: false
+isentity: true
+title: Reumatoïde artritis
+type: wiki
+url: /wiki/reumatoide-artritis/
+categories:
+- Gewrichten
+- Stofwisseling
+tags:
+- arthritis
+- auto-immuunziekte
+- koorts
+- onstekingsziekte
+- roodheid
+- stijve gewrichten
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-05-16
+datemodified: 2020-05-13
+
+about: MedicalCondition
+
+snomed_code: 69896004
+
+description: Reumatoïde artritis is een chronische ontstekingsziekte die ongeveer 1% van de bevolking van Nederland treft. Reumatoïde artritis leidt vaak tot pijn en ontsteking in gewrichten aan beide kanten van het lichaam en kan invaliderend worden door het effect op het immuunsysteem. Een fysiotherapeut kan helpen om de symptomen van reumatoïde artritis te managen en iemands kwaliteit van leven te verhogen.
+
+symptoms:
+  - name: Stijve gewrichten die in de ochtend slechter aanvoelen.
+    code:
+      codeValue: "722450007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Aanvallen van vermoeidheid en algemeen ongemak
+    code:
+      codeValue: "84229001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Koorts
+    code:
+      codeValue: "386661006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijnlijke en gezwollen gewrichten aan beide kanten van het lichaam
+
+  - name: Verlies van functionaliteit van het gewricht
+
+  - name: Roodheid, warmte en gevoeligheid in en rond het gewricht.
+---

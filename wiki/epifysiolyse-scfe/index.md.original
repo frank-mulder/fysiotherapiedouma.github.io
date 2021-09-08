@@ -1,0 +1,58 @@
+---
+author: frank-mulder
+date: 2017-05-01 13:17:39+00:00
+draft: false
+isentity: true
+title: Epifysiolyse (SCFE)
+type: wiki
+url: /wiki/epifysiolyse-scfe/
+categories:
+- Bekken
+- Gewrichten
+- Heup
+- Loopstoornis
+tags:
+- caput femoris
+- epifysairschijf
+- epifysiolyse
+- femur
+- heupstoornis
+- loopstoornis
+- mank lopen
+
+alternate_names:
+  -
+
+datepublished: 2017-05-01
+datemodified: 2020-04-28
+
+about: MedicalCondition
+
+snomed_code: 26460006
+
+description : Epifysiolyse is een heupstoornis waarbij het lange bot in het onderste ledemaat (de femur), de kop van de femur (caput femoris) en de groeiplaat aan het einde van de femur (epifysairschijf). SCFE wordt beschreven als het afglijden van de femurkop (de bal in het heupgewricht) door de groeiplaat heen en van het dijbeen af. Groeiplaten zijn gemaakt van kraakbeen, wat een zwakkere substantie dan bot is. Vanaf het moment dat de kop van de femur door de groeiplaat heen glipt, of de positie ten opzichte van de groeiplaat is verslechterd, ligt de diagnose SCFE voor de hand.
+
+symptoms:
+  - name: Mank lopen
+    code:
+      codeValue: "16973004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in het been, de knie of de lies
+    code:
+      codeValue: "10601006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Afgenomen bewegingsbereik (beweging in de heup en het been)
+    code:
+      codeValue: "298222004"
+      codingSystem: "SNOMED-CT"
+
+  - name: Moeite met lopen
+    code:
+      codeValue: "228158008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Algemeen verlies van functionaliteit (in ernstiger gevallen)
+
+---

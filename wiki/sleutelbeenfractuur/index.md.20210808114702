@@ -1,0 +1,51 @@
+---
+author: frank-mulder
+date: 2017-01-12 19:20:25+00:00
+draft: false
+isentity: true
+title: Sleutelbeenfractuur
+type: wiki
+url: /wiki/sleutelbeenfractuur/
+categories:
+- Schouder
+tags:
+- clavicula
+- fractuur
+- schouder
+- schouderletsel
+- sleutelbeen
+- sleutelbeenfractuur
+
+alternate_names:
+- fractuur van clavicula
+
+datepublished: 2017-01-12
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 58150001
+
+description: De clavicula, of sleutelbeen, verbindt de arm met het lichaam en helpt het stabiliseren van de schouder en de arm als ze bewegen. Een sleutelbeenfractuur is vaak voorkomend schouderletsel, 35% van al het schouderletsel. Het letsel wordt meestal veroorzaakt door trauma, zoals een directe klap op de schouder of een val en wordt het vaakst vastgesteld bij mensen onder de 20. Het komst het meest voor bij jonge mannen ten gevolge van sportletsel. Bij oudere mensen wordt het meestal veroorzaakt door een val.
+
+symptoms:
+  - name: Bloeduitstorting
+    code:
+      codeValue: "302227002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Zwelling
+    code:
+      codeValue: ""
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn wordt meestal in het gebied van de clavicula gevoelt. In ernstige gevallen kunnen zich pijn in de arm of veranderingen in het gevoel voordoen.
+
+  - name: Onvermogen om de arm op te tillen
+
+  - name: Schurend gevoel bij beweging
+
+  - name: Een bobbel op het gewonde gebied
+---
+
+**De meeste sleutelbeenfracturen worden zonder een operatie (conservatief) behandeld, maar meer complexe breuken kunnen een operatie nodig hebben. In ieder geval kan een fysiotherapeut helpen bij de bevordering van de genezing en een veilige terugkeer naar de gewone activiteiten door pijnbeheersing, begeleide oefeningen en functionele training.**

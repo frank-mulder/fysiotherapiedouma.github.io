@@ -1,0 +1,78 @@
+---
+author: piet-douma
+date: 2017-02-13 14:22:44+00:00
+draft: false
+isentity: true
+title: Slijmbeursontsteking van de heup
+type: wiki
+url: /wiki/slijmbeursontsteking-van-de-heup/
+categories:
+- Heup
+tags:
+- heup
+- pijn
+- slijmbeuronsteking
+- stijfheid
+- zwelling
+
+alternate_names:
+  - bursitis van heup
+
+datepublished: 2017-02-13
+datemodified: 2020-05-16
+
+about: MedicalCondition
+
+snomed_code: 81498004
+
+description: Een slijmbeursontsteking (bursitis) van de heup is een pijnlijke aandoening waardoor 15% van alle vrouwen en 8,5% van alle mannen in Nederland worden getroffen. De aandoening neigt zich vooral te ontwikkelen bij mensen van middelbare leeftijd en bij ouderen. Slijmbeursontsteking van de heup kan vele oorzaken hebben, maar de meest voorkomende is een herhaalde activiteit, zoals lopen of hardlopen op een oneven ondergrond waardoor wrijving in de heupstreek ontstaat. Sporters ontwikkelen slijmbeursontsteking in de heup vaak na herhaaldelijk heuvels op en af te rennen. De aandoening kan ook veroorzaakt worden door afwijkend lopen, zoals manklopen ten gevolge van ongelijke lengte van de benen of gewrichtsontsteking in de rug, heup, knie of andere beengewrichten. Het kan zich ook voordoen zonder een aanwijsbare reden. Fysiotherapie kan een effectieve behandeling zijn voor een slijmbeursontsteking van de heup om de pijn, zwelling, stijfheid en verwante zwakte in de heup, rug of onderste ledematen te verminderen.
+
+symptoms:
+  - name: Heupgewricht pijnlijk bij beweging
+    code:
+      codeValue: "299308007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in bilstreek
+    code:
+      codeValue: "279043006"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn in dijbeen
+    code:
+      codeValue: "301773003"
+      codingSystem: "SNOMED-CT"
+
+  - name: Pijn aan de buitenkant van de heup, dij, bil, of buitenkant van het bee
+
+  - name: Pijn als u met uw vingers op de buitenkant van de heup drukt
+
+  - name: Pijn als u op de aangedane heup ligt
+
+  - name: Pijn bij het traplopen
+
+  - name: Pijn die erger wordt als u van zitten naar staan gaat, zoals vanuit een lage of autostoel
+
+  - name: Pijn bij het lopen of hardlopen
+
+  - name: Pijn als u uw been naar de zijkant optilt
+
+  - name: Pijn bij het zitten met over elkaar geslagen benen
+
+videos:
+  - nYjAwLSScv4
+  - DGwW8x6hkgI
+  - 34wuJCU0u_E
+  - WnZVUTeuAks
+  - rYv2QUNXbI0
+  - WIYVgxCt1EA
+  - QSj4nPpNs9Y
+  - mfcXNPfDdxw
+  - 2utlvzNwhnQ
+  - e98LZssEh7s
+  - jCGmOIE3P2k
+  - yd7EqGgZFPI
+  - vvyV5OqrbF4
+  - sfftWaMFQpE
+  - RIL_mhNtC-s
+---

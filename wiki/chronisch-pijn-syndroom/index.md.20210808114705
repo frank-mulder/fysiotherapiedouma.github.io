@@ -1,0 +1,85 @@
+---
+author: bas-van-baaden
+date: 2017-01-12 18:58:59+00:00
+draft: false
+isentity: true
+title: Chronisch pijn syndroom
+type: wiki
+url: /wiki/chronisch-pijn-syndroom/
+categories:
+- Loopproblemen
+- Neurologie
+- Pijn
+tags:
+- acute pijn
+- chronische pijn
+- Dystrofie
+- fibromyalgie
+- gewrichtsstijfheid
+- pijn
+- spierzwakte
+- stijfheid
+- zwelling
+
+alternate_names:
+  -
+
+datepublished: 2017-01-12
+datemodified: 2020-04-25
+
+about: MedicalCondition
+
+snomed_code: 203082005
+
+description : Chronische pijn is een aandoening die zich voordoet wanneer de hersenen, gebaseerd op de vele signalen die ze ontvangen van het lichaam, vinden dat er een bedreiging is van iemands welzijn. Deze aandoening kan zich voordoen en doet zich ook voor onafhankelijk van enige daadwerkelijke lichaamsweefselschade (ten gevolge van letsel of ziekte) en nog na de normale periode van weefselherstel.
+
+symptoms:
+  - name: Gewichtstoename en/of verslechtering van andere aandoeningen
+    code:
+      codeValue: "8943002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Chronische pijn
+    code:
+      codeValue: "82423001"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stabbing pain
+    code:
+      codeValue: "55145008"
+      codingSystem: "SNOMED-CT"
+
+  - name: Angstigheid
+    code:
+      codeValue: "48694002"
+      codingSystem: "SNOMED-CT"
+
+  - name: Slechte perifere circulatie
+    code:
+      codeValue: "4249000"
+      codingSystem: "SNOMED-CT"
+
+  - name: Stijfheid in het lichaam
+
+  - name: Slechtere conditie
+
+  - name: Toegenomen medicijngebruik
+
+---
+
+** **
+
+De oorzaken van chronische pijn zijn zeer verschillend. Hoewel elke aandoening tot chronische pijn kan leiden, leiden bepaalde aandoeningen vaker tot chronische pijn, waaronder:
+
+
+
+* Trauma/letsel
+
+* Diabetes mellitus
+* Fibromyalgie
+* Amputatie van een ledemaat
+* Reflex of sympathische dystrofie
+
+Sommige ziektes, zoals kanker en artritis, veroorzaken constante pijn. Bij chronische pijn wordt de pijn echter in het zenuwstelsel gecreëerd, zelfs nadat lichaamsweefsel al weer is genezen.
+
+Soms leidt chronische pijn tot verlaagde activiteit, baanverlies of financiële problemen, maar ook tot bezorgdheid, depressie en invaliditeit. Fysiotherapeuten werken met chronische pijn patiënten om hun pijn te verminderen en hun activiteit op het hoogst mogelijke niveau te houden. Met behandeling kunnen de negatieve effecten van chronische pijn worden verminderd.

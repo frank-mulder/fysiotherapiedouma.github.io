@@ -1,0 +1,62 @@
+---
+author: kaj-moorman
+date: 2016-12-19 10:30:38+00:00
+draft: false
+isentity: true
+title: Biceps Tendinopathie
+type: wiki
+url: /wiki/biceps-tendinopathie/
+categories:
+- Bovenarm
+- Elleboog
+- Pezen
+- Pijn
+- Schouder
+- Sportblessures
+tags:
+- biceps
+- biceps tendinopathie
+- bicepsspier
+- buigpees
+- rotatorenmanchet
+- schouder
+- schouderkapsel
+- schouderpijn
+- tendinopathie
+
+alternate_names:
+  - tendinitis van bicepspees
+
+datepublished: 2016-12-19
+datemodified: 2020-04-24
+
+about: MedicalCondition
+
+snomed_code: 202856007
+
+description : Biceps tendinopathie is een veel voorkomende oorzaak van schouderpijn, die zich vaak voordoet bij mensen die herhaalde bewegingen boven het hoofd maken. Biceps tendinopathie ontstaat in de loop der tijd met pijn aan de voorkant van de schouder en verergert meestal bij voortdurende activiteit. Bij het behandelen van biceps tendinopathie zoeken fysiotherapeuten over het algemeen naar de exacte bron van de pijn door het beoordelen van de hele schouder en schrijven meestal een programma voor om activiteiten aan te passen, te strekken en kracht te trainen om de pijn te verminderen en mensen terug te laten keren naar hun gewenste activiteiten.
+
+symptoms:
+  - name: Zwakte rond het schoudergewricht, meestal bij tillen of dragen van dingen of boven het hoofd reiken
+    code:
+      codeValue: "202856007"
+      codingSystem: "SNOMED-CT"
+
+  - name: Scherpe pijn aan de voorkant van de schouder als u boven uw hoofd reikt
+
+  - name: Gevoeligheid voor aanraking van de voorkant van de schouder
+
+  - name: Pijn die naar de nek straalt of naar de voorkant van de arm
+
+  - name: Doffe pijn aan de voorkant van de schouder, met name na activiteit
+
+  - name: Een gevoel van “vastzetten” of “klikken” aan de voorkant van de schouder bij beweging
+
+  - name: Pijn bij het gooien van een bal
+
+  - name: Moeite met dagelijkse dingen, zoals achter uw rug reiken om uw shirt in te stoppen of het opbergen van servies in een keukenkastje
+
+videos:
+  - gXYM4VNoyKs
+  - gcPAAD1wZAE
+---
