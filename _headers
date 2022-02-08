@@ -1,0 +1,9 @@
+/*
+  Content-Security-Policy: base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self'
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-XSS-Protection: 1; mode=block
+  Strict-Transport-Security: max-age=2592000; includeSubDomains; preload
+  Permissions-Policy: camera=(), fullscreen=(self), geolocation=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=(), speaker-selection=()
+  Cache-Control: max-age=2592000

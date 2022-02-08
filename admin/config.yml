@@ -2,6 +2,7 @@ backend:
   name: github
   branch: master
   repo: fysiotherapiedouma/FDwebsite
+  site_domain: fysiodouma.netlify.app
 
 publish_mode: editorial_workflow
 
@@ -12,28 +13,69 @@ site_url: https://www.fysiodouma.nl
 display_url: https://www.fysiodouma.nl
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "_posts/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  - name: "specialisaties"
+    label: "Specialisaties"
+    folder: "content/dutch/specialisatie"
+    nested:
+      depth: 100
+      summary: '{{title}}'
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "locaties"
+    label: "Locaties"
+    folder: "content/dutch/locatie"
+    nested:
+      depth: 100
+      summary: '{{title}}'
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "medewerkers"
+    label: "Medewerkers"
+    folder: "content/dutch/medewerker"
+    nested:
+      depth: 100
+      summary: '{{title}}'
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro", name: "intro", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "samenwerkingen"
+    label: "Samenwerkingen"
+    folder: "content/dutch/samenwerkingen"
+    nested:
+      depth: 100
+      summary: '{{title}}'
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "pages"
-    label: "Page"
+    label: "Overige pagina's"
     folder: "content/dutch/page"
     nested:
       depth: 100
       summary: '{{title}}'
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "special"
+    label: "Speciale pagina's"
+    files:
+      - name: "home"
+        label: "Homepagina"
+        file: content/dutch/_index.md
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Body", name: "body", widget: "markdown"}

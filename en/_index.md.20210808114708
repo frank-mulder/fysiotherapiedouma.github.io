@@ -1,0 +1,48 @@
+---
+title: "Fysiotherapie Douma in Hilversum: Uw fysiotherapeut in de buurt"
+author: frank-mulder
+date: 2021-01-21
+datepublished: 2021-01-21
+type: page
+description: "Fysiotherapie in Hilversum: Alle soorten fysiotherapie onder één dak op meerdere locaties in Hilversum."
+schemapage: website
+images:
+  - images/headers/Fysiotherapie-Douma-Hilversum-Oefenzaal-head.jpg
+---
+<div>{{< headerimage-frontpage src="images/headers/Fysiotherapie-Douma-Hilversum-Oefenzaal-head.jpg" title="Fysiotherapie Douma Hilversum" button1="Bel ons en maak vandaag nog een afspraak" button1link="tel:0356216812" >}}
+Of maak [online een afspraak](/aanmelden/)
+{{< /headerimage-frontpage >}}</div>
+{{< twotone style="p-sm" >}}
+{{< twotoneleft >}}
+## {{< today >}} Fysiotherapie Douma is geopend voor alle reguliere zorg en vrij trainen
+
+Het is veilig en verantwoord om bij ons een afspraak te maken voor fysiotherapie.
+
+Klik op de onderstaande knop om voor meer informatie:
+
+{{< button type="secondary" href="/coronavirus/" >}}Update coronavirus &raquo;{{< /button >}}
+{{< /twotoneleft >}}
+{{< twotoneright >}}
+## Fysiotherapie Douma helpt coronapatiënten weer op krachten komen
+
+Een besmetting met het Coronavirus (COVID-19) kan een forse impact hebben op uw gezondheid. In een interview met het Parool vertelde een coronapatiënt hoe hij weer op krachten kwam onder begeleiding van Fysiotherapie Douma in Hilversum.
+
+Zeker wanneer u op de IC bent beland, kan het revalidatietraject zwaar zijn. De juiste begeleiding van verschillende experts kan uw herstel enorm bevorderen.
+
+Lees meer op [het Parool](https://www.parool.nl/nederland/na-de-ic-wacht-het-lange-herstel-mensen-weten-niet-wat-ze-overkomt~bc01bc22/).
+{{< /twotoneright >}}
+{{< /twotone >}}
+
+{{< ctacard src="images/cards/Fysiotherapie-Douma-Receptie.jpg" color="color2" >}}
+Voor alle [fysiotherapie](/fysiotherapie/) in Hilversum kunt u bij Fysiotherapie Douma terecht. Met 3 locaties in Hilversum is er altijd een locatie bij u in de buurt. De fysiotherapeuten bij Fysiotherapie Douma hebben allemaal hun eigen specialisatie en komen indien nodig aan huis in het gehele Gooi. Nog nooit bij ons geweest? Geen probleem! Wij ontvangen je graag in één van onze fysiotherapiepraktijken.
+
+<a role="button" class="btn-secondary cta-card__btn" href="/specialisaties/">Specialisaties</a>
+<a role="button" class="btn-secondary cta-card__btn" href="/openingstijden/">Openingstijden</a>
+<a role="button" class="btn-secondary cta-card__btn" href="/wiki/">Kennisbank</a>
+<a role="button" class="btn-secondary cta-card__btn" href="/contact/">Stel je vraag</a>
+{{< /ctacard >}}
+
+{{< box >}}
+{{< showlatestreviews >}}
+
+{{< /box >}}

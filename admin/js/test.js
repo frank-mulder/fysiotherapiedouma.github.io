@@ -5,7 +5,9 @@ CMS.registerEditorComponent({
       {
         name: "btn_type",
         label: "Type",
-        widget: "string"
+        widget: "select",
+        options: ["primary","secondary"],
+        default: "primary"
       },
       {
         name: "btn_class",
